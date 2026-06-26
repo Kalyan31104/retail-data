@@ -1,0 +1,3001 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice
+89,Zara Women Model-89,Fashion,Women,Zara,33658.31
+691,Hopscotch Kids Model-691,Fashion,Kids,Hopscotch,40951.02
+147,Quechua Outdoor Model-147,Sports,Outdoor,Quechua,3655.21
+1236,Hopscotch Kids Model-1236,Fashion,Kids,Hopscotch,39602.64
+1763,Sony Accessories,###,Accessories,Sony,-500
+1853,Godrej Furniture Model-1853,Home,Furniture,Godrej,4737.2
+1373,Carter Kids Model-1373,Fashion,Kids,Carter,19448.82
+2204,Dell Laptops,Electronics,Laptops,,
+1726,Boat Accessories Model-1726,Electronics,Accessories,Boat,18336.28
+1795,Apple Smartphones Model-1795,Electronics,Smartphones,Apple,41439.09
+599,Cosco Indoor Model-599,Sports,Indoor,Cosco,1534.82
+1389,Yonex Indoor Model-1389,Sports,Indoor,Yonex,502.79
+859,Yonex Indoor Model-859,Sports,Indoor,Yonex,18237.68
+468,Duroflex Decor Model-468,Home,Decor,Duroflex,28792.35
+106,Wildcraft Outdoor Model-106,Sports,Outdoor,Wildcraft,38908.86
+990,Apple Smartphones Model-990,Electronics,Smartphones,Apple,24855.86
+2108,Yonex Indoor,,Indoor,,27687.31
+INVALID,Quechua Outdoor,Sports,Outdoor,###,33588.59
+2100,Hopscotch Kids Model-2100,Fashion,Kids,Hopscotch,7202.71
+1988,Levis Women Model-1988,Fashion,Women,Levis,3531.72
+1945,Samsung Smartphones Model-1945,Electronics,Smartphones,Samsung,16849.8
+208,Nike Men Model-208,Fashion,Men,Nike,9795.2
+1378,Apple Smartphones Model-1378,Electronics,Smartphones,Apple,15531.77
+1057,Pigeon Kitchen Model-1057,Home,Kitchen,Pigeon,30814.39
+966,Reebok Fitness Model-966,Sports,Fitness,Reebok,40431.36
+1875,Lenovo Laptops Model-1875,Electronics,Laptops,Lenovo,44424.36
+1417,OnePlus Smartphones Model-1417,Electronics,Smartphones,OnePlus,17605.84
+171,Dell Laptops Model-171,Electronics,Laptops,Dell,21037.27
+2113,H&M Women,Fashion,Women,H&M,
+2045,Nike Men Model-2045,Fashion,Men,Nike,38006.26
+2231,,Fashion,,Puma,40859.91
+619,HP Laptops Model-619,Electronics,Laptops,HP,43407.91
+83,Logitech Accessories Model-83,Electronics,Accessories,Logitech,46093.91
+791,H&M Women Model-791,Fashion,Women,H&M,44249.37
+2233,Samsung Smartphones,Electronics,Smartphones,,9017.91
+1993,Ikea Furniture Model-1993,Home,Furniture,Ikea,45142.93
+2129,12345,Sports,Outdoor,Wildcraft,-500
+1329,Quechua Outdoor Model-1329,Sports,Outdoor,Quechua,34215.84
+1107,H&M Women Model-1107,Fashion,Women,H&M,19202.3
+49,Wildcraft Outdoor Model-49,Sports,Outdoor,Wildcraft,22204.62
+2093,Prestige Kitchen Model-2093,Home,Kitchen,Prestige,31778.47
+1290,Godrej Furniture Model-1290,Home,Furniture,Godrej,34306.37
+1141,HP Laptops Model-1141,Electronics,Laptops,HP,47562.43
+1095,Samsung Smartphones Model-1095,Electronics,Smartphones,Samsung,22904.88
+1402,Zara Women Model-1402,Fashion,Women,Zara,17813.84
+899,Logitech Accessories Model-899,Electronics,Accessories,Logitech,37766.9
+191,Carter Kids Model-191,Fashion,Kids,Carter,27188.25
+1469,Pigeon Kitchen Model-1469,Home,Kitchen,Pigeon,282.24
+1900,Puma Men Model-1900,Fashion,Men,Puma,19616.08
+1803,Yonex Indoor Model-1803,Sports,Indoor,Yonex,26294.67
+2041,Adidas Men Model-2041,Fashion,Men,Adidas,47281.48
+1696,Reebok Fitness Model-1696,Sports,Fitness,Reebok,47998.26
+426,Reebok Fitness Model-426,Sports,Fitness,Reebok,7380.27
+894,Prestige Kitchen Model-894,Home,Kitchen,Prestige,19417.33
+443,Reebok Fitness Model-443,Sports,Fitness,Reebok,16035.32
+1541,HomeCentre Decor Model-1541,Home,Decor,HomeCentre,13546.28
+1029,HomeCentre Decor Model-1029,Home,Decor,HomeCentre,46138.73
+1325,OnePlus Smartphones Model-1325,Electronics,Smartphones,OnePlus,30079.04
+63,Wildcraft Outdoor Model-63,Sports,Outdoor,Wildcraft,24894.12
+682,Cosco Indoor Model-682,Sports,Indoor,Cosco,30117.83
+1384,Ikea Furniture Model-1384,Home,Furniture,Ikea,45622.68
+314,Yonex Indoor Model-314,Sports,Indoor,Yonex,8247.22
+888,Hopscotch Kids,Fashion,Kids,Hopscotch,-500
+246,Apple Smartphones Model-246,Electronics,Smartphones,Apple,23217.15
+520,Wildcraft Outdoor Model-520,Sports,Outdoor,Wildcraft,16912.04
+422,Apple Smartphones Model-422,Electronics,Smartphones,Apple,37243.03
+703,Sony Accessories Model-703,Electronics,Accessories,Sony,36894.52
+ABC123,Duroflex Decor,Home,999,Duroflex,31215.21
+2306,Nike Fitness,,Fitness,,31440.54
+596,Hopscotch Kids Model-596,Fashion,Kids,Hopscotch,14612.17
+1813,Nike Men,Fashion,Men,Nike,FREE
+1128,Cosco Indoor Model-1128,Sports,Indoor,Cosco,32384.6
+1847,HomeCentre Decor Model-1847,Home,Decor,HomeCentre,47225.84
+3419,Ikea Furniture,UNKNOWN_CATEGORY,Furniture,###,49176.92
+1595,Samsung Smartphones Model-1595,Electronics,Smartphones,Samsung,39500.22
+26,Levis Women Model-26,Fashion,Women,Levis,7873.31
+268,Yonex Indoor Model-268,Sports,Indoor,Yonex,3710.21
+3,Cosco Indoor Model-3,Sports,Indoor,Cosco,34528.28
+848,Adidas Men Model-848,Fashion,Men,Adidas,31273.41
+755,Sony Accessories Model-755,Electronics,Accessories,Sony,39281.89
+410,Reebok Fitness Model-410,Sports,Fitness,Reebok,41654.57
+2648,Reebok Fitness,123,Fitness,Reebok,-500
+1269,Wildcraft Outdoor Model-1269,Sports,Outdoor,Wildcraft,11035.08
+1350,Pigeon Kitchen Model-1350,Home,Kitchen,Pigeon,11198.26
+1812,Godrej Furniture Model-1812,Home,Furniture,Godrej,22546.51
+723,Yonex Indoor Model-723,Sports,Indoor,Yonex,15575.82
+1058,Lenovo Laptops Model-1058,Electronics,Laptops,Lenovo,37901.42
+1825,Quechua Outdoor Model-1825,Sports,Outdoor,Quechua,28103.75
+1605,Carter Kids Model-1605,Fashion,Kids,Carter,10611.97
+314,Nike Men,Fashion,999,###,12948.26
+1299,Pigeon Kitchen Model-1299,Home,Kitchen,Pigeon,26200.08
+727,OnePlus Smartphones Model-727,Electronics,Smartphones,OnePlus,4711.95
+404,Duroflex Decor Model-404,Home,Decor,Duroflex,13039.33
+306,Logitech Accessories Model-306,Electronics,Accessories,Logitech,9562.76
+799,Sony Accessories Model-799,Electronics,Accessories,Sony,21510.76
+2069,Puma Men Model-2069,Fashion,Men,Puma,47692.62
+298,Dell Laptops Model-298,Electronics,Laptops,Dell,19181.75
+1714,Boat Accessories Model-1714,Electronics,Accessories,Boat,11318.23
+2112,Logitech Accessories,Electronics,,Logitech,
+1449,Yonex Indoor Model-1449,Sports,Indoor,Yonex,29323.1
+1472,@@@@,Home,Furniture,INVALID_BRAND,2375.55
+1139,Samsung Smartphones Model-1139,Electronics,Smartphones,Samsung,31540.97
+945,Asus Laptops Model-945,Electronics,Laptops,Asus,42455.14
+INVALID,12345,Sports,Fitness,Nike,1252.8
+12,Carter Kids Model-12,Fashion,Kids,Carter,17762.11
+572,Nike Fitness Model-572,Sports,Fitness,Nike,36726.6
+2075,Apple Smartphones Model-2075,Electronics,Smartphones,Apple,22575.35
+1767,Asus Laptops Model-1767,Electronics,Laptops,Asus,35034.12
+1035,Sony Accessories Model-1035,Electronics,Accessories,Sony,47508.22
+1851,Nike Fitness Model-1851,Sports,Fitness,Nike,3700.82
+1105,Wildcraft Outdoor Model-1105,Sports,Outdoor,Wildcraft,35337.37
+1607,Boat Accessories Model-1607,Electronics,Accessories,Boat,33735.89
+244,Quechua Outdoor Model-244,Sports,Outdoor,Quechua,34952.87
+1483,Duroflex Decor Model-1483,Home,Decor,Duroflex,7276.47
+1539,Wildcraft Outdoor Model-1539,Sports,Outdoor,Wildcraft,22592.64
+1294,Sony Accessories Model-1294,Electronics,Accessories,Sony,27946.32
+2293,Asus Laptops,Electronics,@@@,Asus,8294.82
+541,Logitech Accessories Model-541,Electronics,Accessories,Logitech,1713.32
+477,HomeCentre Decor Model-477,Home,Decor,HomeCentre,12663.93
+793,HP Laptops Model-793,Electronics,Laptops,HP,26832.28
+1619,Carter Kids Model-1619,Fashion,Kids,Carter,46893.59
+2003,Sony Accessories Model-2003,Electronics,Accessories,Sony,2814.09
+2286,,,Indoor,Cosco,29793.13
+2223,Samsung Smartphones,Electronics,Smartphones,,2818.59
+869,HomeCentre Decor Model-869,Home,Decor,HomeCentre,44281.35
+1691,Lenovo Laptops Model-1691,Electronics,Laptops,Lenovo,9602.62
+784,Godrej Furniture Model-784,Home,Furniture,Godrej,11587.75
+1331,Logitech Accessories Model-1331,Electronics,Accessories,Logitech,1715.88
+128,Carter Kids Model-128,Fashion,Kids,Carter,13160.95
+643,Boat Accessories Model-643,Electronics,Accessories,Boat,22443.96
+1559,Nike Men Model-1559,Fashion,Men,Nike,314.88
+699,Pigeon Kitchen,123,@@@,Pigeon,33057.19
+INVALID,Ikea Furniture,123,Furniture,Ikea,9390.05
+1727,Sony Accessories Model-1727,Electronics,Accessories,Sony,39681.62
+ABC123,Google Smartphones,Electronics,Smartphones,Google,FREE
+ABC123,Prestige Kitchen,Home,999,Prestige,36989.12
+1536,Ikea Furniture Model-1536,Home,Furniture,Ikea,27044.7
+1017,HomeCentre Decor Model-1017,Home,Decor,HomeCentre,2948.1
+1651,Yonex Indoor Model-1651,Sports,Indoor,Yonex,43951.48
+117,Lenovo Laptops Model-117,Electronics,Laptops,Lenovo,33499.81
+2464,Nike Men,Fashion,Men,Nike,PRICE
+1931,Logitech Accessories Model-1931,Electronics,Accessories,Logitech,16493.22
+756,Samsung Smartphones Model-756,Electronics,Smartphones,Samsung,11149.6
+1842,HomeCentre Decor Model-1842,Home,Decor,HomeCentre,37268.83
+1330,Puma Men Model-1330,Fashion,Men,Puma,28554.23
+475,Quechua Outdoor Model-475,Sports,Outdoor,Quechua,15219.35
+1705,Lenovo Laptops Model-1705,Electronics,Laptops,Lenovo,10979.29
+1974,Adidas Men Model-1974,Fashion,Men,Adidas,9326.37
+294,Wildcraft Outdoor Model-294,Sports,Outdoor,Wildcraft,14015.65
+1252,Dell Laptops Model-1252,Electronics,Laptops,Dell,8319.3
+2186,Wildcraft Outdoor,Sports,Outdoor,,33422.14
+764,12345,Home,Kitchen,INVALID_BRAND,41345.46
+1009,Prestige Kitchen Model-1009,Home,Kitchen,Prestige,7051.73
+297,Pigeon Kitchen Model-297,Home,Kitchen,Pigeon,12730.03
+2133,Quechua Outdoor,Sports,Outdoor,Quechua,
+2334,OnePlus Smartphones,Electronics,Smartphones,,
+1287,Quechua Outdoor Model-1287,Sports,Outdoor,Quechua,23423.16
+2080,HomeCentre Decor Model-2080,Home,Decor,HomeCentre,16843.71
+593,Nike Fitness Model-593,Sports,Fitness,Nike,11557.55
+2116,12345,Fashion,Kids,Hopscotch,6193.63
+821,Carter Kids Model-821,Fashion,Kids,Carter,6124.79
+137,Sony Accessories Model-137,Electronics,Accessories,Sony,20572.76
+1616,Carter Kids Model-1616,Fashion,Kids,Carter,35067.88
+1679,Ikea Furniture Model-1679,Home,Furniture,Ikea,10012.06
+326,Puma Men Model-326,Fashion,Men,Puma,26908.39
+1089,HomeCentre Decor Model-1089,Home,Decor,HomeCentre,24868.22
+1846,Duroflex Decor Model-1846,Home,Decor,Duroflex,16332.13
+1425,Google Smartphones Model-1425,Electronics,Smartphones,Google,42006.82
+59,Duroflex Decor Model-59,Home,Decor,Duroflex,28799.91
+826,Quechua Outdoor Model-826,Sports,Outdoor,Quechua,31838.58
+1034,Dell Laptops Model-1034,Electronics,Laptops,Dell,14438.42
+578,Yonex Indoor Model-578,Sports,Indoor,Yonex,40536.98
+335,Quechua Outdoor Model-335,Sports,Outdoor,Quechua,12074.2
+2148,NULL,Fashion,Women,Zara,PRICE
+1928,Yonex Indoor Model-1928,Sports,Indoor,Yonex,43755.8
+1092,Carter Kids Model-1092,Fashion,Kids,Carter,3668.19
+1545,Duroflex Decor Model-1545,Home,Decor,Duroflex,17433.66
+1394,Prestige Kitchen Model-1394,Home,Kitchen,Prestige,7085.54
+1321,Adidas Men Model-1321,Fashion,Men,Adidas,44180.64
+675,H&M Women Model-675,Fashion,Women,H&M,32726.6
+193,Sony Accessories Model-193,Electronics,Accessories,Sony,49490.75
+414,Nike Fitness Model-414,Sports,Fitness,Nike,21813.31
+1104,Asus Laptops Model-1104,Electronics,Laptops,Asus,9397.34
+62,HomeCentre Decor Model-62,Home,Decor,HomeCentre,6066.63
+2092,Duroflex Decor Model-2092,Home,Decor,Duroflex,43953.82
+1761,Pigeon Kitchen Model-1761,Home,Kitchen,Pigeon,32292.24
+1006,Puma Men Model-1006,Fashion,Men,Puma,48198.18
+936,Hopscotch Kids Model-936,Fashion,Kids,Hopscotch,14174.9
+146,Ikea Furniture Model-146,Home,Furniture,Ikea,5178.33
+1557,Google Smartphones Model-1557,Electronics,Smartphones,Google,4167.32
+1414,Godrej Furniture Model-1414,Home,Furniture,Godrej,46505.71
+294,Wildcraft Outdoor Model-294,Sports,Outdoor,Wildcraft,14015.65
+275,Lenovo Laptops Model-275,Electronics,Laptops,Lenovo,22544.05
+1979,Ikea Furniture Model-1979,Home,Furniture,Ikea,33355.95
+1007,H&M Women Model-1007,Fashion,Women,H&M,14642.32
+789,Ikea Furniture Model-789,Home,Furniture,Ikea,2792.98
+2261,,Home,Decor,,12027.37
+3062,Adidas Men,Fashion,INVALID_SUB,INVALID_BRAND,49874.11
+1237,Logitech Accessories Model-1237,Electronics,Accessories,Logitech,29935.7
+464,Ikea Furniture Model-464,Home,Furniture,Ikea,43531.53
+2341,Boat Accessories,,Accessories,Boat,
+139,Yonex Indoor Model-139,Sports,Indoor,Yonex,30955.1
+2021,Pigeon Kitchen Model-2021,Home,Kitchen,Pigeon,6422.98
+2154,Logitech Accessories,Electronics,Accessories,,604.21
+678,Wildcraft Outdoor Model-678,Sports,Outdoor,Wildcraft,40156.34
+857,Carter Kids Model-857,Fashion,Kids,Carter,43998.1
+1495,Ikea Furniture Model-1495,Home,Furniture,Ikea,1050.09
+1192,Yonex Indoor Model-1192,Sports,Indoor,Yonex,5515.54
+987,Hopscotch Kids Model-987,Fashion,Kids,Hopscotch,12996.94
+544,Lenovo Laptops Model-544,Electronics,Laptops,Lenovo,35810.82
+989,Hopscotch Kids Model-989,Fashion,Kids,Hopscotch,28015.61
+607,Reebok Fitness Model-607,Sports,Fitness,Reebok,3069.75
+798,Carter Kids Model-798,Fashion,Kids,Carter,9195.5
+1185,Yonex Indoor Model-1185,Sports,Indoor,Yonex,18306.93
+520,Wildcraft Outdoor Model-520,Sports,Outdoor,Wildcraft,16912.04
+1762,Quechua Outdoor Model-1762,Sports,Outdoor,Quechua,6029.5
+1443,Apple Smartphones Model-1443,Electronics,Smartphones,Apple,12416.46
+1813,Quechua Outdoor Model-1813,Sports,Outdoor,Quechua,21406.21
+2177,,Home,Decor,Duroflex,13321.49
+2266,H&M Women,Fashion,Women,,10025.69
+214,OnePlus Smartphones Model-214,Electronics,Smartphones,OnePlus,49614.15
+604,Pigeon Kitchen Model-604,Home,Kitchen,Pigeon,19049.58
+890,Carter Kids Model-890,Fashion,Kids,Carter,29981.72
+232,Nike Men Model-232,Fashion,Men,Nike,46157.12
+702,Quechua Outdoor Model-702,Sports,Outdoor,Quechua,38730.47
+1009,Prestige Kitchen Model-1009,Home,Kitchen,Prestige,7051.73
+2088,Yonex Indoor Model-2088,Sports,Indoor,Yonex,43911.5
+243,Pigeon Kitchen Model-243,Home,Kitchen,Pigeon,43439.83
+344,Nike Fitness Model-344,Sports,Fitness,Nike,34049.9
+1753,Puma Men Model-1753,Fashion,Men,Puma,8479.82
+2339,Hopscotch Kids,Fashion,,Hopscotch,
+68,Reebok Fitness Model-68,Sports,Fitness,Reebok,26066.35
+71,HomeCentre Decor Model-71,Home,Decor,HomeCentre,25611.5
+1509,Duroflex Decor Model-1509,Home,Decor,Duroflex,4965.44
+ABC123,Reebok Fitness,123,Fitness,Reebok,28694.97
+205,Quechua Outdoor Model-205,Sports,Outdoor,Quechua,40226.74
+2135,,,Smartphones,Samsung,23490.89
+3,Cosco Indoor Model-3,Sports,Indoor,Cosco,34528.28
+2150,,Electronics,Laptops,Lenovo,
+1599,Asus Laptops Model-1599,Electronics,Laptops,Asus,30597.14
+665,H&M Women,UNKNOWN_CATEGORY,999,H&M,1434.6
+1684,HP Laptops Model-1684,Electronics,Laptops,HP,25054.02
+1921,Levis Women Model-1921,Fashion,Women,Levis,8476.32
+3075,Cosco Indoor,123,@@@,Cosco,24390.52
+333,Puma Men Model-333,Fashion,Men,Puma,4674.41
+1527,Yonex Indoor Model-1527,Sports,Indoor,Yonex,42852.47
+1633,Hopscotch Kids Model-1633,Fashion,Kids,Hopscotch,7472.22
+1246,Cosco Indoor Model-1246,Sports,Indoor,Cosco,45841.37
+917,Lenovo Laptops Model-917,Electronics,Laptops,Lenovo,43592.98
+200,Apple Smartphones Model-200,Electronics,Smartphones,Apple,19322.08
+1692,Cosco Indoor Model-1692,Sports,Indoor,Cosco,11006.95
+2153,Puma Men,Fashion,,,24664.21
+1426,Wildcraft Outdoor Model-1426,Sports,Outdoor,Wildcraft,28639.47
+1080,HomeCentre Decor Model-1080,Home,Decor,HomeCentre,43446.32
+974,Quechua Outdoor Model-974,Sports,Outdoor,Quechua,22010.9
+365,Prestige Kitchen Model-365,Home,Kitchen,Prestige,23180.4
+1453,Cosco Indoor Model-1453,Sports,Indoor,Cosco,21701.38
+1205,HomeCentre Decor Model-1205,Home,Decor,HomeCentre,32640.63
+707,Logitech Accessories Model-707,Electronics,Accessories,Logitech,38027.96
+1368,HomeCentre Decor Model-1368,Home,Decor,HomeCentre,44619.63
+2,Adidas Men Model-2,Fashion,Men,Adidas,24825.6
+1067,Dell Laptops Model-1067,Electronics,Laptops,Dell,32715.27
+3793,@@@@,Electronics,Smartphones,OnePlus,18811.38
+2289,Adidas Men,Fashion,Men,Adidas,
+2260,,Fashion,Kids,Carter,19770.47
+1072,Dell Laptops Model-1072,Electronics,Laptops,Dell,39542.97
+1685,Adidas Men Model-1685,Fashion,Men,Adidas,23773.43
+1218,Prestige Kitchen Model-1218,Home,Kitchen,Prestige,25093.06
+2740,NULL,Electronics,Smartphones,Google,49218.42
+1583,Godrej Furniture Model-1583,Home,Furniture,Godrej,35817.22
+1836,HP Laptops Model-1836,Electronics,Laptops,HP,973.14
+261,Sony Accessories Model-261,Electronics,Accessories,Sony,7676.83
+1632,Cosco Indoor Model-1632,Sports,Indoor,Cosco,17532.34
+1186,H&M Women Model-1186,Fashion,Women,H&M,49412.56
+2001,Apple Smartphones Model-2001,Electronics,Smartphones,Apple,42371.6
+1922,Sony Accessories Model-1922,Electronics,Accessories,Sony,48705.27
+534,Puma Men Model-534,Fashion,Men,Puma,44880.7
+185,Puma Men Model-185,Fashion,Men,Puma,3130.39
+146,Ikea Furniture Model-146,Home,Furniture,Ikea,5178.33
+135,Levis Women Model-135,Fashion,Women,Levis,14320.25
+937,Godrej Furniture Model-937,Home,Furniture,Godrej,11834.74
+194,Quechua Outdoor Model-194,Sports,Outdoor,Quechua,4880.64
+965,H&M Women Model-965,Fashion,Women,H&M,35254.19
+3558,Sony Accessories,UNKNOWN_CATEGORY,Accessories,INVALID_BRAND,13846.97
+219,Hopscotch Kids Model-219,Fashion,Kids,Hopscotch,38317.35
+2048,Nike Men Model-2048,Fashion,Men,Nike,33937.01
+2332,H&M Women,Fashion,Women,,8361.51
+2624,Ikea Furniture,Home,999,Ikea,12149.92
+1664,Godrej Furniture Model-1664,Home,Furniture,Godrej,35754.2
+615,Zara Women Model-615,Fashion,Women,Zara,38215.28
+1621,Godrej Furniture Model-1621,Home,Furniture,Godrej,10006.33
+687,Carter Kids Model-687,Fashion,Kids,Carter,35036.68
+172,Boat Accessories Model-172,Electronics,Accessories,Boat,5077.08
+1791,HP Laptops Model-1791,Electronics,Laptops,HP,40551.61
+3925,Puma Men,Fashion,INVALID_SUB,Puma,15020.77
+202,Zara Women Model-202,Fashion,Women,Zara,35425.92
+1250,Quechua Outdoor Model-1250,Sports,Outdoor,Quechua,34162.35
+462,Nike Fitness Model-462,Sports,Fitness,Nike,47994.65
+285,Lenovo Laptops Model-285,Electronics,Laptops,Lenovo,32078.76
+1311,HomeCentre Decor Model-1311,Home,Decor,HomeCentre,27688.71
+1882,Cosco Indoor Model-1882,Sports,Indoor,Cosco,47338.96
+ABC123,Godrej Furniture,Home,Furniture,Godrej,44775.95
+441,Pigeon Kitchen Model-441,Home,Kitchen,Pigeon,9479.55
+85,Zara Women Model-85,Fashion,Women,Zara,8727.55
+1271,Pigeon Kitchen Model-1271,Home,Kitchen,Pigeon,37806.57
+2159,,Home,Furniture,Godrej,2616.31
+808,Godrej Furniture Model-808,Home,Furniture,Godrej,36377.62
+2304,,Electronics,Smartphones,Google,
+160,Yonex Indoor Model-160,Sports,Indoor,Yonex,1068.1
+INVALID,Sony Accessories,Electronics,Accessories,Sony,111.92
+555,HomeCentre Decor Model-555,Home,Decor,HomeCentre,13109.25
+686,Carter Kids Model-686,Fashion,Kids,Carter,43184.02
+2254,,Electronics,,Boat,8950.46
+1303,Samsung Smartphones Model-1303,Electronics,Smartphones,Samsung,9866.2
+944,Pigeon Kitchen Model-944,Home,Kitchen,Pigeon,2850.84
+1491,Cosco Indoor Model-1491,Sports,Indoor,Cosco,23550.53
+696,Google Smartphones Model-696,Electronics,Smartphones,Google,37307.76
+1024,Dell Laptops Model-1024,Electronics,Laptops,Dell,867.79
+1734,Pigeon Kitchen Model-1734,Home,Kitchen,Pigeon,15133.23
+1486,OnePlus Smartphones Model-1486,Electronics,Smartphones,OnePlus,31902.11
+997,Lenovo Laptops Model-997,Electronics,Laptops,Lenovo,34173.8
+1881,Boat Accessories Model-1881,Electronics,Accessories,Boat,32062.45
+1093,Duroflex Decor Model-1093,Home,Decor,Duroflex,33401.59
+2234,,Electronics,Smartphones,Apple,2800.85
+1855,H&M Women Model-1855,Fashion,Women,H&M,18575.19
+2130,Duroflex Decor,Home,Decor,,34291.44
+1703,H&M Women Model-1703,Fashion,Women,H&M,31724.3
+1540,Quechua Outdoor Model-1540,Sports,Outdoor,Quechua,18420.58
+1736,Godrej Furniture Model-1736,Home,Furniture,Godrej,3414.97
+974,Quechua Outdoor Model-974,Sports,Outdoor,Quechua,22010.9
+995,@@@@,###,Decor,Duroflex,25616.09
+1643,Yonex Indoor Model-1643,Sports,Indoor,Yonex,37084.66
+1889,Reebok Fitness Model-1889,Sports,Fitness,Reebok,10896.38
+1694,Carter Kids Model-1694,Fashion,Kids,Carter,12077.02
+1136,HP Laptops Model-1136,Electronics,Laptops,HP,14728.9
+INVALID,Pigeon Kitchen,Home,@@@,Pigeon,6029.1
+1852,OnePlus Smartphones Model-1852,Electronics,Smartphones,OnePlus,49219.43
+493,H&M Women Model-493,Fashion,Women,H&M,2953.96
+385,Carter Kids Model-385,Fashion,Kids,Carter,506.12
+2163,Quechua Outdoor,Sports,,Quechua,
+680,Cosco Indoor Model-680,Sports,Indoor,Cosco,10321.63
+1153,Wildcraft Outdoor Model-1153,Sports,Outdoor,Wildcraft,24084.17
+1013,Nike Men Model-1013,Fashion,Men,Nike,10688.72
+182,Duroflex Decor Model-182,Home,Decor,Duroflex,5652.49
+284,Google Smartphones Model-284,Electronics,Smartphones,Google,43250.9
+145,Reebok Fitness Model-145,Sports,Fitness,Reebok,8598.28
+1422,Reebok Fitness Model-1422,Sports,Fitness,Reebok,29800.79
+2005,Reebok Fitness Model-2005,Sports,Fitness,Reebok,47618.67
+544,Lenovo Laptops Model-544,Electronics,Laptops,Lenovo,35810.82
+PROD###,NULL,Fashion,Kids,Carter,46954.62
+1210,Boat Accessories Model-1210,Electronics,Accessories,Boat,24304.74
+1561,Puma Men Model-1561,Fashion,Men,Puma,47279.08
+683,Levis Women Model-683,Fashion,Women,Levis,34048.6
+2155,Yonex Indoor,Sports,Indoor,Yonex,FREE
+1552,Levis Women Model-1552,Fashion,Women,Levis,4475.3
+ABC123,Google Smartphones,Electronics,999,Google,34573.39
+3395,HP Laptops,###,Laptops,HP,25387.81
+2382,Hopscotch Kids,Fashion,,Hopscotch,41251.25
+1568,Pigeon Kitchen Model-1568,Home,Kitchen,Pigeon,48938.41
+1773,Hopscotch Kids Model-1773,Fashion,Kids,Hopscotch,35762.56
+2010,Yonex Indoor Model-2010,Sports,Indoor,Yonex,31217.77
+1554,Duroflex Decor Model-1554,Home,Decor,Duroflex,32827.3
+510,Duroflex Decor Model-510,Home,Decor,Duroflex,41375.29
+1348,Godrej Furniture Model-1348,Home,Furniture,Godrej,11617.52
+953,Lenovo Laptops Model-953,Electronics,Laptops,Lenovo,132.15
+1467,Duroflex Decor Model-1467,Home,Decor,Duroflex,20563.71
+1224,Zara Women Model-1224,Fashion,Women,Zara,35918.03
+1496,Reebok Fitness Model-1496,Sports,Fitness,Reebok,42415.06
+693,Boat Accessories Model-693,Electronics,Accessories,Boat,47672.06
+1062,Hopscotch Kids Model-1062,Fashion,Kids,Hopscotch,26471.26
+2054,Zara Women Model-2054,Fashion,Women,Zara,46928.82
+890,12345,###,Laptops,HP,1343.92
+1410,Levis Women Model-1410,Fashion,Women,Levis,39806.72
+1401,Levis Women Model-1401,Fashion,Women,Levis,28973.38
+2307,,,Kids,Carter,32326.48
+635,HomeCentre Decor Model-635,Home,Decor,HomeCentre,17494.21
+PROD###,Sony Accessories,Electronics,999,Sony,23334.26
+694,Apple Smartphones Model-694,Electronics,Smartphones,Apple,16243.92
+946,Sony Accessories Model-946,Electronics,Accessories,Sony,7591.69
+902,HP Laptops Model-902,Electronics,Laptops,HP,22294.78
+794,Quechua Outdoor Model-794,Sports,Outdoor,Quechua,21887.25
+361,Pigeon Kitchen Model-361,Home,Kitchen,Pigeon,33502.5
+1381,Pigeon Kitchen Model-1381,Home,Kitchen,Pigeon,5855.87
+2122,,Electronics,Smartphones,Apple,37693.13
+2246,,Fashion,Men,Nike,
+1725,Puma Men Model-1725,Fashion,Men,Puma,47970.92
+996,Logitech Accessories Model-996,Electronics,Accessories,Logitech,35670.12
+1446,Adidas Men Model-1446,Fashion,Men,Adidas,37199.64
+ABC123,HomeCentre Decor,Home,Decor,HomeCentre,32739.71
+1461,Adidas Men Model-1461,Fashion,Men,Adidas,17821.55
+1690,Reebok Fitness Model-1690,Sports,Fitness,Reebok,40114.22
+2033,Duroflex Decor Model-2033,Home,Decor,Duroflex,19376.47
+1358,Sony Accessories Model-1358,Electronics,Accessories,Sony,35553.92
+416,Reebok Fitness Model-416,Sports,Fitness,Reebok,15454.73
+2385,Carter Kids,Fashion,Kids,Carter,
+75,Ikea Furniture Model-75,Home,Furniture,Ikea,7042.51
+1618,Logitech Accessories Model-1618,Electronics,Accessories,Logitech,25737.19
+1548,Logitech Accessories,Electronics,Accessories,###,16578.36
+2277,HomeCentre Decor,Home,,HomeCentre,28660.83
+855,Adidas Men Model-855,Fashion,Men,Adidas,42745.77
+120,Prestige Kitchen Model-120,Home,Kitchen,Prestige,43038.85
+2494,Godrej Furniture,Home,@@@,Godrej,26187.61
+1181,Nike Men Model-1181,Fashion,Men,Nike,12800.18
+2948,@@@@,Fashion,Men,Adidas,12984.48
+954,Levis Women Model-954,Fashion,Women,Levis,29948.9
+2237,,Fashion,,Puma,30705.83
+1207,H&M Women Model-1207,Fashion,Women,H&M,24477.22
+2025,Yonex Indoor Model-2025,Sports,Indoor,Yonex,19582.55
+2206,,Sports,Indoor,Cosco,28408.46
+1020,HomeCentre Decor Model-1020,Home,Decor,HomeCentre,31942.2
+2165,HP Laptops,,Laptops,HP,10317.45
+144,Cosco Indoor Model-144,Sports,Indoor,Cosco,8704.05
+94,Boat Accessories Model-94,Electronics,Accessories,Boat,3647.94
+1934,Zara Women Model-1934,Fashion,Women,Zara,47147.64
+2062,Prestige Kitchen Model-2062,Home,Kitchen,Prestige,3531.32
+1565,Adidas Men Model-1565,Fashion,Men,Adidas,46620.23
+223,Duroflex Decor Model-223,Home,Decor,Duroflex,42859.42
+236,Wildcraft Outdoor Model-236,Sports,Outdoor,Wildcraft,21780.82
+1362,Yonex Indoor Model-1362,Sports,Indoor,Yonex,36074.52
+1238,Nike Men,UNKNOWN_CATEGORY,Men,Nike,-500
+2180,Quechua Outdoor,,Outdoor,Quechua,17079.66
+2008,HomeCentre Decor Model-2008,Home,Decor,HomeCentre,38158.68
+1986,Cosco Indoor Model-1986,Sports,Indoor,Cosco,35270.71
+1615,OnePlus Smartphones Model-1615,Electronics,Smartphones,OnePlus,30892.49
+1022,Wildcraft Outdoor Model-1022,Sports,Outdoor,Wildcraft,7208.66
+2344,Levis Women,Fashion,Women,,46690.62
+441,Pigeon Kitchen Model-441,Home,Kitchen,Pigeon,9479.55
+411,Nike Fitness Model-411,Sports,Fitness,Nike,28125.15
+697,HomeCentre Decor,Home,Decor,HomeCentre,FREE
+559,Levis Women Model-559,Fashion,Women,Levis,2743.61
+1460,Google Smartphones Model-1460,Electronics,Smartphones,Google,7788.71
+1731,H&M Women Model-1731,Fashion,Women,H&M,41732.89
+1091,Puma Men Model-1091,Fashion,Men,Puma,16099.38
+776,Wildcraft Outdoor Model-776,Sports,Outdoor,Wildcraft,19940.85
+641,Quechua Outdoor Model-641,Sports,Outdoor,Quechua,114.07
+2065,Quechua Outdoor Model-2065,Sports,Outdoor,Quechua,48511.31
+393,Google Smartphones Model-393,Electronics,Smartphones,Google,33104.38
+2167,,Sports,Indoor,Cosco,12607.57
+1298,Sony Accessories Model-1298,Electronics,Accessories,Sony,19475.5
+1418,Adidas Men Model-1418,Fashion,Men,Adidas,46435.62
+1306,HP Laptops Model-1306,Electronics,Laptops,HP,18180.78
+1567,HomeCentre Decor Model-1567,Home,Decor,HomeCentre,9013.64
+590,Cosco Indoor Model-590,Sports,Indoor,Cosco,24316.9
+1138,Google Smartphones Model-1138,Electronics,Smartphones,Google,24678.42
+1654,Boat Accessories Model-1654,Electronics,Accessories,Boat,37340.57
+781,Carter Kids Model-781,Fashion,Kids,Carter,32011.87
+114,Asus Laptops Model-114,Electronics,Laptops,Asus,2040.84
+1421,Dell Laptops Model-1421,Electronics,Laptops,Dell,28052.22
+1222,Boat Accessories Model-1222,Electronics,Accessories,Boat,13137.57
+685,H&M Women Model-685,Fashion,Women,H&M,38612.74
+2098,Puma Men Model-2098,Fashion,Men,Puma,35099.01
+1098,Dell Laptops Model-1098,Electronics,Laptops,Dell,12457.02
+118,Godrej Furniture Model-118,Home,Furniture,Godrej,27844.03
+716,Asus Laptops Model-716,Electronics,Laptops,Asus,43214.06
+2005,Reebok Fitness Model-2005,Sports,Fitness,Reebok,47618.67
+100,Reebok Fitness Model-100,Sports,Fitness,Reebok,8210.66
+1080,Wildcraft Outdoor,Sports,@@@,Wildcraft,1751.53
+1783,Carter Kids Model-1783,Fashion,Kids,Carter,6448.87
+2194,,Sports,Outdoor,Wildcraft,40320.71
+773,Duroflex Decor Model-773,Home,Decor,Duroflex,44591.09
+1081,Levis Women Model-1081,Fashion,Women,Levis,37046.1
+1434,Boat Accessories Model-1434,Electronics,Accessories,Boat,42425.82
+1355,Godrej Furniture Model-1355,Home,Furniture,Godrej,7566.87
+488,Logitech Accessories Model-488,Electronics,Accessories,Logitech,41604.55
+852,Levis Women Model-852,Fashion,Women,Levis,25406.17
+802,HP Laptops Model-802,Electronics,Laptops,HP,4683.84
+1492,Pigeon Kitchen Model-1492,Home,Kitchen,Pigeon,12906.48
+623,Reebok Fitness Model-623,Sports,Fitness,Reebok,20057.07
+950,Yonex Indoor Model-950,Sports,Indoor,Yonex,15839.5
+231,Nike Fitness Model-231,Sports,Fitness,Nike,5780.06
+810,Reebok Fitness Model-810,Sports,Fitness,Reebok,6586.19
+1861,Cosco Indoor Model-1861,Sports,Indoor,Cosco,9150.21
+1839,Puma Men Model-1839,Fashion,Men,Puma,1838.67
+1388,Sony Accessories Model-1388,Electronics,Accessories,Sony,39749.56
+1143,Pigeon Kitchen Model-1143,Home,Kitchen,Pigeon,3996.77
+431,Nike Men Model-431,Fashion,Men,Nike,8608.42
+167,Adidas Men Model-167,Fashion,Men,Adidas,7380.56
+351,Nike Fitness Model-351,Sports,Fitness,Nike,7709.27
+2346,Adidas Men,Fashion,Men,,28113.66
+2230,Hopscotch Kids,Fashion,Kids,,15967.32
+1274,Samsung Smartphones Model-1274,Electronics,Smartphones,Samsung,31339.93
+1224,Zara Women Model-1224,Fashion,Women,Zara,35918.03
+2383,Duroflex Decor,Home,Decor,,9139.32
+1956,Wildcraft Outdoor Model-1956,Sports,Outdoor,Wildcraft,42376.0
+263,Quechua Outdoor Model-263,Sports,Outdoor,Quechua,30225.65
+1172,Adidas Men Model-1172,Fashion,Men,Adidas,45216.78
+1171,Duroflex Decor,###,INVALID_SUB,Duroflex,35190.04
+3519,Google Smartphones,Electronics,INVALID_SUB,Google,23078.47
+275,Lenovo Laptops Model-275,Electronics,Laptops,Lenovo,22544.05
+101,Boat Accessories Model-101,Electronics,Accessories,Boat,27258.36
+2038,Prestige Kitchen Model-2038,Home,Kitchen,Prestige,22990.07
+592,Puma Men Model-592,Fashion,Men,Puma,28399.99
+2215,Cosco Indoor,,,Cosco,33212.52
+939,Zara Women Model-939,Fashion,Women,Zara,25540.12
+1890,Godrej Furniture Model-1890,Home,Furniture,Godrej,44846.49
+217,Quechua Outdoor Model-217,Sports,Outdoor,Quechua,21756.17
+613,Quechua Outdoor Model-613,Sports,Outdoor,Quechua,37928.63
+INVALID,Levis Women,Fashion,Women,123,18458.68
+846,Nike Fitness Model-846,Sports,Fitness,Nike,9219.98
+PROD###,Hopscotch Kids,Fashion,@@@,Hopscotch,39462.35
+1108,Nike Fitness Model-1108,Sports,Fitness,Nike,38975.77
+1837,HomeCentre Decor Model-1837,Home,Decor,HomeCentre,16923.72
+1366,HomeCentre Decor Model-1366,Home,Decor,HomeCentre,43717.6
+516,Ikea Furniture Model-516,Home,Furniture,Ikea,6992.55
+269,Hopscotch Kids Model-269,Fashion,Kids,Hopscotch,19473.68
+153,Wildcraft Outdoor Model-153,Sports,Outdoor,Wildcraft,5277.09
+1824,Puma Men Model-1824,Fashion,Men,Puma,47113.36
+1558,Cosco Indoor Model-1558,Sports,Indoor,Cosco,37703.39
+1512,Hopscotch Kids Model-1512,Fashion,Kids,Hopscotch,32870.17
+803,Yonex Indoor Model-803,Sports,Indoor,Yonex,24986.06
+192,Asus Laptops Model-192,Electronics,Laptops,Asus,27397.54
+1133,Carter Kids Model-1133,Fashion,Kids,Carter,14940.03
+563,Pigeon Kitchen Model-563,Home,Kitchen,Pigeon,7408.8
+3336,Wildcraft Outdoor,Sports,Outdoor,Wildcraft,FREE
+748,HomeCentre Decor Model-748,Home,Decor,HomeCentre,15794.02
+2366,Google Smartphones,Electronics,Smartphones,,46522.98
+1282,Godrej Furniture Model-1282,Home,Furniture,Godrej,16487.28
+814,Nike Men Model-814,Fashion,Men,Nike,38891.04
+956,Sony Accessories Model-956,Electronics,Accessories,Sony,25619.6
+PROD###,Logitech Accessories,Electronics,Accessories,Logitech,-500
+1400,Duroflex Decor Model-1400,Home,Decor,Duroflex,47573.39
+879,Nike Fitness Model-879,Sports,Fitness,Nike,39596.78
+2030,HomeCentre Decor Model-2030,Home,Decor,HomeCentre,16355.28
+1240,Levis Women Model-1240,Fashion,Women,Levis,21730.65
+873,Wildcraft Outdoor Model-873,Sports,Outdoor,Wildcraft,17477.27
+1396,Yonex Indoor Model-1396,Sports,Indoor,Yonex,35926.05
+577,Zara Women Model-577,Fashion,Women,Zara,27087.89
+815,Samsung Smartphones Model-815,Electronics,Smartphones,Samsung,11229.32
+2094,HomeCentre Decor Model-2094,Home,Decor,HomeCentre,10736.22
+PROD###,Hopscotch Kids,Fashion,Kids,Hopscotch,-500
+780,Logitech Accessories Model-780,Electronics,Accessories,Logitech,15234.88
+1904,Dell Laptops Model-1904,Electronics,Laptops,Dell,3174.6
+2272,Reebok Fitness,,Fitness,Reebok,41834.4
+1844,Adidas Men Model-1844,Fashion,Men,Adidas,27524.64
+669,HomeCentre Decor Model-669,Home,Decor,HomeCentre,32786.52
+2331,Duroflex Decor,Home,,,11775.9
+1648,Sony Accessories Model-1648,Electronics,Accessories,Sony,30784.83
+229,Ikea Furniture Model-229,Home,Furniture,Ikea,2904.57
+734,Quechua Outdoor Model-734,Sports,Outdoor,Quechua,25184.44
+2283,Ikea Furniture,Home,Furniture,Ikea,
+3907,Nike Men,Fashion,@@@,Nike,49346.65
+2185,Godrej Furniture,Home,,Godrej,41681.29
+1537,Carter Kids Model-1537,Fashion,Kids,Carter,40866.86
+2078,Wildcraft Outdoor Model-2078,Sports,Outdoor,Wildcraft,22420.0
+216,Samsung Smartphones Model-216,Electronics,Smartphones,Samsung,1624.53
+346,Reebok Fitness,123,Fitness,###,13401.17
+1215,Samsung Smartphones Model-1215,Electronics,Smartphones,Samsung,27979.42
+709,Prestige Kitchen Model-709,Home,Kitchen,Prestige,40263.95
+40,Cosco Indoor Model-40,Sports,Indoor,Cosco,24306.8
+1135,H&M Women Model-1135,Fashion,Women,H&M,39905.79
+624,Cosco Indoor Model-624,Sports,Indoor,Cosco,34169.27
+2662,Prestige Kitchen,Home,Kitchen,###,-500
+2142,Sony Accessories,Electronics,,Sony,42939.77
+2156,,Home,Furniture,,441.34
+1529,Logitech Accessories Model-1529,Electronics,Accessories,Logitech,28291.46
+1233,Wildcraft Outdoor Model-1233,Sports,Outdoor,Wildcraft,3495.02
+283,Puma Men Model-283,Fashion,Men,Puma,25325.83
+820,Duroflex Decor Model-820,Home,Decor,Duroflex,17877.16
+1404,HomeCentre Decor Model-1404,Home,Decor,HomeCentre,40282.62
+492,Hopscotch Kids Model-492,Fashion,Kids,Hopscotch,34399.92
+1241,Godrej Furniture Model-1241,Home,Furniture,Godrej,24842.75
+238,Prestige Kitchen Model-238,Home,Kitchen,Prestige,49038.09
+688,Sony Accessories Model-688,Electronics,Accessories,Sony,4998.0
+508,Apple Smartphones Model-508,Electronics,Smartphones,Apple,2870.68
+963,Puma Men Model-963,Fashion,Men,Puma,16452.48
+1071,Nike Fitness Model-1071,Sports,Fitness,Nike,38782.4
+2027,Pigeon Kitchen Model-2027,Home,Kitchen,Pigeon,29023.78
+2011,Yonex Indoor Model-2011,Sports,Indoor,Yonex,11154.24
+1055,Levis Women Model-1055,Fashion,Women,Levis,44983.34
+697,Prestige Kitchen Model-697,Home,Kitchen,Prestige,41756.27
+1788,Hopscotch Kids Model-1788,Fashion,Kids,Hopscotch,37355.76
+1726,Boat Accessories Model-1726,Electronics,Accessories,Boat,18336.28
+2101,Godrej Furniture,Home,,,631.42
+816,Yonex Indoor Model-816,Sports,Indoor,Yonex,23548.12
+807,@@@@,123,Decor,Duroflex,26730.91
+334,Carter Kids Model-334,Fashion,Kids,Carter,3060.04
+1923,Godrej Furniture Model-1923,Home,Furniture,Godrej,39421.73
+317,Hopscotch Kids Model-317,Fashion,Kids,Hopscotch,18291.49
+2068,Wildcraft Outdoor,Sports,@@@,Wildcraft,FREE
+1940,Samsung Smartphones Model-1940,Electronics,Smartphones,Samsung,12495.65
+1678,Nike Men Model-1678,Fashion,Men,Nike,26212.69
+1683,NULL,Home,Decor,Duroflex,PRICE
+2007,Prestige Kitchen Model-2007,Home,Kitchen,Prestige,23573.43
+1534,H&M Women Model-1534,Fashion,Women,H&M,17332.75
+2109,Lenovo Laptops,Electronics,,Lenovo,
+251,Quechua Outdoor Model-251,Sports,Outdoor,Quechua,38709.04
+1897,Google Smartphones Model-1897,Electronics,Smartphones,Google,12130.72
+2200,Quechua Outdoor,Sports,Outdoor,,49206.93
+1757,Yonex Indoor Model-1757,Sports,Indoor,Yonex,22190.7
+407,Reebok Fitness Model-407,Sports,Fitness,Reebok,34382.92
+2915,@@@@,Home,999,Duroflex,17747.31
+2116,Zara Women,Fashion,,,5383.9
+2069,Apple Smartphones,Electronics,INVALID_SUB,Apple,PRICE
+48,Asus Laptops Model-48,Electronics,Laptops,Asus,34133.02
+259,Wildcraft Outdoor Model-259,Sports,Outdoor,Wildcraft,4240.3
+935,H&M Women Model-935,Fashion,Women,H&M,15788.22
+2042,Puma Men Model-2042,Fashion,Men,Puma,31563.3
+1668,Godrej Furniture Model-1668,Home,Furniture,Godrej,11555.32
+1090,Nike Fitness Model-1090,Sports,Fitness,Nike,29233.11
+2089,Adidas Men Model-2089,Fashion,Men,Adidas,727.59
+1973,H&M Women Model-1973,Fashion,Women,H&M,43415.83
+1333,Levis Women Model-1333,Fashion,Women,Levis,24518.86
+2288,,Electronics,Laptops,HP,
+663,Apple Smartphones Model-663,Electronics,Smartphones,Apple,29804.51
+88,Samsung Smartphones Model-88,Electronics,Smartphones,Samsung,49124.19
+272,Apple Smartphones Model-272,Electronics,Smartphones,Apple,20545.05
+1028,Godrej Furniture Model-1028,Home,Furniture,Godrej,28135.85
+221,Pigeon Kitchen Model-221,Home,Kitchen,Pigeon,49137.8
+2365,,Sports,,Reebok,22635.99
+215,Cosco Indoor Model-215,Sports,Indoor,Cosco,48446.13
+2146,Asus Laptops,,Laptops,Asus,
+43,Carter Kids Model-43,Fashion,Kids,Carter,37199.53
+768,Wildcraft Outdoor Model-768,Sports,Outdoor,Wildcraft,33580.31
+1219,OnePlus Smartphones Model-1219,Electronics,Smartphones,OnePlus,22268.79
+2111,,,Smartphones,Apple,15464.66
+1823,Nike Fitness Model-1823,Sports,Fitness,Nike,31531.06
+257,Nike Fitness Model-257,Sports,Fitness,Nike,40382.75
+2131,Reebok Fitness,Sports,,Reebok,
+1084,Yonex Indoor Model-1084,Sports,Indoor,Yonex,32579.81
+PROD###,Nike Men,Fashion,Men,Nike,PRICE
+213,Reebok Fitness Model-213,Sports,Fitness,Reebok,5664.07
+1556,Nike Men Model-1556,Fashion,Men,Nike,44988.28
+2399,,Fashion,Men,Nike,2427.2
+13,Duroflex Decor Model-13,Home,Decor,Duroflex,42323.79
+639,Sony Accessories Model-639,Electronics,Accessories,Sony,15191.25
+1884,Cosco Indoor Model-1884,Sports,Indoor,Cosco,45399.25
+1016,Sony Accessories Model-1016,Electronics,Accessories,Sony,2391.29
+2193,Wildcraft Outdoor,Sports,,Wildcraft,
+1258,HomeCentre Decor Model-1258,Home,Decor,HomeCentre,34602.09
+1892,Godrej Furniture Model-1892,Home,Furniture,Godrej,19794.33
+1903,Duroflex Decor Model-1903,Home,Decor,Duroflex,40937.57
+1455,Google Smartphones Model-1455,Electronics,Smartphones,Google,14438.8
+545,Prestige Kitchen Model-545,Home,Kitchen,Prestige,42869.04
+307,Lenovo Laptops Model-307,Electronics,Laptops,Lenovo,32288.64
+45,OnePlus Smartphones Model-45,Electronics,Smartphones,OnePlus,32179.67
+303,HomeCentre Decor Model-303,Home,Decor,HomeCentre,47665.95
+1101,HomeCentre Decor Model-1101,Home,Decor,HomeCentre,43624.32
+1217,Hopscotch Kids Model-1217,Fashion,Kids,Hopscotch,22757.8
+2997,NULL,Electronics,Laptops,123,39062.11
+ABC123,Prestige Kitchen,Home,Kitchen,Prestige,PRICE
+317,Lenovo Laptops,123,Laptops,Lenovo,39344.53
+2396,Puma Men,Fashion,Men,Puma,
+235,Carter Kids Model-235,Fashion,Kids,Carter,29372.55
+648,Nike Men Model-648,Fashion,Men,Nike,20019.4
+1544,Levis Women Model-1544,Fashion,Women,Levis,19863.65
+807,Carter Kids Model-807,Fashion,Kids,Carter,30247.06
+934,Asus Laptops Model-934,Electronics,Laptops,Asus,1376.51
+1499,H&M Women Model-1499,Fashion,Women,H&M,30251.68
+945,Asus Laptops Model-945,Electronics,Laptops,Asus,42455.14
+1762,HomeCentre Decor,Home,INVALID_SUB,HomeCentre,47970.95
+2252,,Fashion,Kids,Hopscotch,25551.56
+2124,,Home,Kitchen,Prestige,25302.05
+2259,Apple Smartphones,Electronics,,Apple,29747.52
+131,Logitech Accessories Model-131,Electronics,Accessories,Logitech,32272.29
+1351,Nike Men Model-1351,Fashion,Men,Nike,9747.01
+1737,Hopscotch Kids Model-1737,Fashion,Kids,Hopscotch,12169.53
+1779,Yonex Indoor Model-1779,Sports,Indoor,Yonex,3184.57
+278,Puma Men Model-278,Fashion,Men,Puma,23445.73
+1710,NULL,Home,@@@,Prestige,8729.63
+1516,Prestige Kitchen Model-1516,Home,Kitchen,Prestige,3834.42
+1710,Sony Accessories Model-1710,Electronics,Accessories,Sony,7114.15
+2121,,Home,Kitchen,Pigeon,
+1365,Google Smartphones Model-1365,Electronics,Smartphones,Google,38906.15
+1944,Quechua Outdoor Model-1944,Sports,Outdoor,Quechua,32204.93
+2139,Logitech Accessories,,Accessories,Logitech,
+709,Prestige Kitchen Model-709,Home,Kitchen,Prestige,40263.95
+918,Carter Kids Model-918,Fashion,Kids,Carter,45211.67
+450,Zara Women Model-450,Fashion,Women,Zara,9403.31
+458,Carter Kids Model-458,Fashion,Kids,Carter,13448.04
+2329,Yonex Indoor,123,Indoor,Yonex,FREE
+1399,Adidas Men Model-1399,Fashion,Men,Adidas,3456.14
+1096,Reebok Fitness Model-1096,Sports,Fitness,Reebok,2531.82
+731,Lenovo Laptops Model-731,Electronics,Laptops,Lenovo,9463.06
+976,Adidas Men Model-976,Fashion,Men,Adidas,19597.01
+949,Google Smartphones Model-949,Electronics,Smartphones,Google,4884.05
+ABC123,Ikea Furniture,Home,Furniture,Ikea,44160.6
+1732,Quechua Outdoor Model-1732,Sports,Outdoor,Quechua,9417.57
+133,Boat Accessories Model-133,Electronics,Accessories,Boat,31735.38
+1641,Samsung Smartphones Model-1641,Electronics,Smartphones,Samsung,34357.36
+103,Cosco Indoor Model-103,Sports,Indoor,Cosco,20740.11
+328,Levis Women Model-328,Fashion,Women,Levis,15863.97
+2096,Adidas Men Model-2096,Fashion,Men,Adidas,16653.16
+2218,Godrej Furniture,Home,Furniture,,2177.65
+525,Yonex Indoor Model-525,Sports,Indoor,Yonex,42018.45
+1035,Sony Accessories Model-1035,Electronics,Accessories,Sony,47508.22
+327,Sony Accessories Model-327,Electronics,Accessories,Sony,25242.1
+1062,Hopscotch Kids Model-1062,Fashion,Kids,Hopscotch,26471.26
+451,Levis Women Model-451,Fashion,Women,Levis,26170.92
+653,Cosco Indoor Model-653,Sports,Indoor,Cosco,26526.93
+1191,Apple Smartphones Model-1191,Electronics,Smartphones,Apple,11042.74
+2389,Ikea Furniture,Home,,,30751.22
+2265,Wildcraft Outdoor,Sports,Outdoor,,38687.77
+880,Pigeon Kitchen,123,INVALID_SUB,Pigeon,20383.99
+1456,Wildcraft Outdoor Model-1456,Sports,Outdoor,Wildcraft,38466.43
+1883,Prestige Kitchen Model-1883,Home,Kitchen,Prestige,36800.02
+522,Carter Kids,Fashion,Kids,###,FREE
+809,Nike Fitness Model-809,Sports,Fitness,Nike,9025.04
+1588,Samsung Smartphones Model-1588,Electronics,Smartphones,Samsung,5936.37
+ABC123,Lenovo Laptops,Electronics,Laptops,INVALID_BRAND,45726.7
+2201,Wildcraft Outdoor,,Outdoor,Wildcraft,47624.32
+645,Wildcraft Outdoor Model-645,Sports,Outdoor,Wildcraft,40145.12
+998,Asus Laptops Model-998,Electronics,Laptops,Asus,43358.95
+2317,Zara Women,UNKNOWN_CATEGORY,INVALID_SUB,Zara,25327.91
+1957,Ikea Furniture Model-1957,Home,Furniture,Ikea,32657.8
+1486,Pigeon Kitchen,Home,Kitchen,Pigeon,PRICE
+1623,Sony Accessories Model-1623,Electronics,Accessories,Sony,24041.91
+1967,Duroflex Decor Model-1967,Home,Decor,Duroflex,46104.04
+PROD###,Wildcraft Outdoor,Sports,@@@,Wildcraft,32786.25
+2148,Pigeon Kitchen,,Kitchen,Pigeon,
+2110,,,Men,Puma,16206.32
+1963,Samsung Smartphones Model-1963,Electronics,Smartphones,Samsung,30470.33
+2302,Levis Women,Fashion,Women,Levis,
+109,HomeCentre Decor Model-109,Home,Decor,HomeCentre,34916.98
+452,Nike Fitness Model-452,Sports,Fitness,Nike,26140.38
+1327,Google Smartphones Model-1327,Electronics,Smartphones,Google,13496.09
+1508,Puma Men Model-1508,Fashion,Men,Puma,49529.4
+1926,Reebok Fitness Model-1926,Sports,Fitness,Reebok,3448.39
+522,HomeCentre Decor Model-522,Home,Decor,HomeCentre,34396.92
+1816,Pigeon Kitchen Model-1816,Home,Kitchen,Pigeon,2693.68
+1960,Google Smartphones Model-1960,Electronics,Smartphones,Google,18610.21
+630,Wildcraft Outdoor Model-630,Sports,Outdoor,Wildcraft,15436.09
+948,Duroflex Decor Model-948,Home,Decor,Duroflex,46014.76
+1789,Apple Smartphones Model-1789,Electronics,Smartphones,Apple,14213.94
+1337,HomeCentre Decor Model-1337,Home,Decor,HomeCentre,48820.86
+926,Ikea Furniture Model-926,Home,Furniture,Ikea,13590.44
+308,Nike Men Model-308,Fashion,Men,Nike,10586.13
+1025,Nike Men Model-1025,Fashion,Men,Nike,47134.14
+3280,Pigeon Kitchen,Home,Kitchen,Pigeon,PRICE
+388,Zara Women Model-388,Fashion,Women,Zara,5469.6
+1690,Reebok Fitness Model-1690,Sports,Fitness,Reebok,40114.22
+2103,Apple Smartphones,Electronics,,Apple,26582.78
+209,Hopscotch Kids Model-209,Fashion,Kids,Hopscotch,26703.52
+1120,Nike Fitness Model-1120,Sports,Fitness,Nike,30568.42
+324,Prestige Kitchen,Home,999,Prestige,-500
+PROD###,Nike Fitness,###,Fitness,Nike,34816.81
+2119,Prestige Kitchen,,Kitchen,,21270.6
+549,OnePlus Smartphones Model-549,Electronics,Smartphones,OnePlus,28274.83
+1356,Puma Men Model-1356,Fashion,Men,Puma,21434.95
+1989,Ikea Furniture Model-1989,Home,Furniture,Ikea,48624.97
+1476,Zara Women Model-1476,Fashion,Women,Zara,41245.39
+2006,Nike Men Model-2006,Fashion,Men,Nike,4734.91
+1805,Lenovo Laptops Model-1805,Electronics,Laptops,Lenovo,2913.48
+1341,Boat Accessories Model-1341,Electronics,Accessories,Boat,37831.78
+1940,NULL,Home,Furniture,Ikea,45304.83
+1798,Carter Kids Model-1798,Fashion,Kids,Carter,23944.47
+1727,Sony Accessories Model-1727,Electronics,Accessories,Sony,39681.62
+999,Samsung Smartphones Model-999,Electronics,Smartphones,Samsung,42156.27
+1986,Cosco Indoor Model-1986,Sports,Indoor,Cosco,35270.71
+2026,Quechua Outdoor Model-2026,Sports,Outdoor,Quechua,45127.23
+1279,Yonex Indoor Model-1279,Sports,Indoor,Yonex,37068.01
+3128,Logitech Accessories,Electronics,Accessories,Logitech,PRICE
+1015,Samsung Smartphones Model-1015,Electronics,Smartphones,Samsung,16411.75
+1549,OnePlus Smartphones Model-1549,Electronics,Smartphones,OnePlus,32528.19
+3628,Carter Kids,123,Kids,Carter,18567.1
+1457,Nike Fitness Model-1457,Sports,Fitness,Nike,49612.62
+1868,Levis Women Model-1868,Fashion,Women,Levis,42638.03
+1801,Quechua Outdoor Model-1801,Sports,Outdoor,Quechua,7912.03
+1581,H&M Women Model-1581,Fashion,Women,H&M,23479.87
+2269,Puma Men,,Men,Puma,40424.72
+158,Sony Accessories Model-158,Electronics,Accessories,Sony,46055.03
+2181,Godrej Furniture,Home,Furniture,,
+1462,Yonex Indoor Model-1462,Sports,Indoor,Yonex,2601.66
+530,Quechua Outdoor Model-530,Sports,Outdoor,Quechua,29643.26
+770,Boat Accessories Model-770,Electronics,Accessories,Boat,418.69
+1228,Wildcraft Outdoor Model-1228,Sports,Outdoor,Wildcraft,45771.53
+707,Logitech Accessories Model-707,Electronics,Accessories,Logitech,38027.96
+1667,Logitech Accessories Model-1667,Electronics,Accessories,Logitech,21124.13
+456,Samsung Smartphones Model-456,Electronics,Smartphones,Samsung,13539.27
+1560,Logitech Accessories Model-1560,Electronics,Accessories,Logitech,14746.52
+56,Cosco Indoor Model-56,Sports,Indoor,Cosco,18700.44
+1076,Sony Accessories Model-1076,Electronics,Accessories,Sony,8278.6
+2232,,Sports,,Quechua,43408.56
+96,Reebok Fitness Model-96,Sports,Fitness,Reebok,14959.73
+1802,Dell Laptops Model-1802,Electronics,Laptops,Dell,9824.52
+2366,Pigeon Kitchen,Home,Kitchen,INVALID_BRAND,PRICE
+915,Samsung Smartphones Model-915,Electronics,Smartphones,Samsung,47867.09
+536,Levis Women Model-536,Fashion,Women,Levis,45365.73
+2458,Sony Accessories,Electronics,999,Sony,6294.36
+376,HomeCentre Decor Model-376,Home,Decor,HomeCentre,45124.45
+87,Levis Women Model-87,Fashion,Women,Levis,19370.15
+160,Yonex Indoor Model-160,Sports,Indoor,Yonex,1068.1
+869,HomeCentre Decor Model-869,Home,Decor,HomeCentre,44281.35
+2137,,Fashion,Kids,Carter,13684.51
+3238,Yonex Indoor,###,Indoor,Yonex,37170.25
+170,Zara Women Model-170,Fashion,Women,Zara,23083.05
+1863,Zara Women Model-1863,Fashion,Women,Zara,13673.74
+496,Prestige Kitchen Model-496,Home,Kitchen,Prestige,10594.89
+2210,Pigeon Kitchen,,Kitchen,Pigeon,
+2368,HomeCentre Decor,Home,,HomeCentre,16018.5
+1393,Puma Men Model-1393,Fashion,Men,Puma,946.43
+193,Sony Accessories Model-193,Electronics,Accessories,Sony,49490.75
+1102,Ikea Furniture Model-1102,Home,Furniture,Ikea,42033.44
+992,Wildcraft Outdoor Model-992,Sports,Outdoor,Wildcraft,1698.93
+955,Asus Laptops Model-955,Electronics,Laptops,Asus,20054.58
+1957,Ikea Furniture Model-1957,Home,Furniture,Ikea,32657.8
+883,Godrej Furniture Model-883,Home,Furniture,Godrej,2060.32
+1158,Adidas Men Model-1158,Fashion,Men,Adidas,40396.88
+1459,Dell Laptops Model-1459,Electronics,Laptops,Dell,6173.46
+740,Adidas Men Model-740,Fashion,Men,Adidas,47806.6
+1481,Wildcraft Outdoor Model-1481,Sports,Outdoor,Wildcraft,15781.72
+613,Asus Laptops,Electronics,INVALID_SUB,Asus,34642.83
+724,Puma Men Model-724,Fashion,Men,Puma,32057.68
+1436,Quechua Outdoor Model-1436,Sports,Outdoor,Quechua,5458.7
+338,Adidas Men Model-338,Fashion,Men,Adidas,33707.53
+2376,Puma Men,Fashion,Men,,44411.26
+74,Carter Kids Model-74,Fashion,Kids,Carter,21077.71
+1432,Prestige Kitchen Model-1432,Home,Kitchen,Prestige,25488.24
+982,Nike Fitness Model-982,Sports,Fitness,Nike,2869.69
+2082,Hopscotch Kids Model-2082,Fashion,Kids,Hopscotch,19055.13
+1966,Logitech Accessories Model-1966,Electronics,Accessories,Logitech,15489.16
+790,Cosco Indoor Model-790,Sports,Indoor,Cosco,9871.54
+1812,OnePlus Smartphones,123,Smartphones,INVALID_BRAND,7257.86
+7,Prestige Kitchen Model-7,Home,Kitchen,Prestige,5469.62
+338,Puma Men,UNKNOWN_CATEGORY,@@@,Puma,4127.71
+1502,Carter Kids Model-1502,Fashion,Kids,Carter,41778.17
+1403,Yonex Indoor Model-1403,Sports,Indoor,Yonex,35247.03
+1990,Carter Kids Model-1990,Fashion,Kids,Carter,18861.03
+1336,Nike Fitness Model-1336,Sports,Fitness,Nike,13271.05
+72,Quechua Outdoor Model-72,Sports,Outdoor,Quechua,45791.18
+1910,Samsung Smartphones Model-1910,Electronics,Smartphones,Samsung,17973.82
+1891,Duroflex Decor Model-1891,Home,Decor,Duroflex,27334.23
+2247,,Fashion,Kids,,22730.24
+2543,12345,Home,999,Duroflex,23612.51
+211,Zara Women Model-211,Fashion,Women,Zara,18499.49
+151,Puma Men Model-151,Fashion,Men,Puma,18610.44
+350,Carter Kids Model-350,Fashion,Kids,Carter,15021.38
+1693,H&M Women Model-1693,Fashion,Women,H&M,9573.22
+1754,Duroflex Decor Model-1754,Home,Decor,Duroflex,2382.7
+383,Cosco Indoor Model-383,Sports,Indoor,Cosco,11450.73
+2358,OnePlus Smartphones,Electronics,,OnePlus,176.1
+644,Prestige Kitchen Model-644,Home,Kitchen,Prestige,3859.71
+841,Carter Kids Model-841,Fashion,Kids,Carter,34583.0
+2162,HP Laptops,Electronics,,,16473.94
+988,Hopscotch Kids Model-988,Fashion,Kids,Hopscotch,14325.53
+1764,Asus Laptops Model-1764,Electronics,Laptops,Asus,15493.03
+1498,Wildcraft Outdoor Model-1498,Sports,Outdoor,Wildcraft,47698.83
+197,Yonex Indoor Model-197,Sports,Indoor,Yonex,27778.05
+754,HP Laptops Model-754,Electronics,Laptops,HP,42667.13
+2126,OnePlus Smartphones,Electronics,Smartphones,,20014.61
+1593,Puma Men Model-1593,Fashion,Men,Puma,18015.46
+2303,Cosco Indoor,Sports,,Cosco,30753.6
+156,Reebok Fitness Model-156,Sports,Fitness,Reebok,8929.25
+310,Google Smartphones Model-310,Electronics,Smartphones,Google,28666.86
+514,HomeCentre Decor Model-514,Home,Decor,HomeCentre,8778.19
+1799,Samsung Smartphones Model-1799,Electronics,Smartphones,Samsung,46993.55
+1170,Reebok Fitness Model-1170,Sports,Fitness,Reebok,18002.07
+1671,HomeCentre Decor Model-1671,Home,Decor,HomeCentre,26114.39
+2375,Zara Women,,Women,Zara,19776.96
+387,Cosco Indoor Model-387,Sports,Indoor,Cosco,9953.54
+1552,Carter Kids,123,@@@,Carter,36800.4
+130,Nike Fitness Model-130,Sports,Fitness,Nike,34084.64
+1416,Wildcraft Outdoor Model-1416,Sports,Outdoor,Wildcraft,29941.52
+1908,Logitech Accessories Model-1908,Electronics,Accessories,Logitech,21989.22
+2392,Yonex Indoor,Sports,,Yonex,20983.13
+792,Pigeon Kitchen Model-792,Home,Kitchen,Pigeon,45574.02
+3850,Carter Kids,###,Kids,###,24468.51
+2380,,,Laptops,HP,25168.51
+1227,Adidas Men Model-1227,Fashion,Men,Adidas,41180.91
+1459,Dell Laptops Model-1459,Electronics,Laptops,Dell,6173.46
+837,HomeCentre Decor Model-837,Home,Decor,HomeCentre,3469.58
+622,Puma Men Model-622,Fashion,Men,Puma,23754.64
+1647,Carter Kids Model-1647,Fashion,Kids,Carter,47422.36
+48,Asus Laptops Model-48,Electronics,Laptops,Asus,34133.02
+681,Logitech Accessories Model-681,Electronics,Accessories,Logitech,24606.22
+2203,,Home,Furniture,Ikea,17990.64
+INVALID,HomeCentre Decor,Home,Decor,INVALID_BRAND,43182.48
+372,Quechua Outdoor Model-372,Sports,Outdoor,Quechua,48445.73
+1236,Hopscotch Kids Model-1236,Fashion,Kids,Hopscotch,39602.64
+860,Duroflex Decor Model-860,Home,Decor,Duroflex,31838.94
+898,Logitech Accessories Model-898,Electronics,Accessories,Logitech,16913.86
+471,OnePlus Smartphones Model-471,Electronics,Smartphones,OnePlus,34286.49
+995,Logitech Accessories Model-995,Electronics,Accessories,Logitech,23967.92
+1663,Carter Kids Model-1663,Fashion,Kids,Carter,35303.7
+569,Yonex Indoor Model-569,Sports,Indoor,Yonex,27530.28
+876,Nike Fitness Model-876,Sports,Fitness,Nike,43575.72
+1636,Ikea Furniture Model-1636,Home,Furniture,Ikea,42756.96
+771,Samsung Smartphones,Electronics,INVALID_SUB,###,8703.58
+2087,Quechua Outdoor Model-2087,Sports,Outdoor,Quechua,45086.48
+1653,Quechua Outdoor Model-1653,Sports,Outdoor,Quechua,41306.85
+699,Quechua Outdoor Model-699,Sports,Outdoor,Quechua,17332.69
+337,OnePlus Smartphones Model-337,Electronics,Smartphones,OnePlus,14015.67
+692,Logitech Accessories Model-692,Electronics,Accessories,Logitech,43466.68
+1442,Lenovo Laptops Model-1442,Electronics,Laptops,Lenovo,42827.64
+280,Prestige Kitchen Model-280,Home,Kitchen,Prestige,38161.3
+241,Puma Men Model-241,Fashion,Men,Puma,18826.69
+1248,Adidas Men Model-1248,Fashion,Men,Adidas,11906.16
+3912,Cosco Indoor,###,Indoor,Cosco,28666.07
+1857,Ikea Furniture Model-1857,Home,Furniture,Ikea,26165.53
+2310,,Electronics,Accessories,Boat,10078.68
+400,Lenovo Laptops Model-400,Electronics,Laptops,Lenovo,46813.77
+157,Wildcraft Outdoor Model-157,Sports,Outdoor,Wildcraft,12129.22
+840,Cosco Indoor,Sports,999,###,20607.68
+1335,Hopscotch Kids Model-1335,Fashion,Kids,Hopscotch,30702.66
+1925,Puma Men Model-1925,Fashion,Men,Puma,22385.38
+20,Apple Smartphones Model-20,Electronics,Smartphones,Apple,11080.38
+2299,,Sports,,Yonex,17653.34
+769,Reebok Fitness Model-769,Sports,Fitness,Reebok,42784.08
+2330,Asus Laptops,Electronics,Laptops,,14151.78
+INVALID,Cosco Indoor,Sports,Indoor,Cosco,32478.06
+1380,Reebok Fitness Model-1380,Sports,Fitness,Reebok,36239.47
+2054,Zara Women Model-2054,Fashion,Women,Zara,46928.82
+1109,Pigeon Kitchen Model-1109,Home,Kitchen,Pigeon,27606.54
+825,Ikea Furniture Model-825,Home,Furniture,Ikea,708.61
+1954,Godrej Furniture Model-1954,Home,Furniture,Godrej,11923.66
+1999,Duroflex Decor Model-1999,Home,Decor,Duroflex,30557.95
+2026,Quechua Outdoor Model-2026,Sports,Outdoor,Quechua,45127.23
+2248,Quechua Outdoor,,Outdoor,Quechua,16274.61
+1830,Boat Accessories Model-1830,Electronics,Accessories,Boat,47136.49
+571,Cosco Indoor Model-571,Sports,Indoor,Cosco,23156.0
+270,Pigeon Kitchen Model-270,Home,Kitchen,Pigeon,2024.01
+1474,Wildcraft Outdoor,UNKNOWN_CATEGORY,Outdoor,Wildcraft,40632.13
+PROD###,Nike Fitness,Sports,@@@,Nike,42547.86
+1514,Logitech Accessories Model-1514,Electronics,Accessories,Logitech,1004.8
+1147,Adidas Men Model-1147,Fashion,Men,Adidas,1863.02
+1140,Godrej Furniture Model-1140,Home,Furniture,Godrej,15717.5
+783,Duroflex Decor Model-783,Home,Decor,Duroflex,38953.71
+1427,Duroflex Decor Model-1427,Home,Decor,Duroflex,38598.42
+1480,Ikea Furniture Model-1480,Home,Furniture,Ikea,9261.3
+1161,Zara Women,Fashion,Women,Zara,-500
+1362,Quechua Outdoor,###,Outdoor,123,48049.49
+911,Apple Smartphones Model-911,Electronics,Smartphones,Apple,16003.75
+123,Zara Women Model-123,Fashion,Women,Zara,4102.9
+829,Nike Fitness Model-829,Sports,Fitness,Nike,6949.4
+1454,Lenovo Laptops Model-1454,Electronics,Laptops,Lenovo,46042.88
+2128,Reebok Fitness,,Fitness,Reebok,26181.51
+1052,Asus Laptops Model-1052,Electronics,Laptops,Asus,351.03
+472,HomeCentre Decor Model-472,Home,Decor,HomeCentre,39881.45
+1724,Nike Fitness Model-1724,Sports,Fitness,Nike,25445.97
+657,HomeCentre Decor Model-657,Home,Decor,HomeCentre,1849.24
+854,Prestige Kitchen Model-854,Home,Kitchen,Prestige,12775.78
+1660,Quechua Outdoor Model-1660,Sports,Outdoor,Quechua,21452.47
+2395,Reebok Fitness,,Fitness,Reebok,
+442,Hopscotch Kids Model-442,Fashion,Kids,Hopscotch,24220.55
+610,HomeCentre Decor Model-610,Home,Decor,HomeCentre,16627.53
+1225,Dell Laptops Model-1225,Electronics,Laptops,Dell,29328.44
+1984,H&M Women Model-1984,Fashion,Women,H&M,33629.12
+2221,Boat Accessories,Electronics,,Boat,3918.87
+289,H&M Women Model-289,Fashion,Women,H&M,29746.34
+585,Yonex Indoor Model-585,Sports,Indoor,Yonex,47178.65
+1986,@@@@,Electronics,Accessories,Sony,6304.19
+1829,Hopscotch Kids Model-1829,Fashion,Kids,Hopscotch,2263.9
+1706,Adidas Men Model-1706,Fashion,Men,Adidas,17735.93
+1639,Logitech Accessories Model-1639,Electronics,Accessories,Logitech,31355.41
+1,Google Smartphones Model-1,Electronics,Smartphones,Google,13889.82
+1423,Boat Accessories Model-1423,Electronics,Accessories,Boat,36521.74
+1589,H&M Women Model-1589,Fashion,Women,H&M,22008.27
+660,Pigeon Kitchen Model-660,Home,Kitchen,Pigeon,33643.48
+2354,Google Smartphones,Electronics,@@@,Google,34038.36
+3166,NULL,Fashion,Men,Nike,47195.23
+1863,Zara Women Model-1863,Fashion,Women,Zara,13673.74
+922,Reebok Fitness Model-922,Sports,Fitness,Reebok,45752.46
+625,HomeCentre Decor Model-625,Home,Decor,HomeCentre,16144.96
+2171,Pigeon Kitchen,Home,Kitchen,,
+1482,Levis Women Model-1482,Fashion,Women,Levis,19439.3
+1472,Yonex Indoor Model-1472,Sports,Indoor,Yonex,7776.4
+178,Cosco Indoor Model-178,Sports,Indoor,Cosco,38543.11
+511,Puma Men Model-511,Fashion,Men,Puma,8489.1
+1914,Boat Accessories Model-1914,Electronics,Accessories,Boat,17296.61
+1571,Hopscotch Kids Model-1571,Fashion,Kids,Hopscotch,28265.31
+188,Godrej Furniture Model-188,Home,Furniture,Godrej,42760.29
+1775,Quechua Outdoor Model-1775,Sports,Outdoor,Quechua,24240.73
+2071,Adidas Men,Fashion,999,INVALID_BRAND,15758.92
+1886,Samsung Smartphones Model-1886,Electronics,Smartphones,Samsung,30897.56
+445,HomeCentre Decor Model-445,Home,Decor,HomeCentre,15851.89
+1670,Cosco Indoor Model-1670,Sports,Indoor,Cosco,37705.14
+1672,Zara Women Model-1672,Fashion,Women,Zara,7515.29
+1083,Adidas Men Model-1083,Fashion,Men,Adidas,14505.83
+2262,H&M Women,,Women,H&M,28958.52
+2061,Boat Accessories Model-2061,Electronics,Accessories,Boat,17986.67
+2183,HomeCentre Decor,Home,Decor,HomeCentre,
+2313,Hopscotch Kids,,Kids,Hopscotch,49629.82
+397,HomeCentre Decor Model-397,Home,Decor,HomeCentre,27739.41
+142,Godrej Furniture Model-142,Home,Furniture,Godrej,49796.69
+1301,Duroflex Decor Model-1301,Home,Decor,Duroflex,26322.89
+1722,Lenovo Laptops Model-1722,Electronics,Laptops,Lenovo,17329.76
+2222,,Sports,Indoor,Cosco,21463.74
+3191,Hopscotch Kids,UNKNOWN_CATEGORY,Kids,INVALID_BRAND,36507.69
+2164,,Sports,Indoor,Yonex,39157.51
+155,Zara Women Model-155,Fashion,Women,Zara,3395.3
+2296,Logitech Accessories,Electronics,Accessories,Logitech,
+389,Levis Women Model-389,Fashion,Women,Levis,25264.62
+1855,12345,Home,Kitchen,###,36706.66
+1195,Apple Smartphones Model-1195,Electronics,Smartphones,Apple,29809.34
+1565,Adidas Men Model-1565,Fashion,Men,Adidas,46620.23
+547,Carter Kids Model-547,Fashion,Kids,Carter,2862.37
+2143,Ikea Furniture,Home,,,11658.49
+1664,Godrej Furniture Model-1664,Home,Furniture,Godrej,35754.2
+835,Asus Laptops Model-835,Electronics,Laptops,Asus,17381.36
+973,HP Laptops Model-973,Electronics,Laptops,HP,28332.1
+759,Reebok Fitness Model-759,Sports,Fitness,Reebok,46700.09
+627,HomeCentre Decor Model-627,Home,Decor,HomeCentre,15698.96
+704,Reebok Fitness Model-704,Sports,Fitness,Reebok,42863.89
+1809,Ikea Furniture Model-1809,Home,Furniture,Ikea,9334.6
+757,Nike Fitness Model-757,Sports,Fitness,Nike,12895.29
+1909,Duroflex Decor Model-1909,Home,Decor,Duroflex,37697.54
+ABC123,Nike Fitness,Sports,@@@,Nike,29490.66
+363,Pigeon Kitchen Model-363,Home,Kitchen,Pigeon,25677.46
+1682,Logitech Accessories Model-1682,Electronics,Accessories,Logitech,10192.42
+1277,Wildcraft Outdoor Model-1277,Sports,Outdoor,Wildcraft,21944.44
+2016,Nike Men Model-2016,Fashion,Men,Nike,24020.2
+872,Dell Laptops Model-872,Electronics,Laptops,Dell,30508.49
+229,Ikea Furniture Model-229,Home,Furniture,Ikea,2904.57
+PROD###,Pigeon Kitchen,Home,INVALID_SUB,Pigeon,15295.93
+670,Levis Women Model-670,Fashion,Women,Levis,21512.01
+184,Pigeon Kitchen Model-184,Home,Kitchen,Pigeon,47545.07
+2240,,Electronics,Smartphones,Apple,
+694,Apple Smartphones Model-694,Electronics,Smartphones,Apple,16243.92
+1586,Reebok Fitness Model-1586,Sports,Fitness,Reebok,49558.47
+1953,Ikea Furniture Model-1953,Home,Furniture,Ikea,25601.05
+1135,H&M Women Model-1135,Fashion,Women,H&M,39905.79
+93,Pigeon Kitchen Model-93,Home,Kitchen,Pigeon,8708.81
+1572,Duroflex Decor Model-1572,Home,Decor,Duroflex,42980.25
+700,Hopscotch Kids Model-700,Fashion,Kids,Hopscotch,27876.6
+1203,Lenovo Laptops Model-1203,Electronics,Laptops,Lenovo,37392.8
+1698,HomeCentre Decor Model-1698,Home,Decor,HomeCentre,24048.75
+376,HomeCentre Decor Model-376,Home,Decor,HomeCentre,45124.45
+1084,Yonex Indoor Model-1084,Sports,Indoor,Yonex,32579.81
+465,Godrej Furniture Model-465,Home,Furniture,Godrej,3440.25
+333,Puma Men Model-333,Fashion,Men,Puma,4674.41
+1160,H&M Women Model-1160,Fashion,Women,H&M,11495.15
+2236,H&M Women,Fashion,Women,,
+1645,Puma Men Model-1645,Fashion,Men,Puma,38282.51
+561,HomeCentre Decor Model-561,Home,Decor,HomeCentre,39624.1
+764,Dell Laptops Model-764,Electronics,Laptops,Dell,6180.2
+980,Apple Smartphones Model-980,Electronics,Smartphones,Apple,5641.16
+3814,Cosco Indoor,123,Indoor,Cosco,FREE
+539,Carter Kids Model-539,Fashion,Kids,Carter,44598.6
+1413,H&M Women Model-1413,Fashion,Women,H&M,21522.83
+1264,HomeCentre Decor Model-1264,Home,Decor,HomeCentre,43165.99
+981,Hopscotch Kids Model-981,Fashion,Kids,Hopscotch,45126.72
+199,Hopscotch Kids Model-199,Fashion,Kids,Hopscotch,39760.9
+1490,Hopscotch Kids Model-1490,Fashion,Kids,Hopscotch,17105.1
+728,Boat Accessories Model-728,Electronics,Accessories,Boat,49903.14
+1156,Boat Accessories Model-1156,Electronics,Accessories,Boat,49511.09
+589,Godrej Furniture Model-589,Home,Furniture,Godrej,6175.74
+PROD###,Puma Men,Fashion,Men,Puma,41395.73
+463,Duroflex Decor Model-463,Home,Decor,Duroflex,43143.23
+1530,Quechua Outdoor Model-1530,Sports,Outdoor,Quechua,130.1
+752,Pigeon Kitchen Model-752,Home,Kitchen,Pigeon,24403.39
+1718,Carter Kids Model-1718,Fashion,Kids,Carter,13331.85
+2097,Wildcraft Outdoor Model-2097,Sports,Outdoor,Wildcraft,37435.96
+405,OnePlus Smartphones Model-405,Electronics,Smartphones,OnePlus,39825.25
+901,Hopscotch Kids Model-901,Fashion,Kids,Hopscotch,4944.7
+953,12345,Sports,Outdoor,Quechua,PRICE
+703,Sony Accessories Model-703,Electronics,Accessories,Sony,36894.52
+1916,Nike Men Model-1916,Fashion,Men,Nike,38634.68
+3086,Pigeon Kitchen,123,Kitchen,Pigeon,FREE
+1728,Godrej Furniture Model-1728,Home,Furniture,Godrej,38350.28
+864,OnePlus Smartphones Model-864,Electronics,Smartphones,OnePlus,47284.05
+2147,Quechua Outdoor,,Outdoor,Quechua,20072.29
+48,12345,Home,999,Prestige,3704.31
+671,Carter Kids Model-671,Fashion,Kids,Carter,24782.34
+1068,HP Laptops Model-1068,Electronics,Laptops,HP,17257.61
+1046,Hopscotch Kids Model-1046,Fashion,Kids,Hopscotch,36615.28
+1539,Wildcraft Outdoor Model-1539,Sports,Outdoor,Wildcraft,22592.64
+603,Nike Fitness Model-603,Sports,Fitness,Nike,27234.5
+1679,Ikea Furniture Model-1679,Home,Furniture,Ikea,10012.06
+1864,Apple Smartphones Model-1864,Electronics,Smartphones,Apple,31389.26
+1906,Boat Accessories Model-1906,Electronics,Accessories,Boat,16637.87
+ABC123,12345,Fashion,Kids,Carter,23510.25
+1787,HomeCentre Decor Model-1787,Home,Decor,HomeCentre,28101.77
+2362,Zara Women,Fashion,,,45327.97
+3572,@@@@,Sports,Outdoor,###,13424.89
+1807,Asus Laptops Model-1807,Electronics,Laptops,Asus,37838.76
+1555,Hopscotch Kids Model-1555,Fashion,Kids,Hopscotch,19279.91
+1474,Dell Laptops Model-1474,Electronics,Laptops,Dell,2177.8
+1463,Samsung Smartphones Model-1463,Electronics,Smartphones,Samsung,32954.61
+334,Carter Kids Model-334,Fashion,Kids,Carter,3060.04
+115,Google Smartphones Model-115,Electronics,Smartphones,Google,38709.59
+994,Hopscotch Kids,123,Kids,Hopscotch,48389.32
+1873,Adidas Men Model-1873,Fashion,Men,Adidas,48129.75
+1117,Nike Fitness Model-1117,Sports,Fitness,Nike,41335.46
+98,Asus Laptops Model-98,Electronics,Laptops,Asus,2490.23
+967,OnePlus Smartphones Model-967,Electronics,Smartphones,OnePlus,47254.93
+2267,,Electronics,,HP,6721.96
+1148,Cosco Indoor Model-1148,Sports,Indoor,Cosco,26697.18
+1375,Dell Laptops Model-1375,Electronics,Laptops,Dell,48307.27
+676,Prestige Kitchen Model-676,Home,Kitchen,Prestige,49109.78
+PROD###,OnePlus Smartphones,Electronics,Smartphones,OnePlus,6070.25
+1363,Nike Fitness Model-1363,Sports,Fitness,Nike,23428.0
+2898,Sony Accessories,Electronics,INVALID_SUB,Sony,FREE
+1585,Puma Men Model-1585,Fashion,Men,Puma,47754.92
+1887,Pigeon Kitchen Model-1887,Home,Kitchen,Pigeon,31875.19
+1974,NULL,123,Fitness,Nike,22718.66
+1752,Nike Fitness Model-1752,Sports,Fitness,Nike,21331.8
+594,Ikea Furniture Model-594,Home,Furniture,Ikea,41483.12
+647,H&M Women Model-647,Fashion,Women,H&M,29212.19
+913,Nike Fitness Model-913,Sports,Fitness,Nike,11873.32
+751,HomeCentre Decor Model-751,Home,Decor,HomeCentre,24478.85
+2298,,Electronics,Laptops,Asus,
+2055,OnePlus Smartphones Model-2055,Electronics,Smartphones,OnePlus,37929.12
+812,Google Smartphones Model-812,Electronics,Smartphones,Google,3518.66
+576,Cosco Indoor Model-576,Sports,Indoor,Cosco,586.72
+1656,Prestige Kitchen Model-1656,Home,Kitchen,Prestige,31297.9
+291,HomeCentre Decor Model-291,Home,Decor,HomeCentre,7517.77
+2370,Samsung Smartphones,,Smartphones,,15602.42
+1369,Nike Fitness Model-1369,Sports,Fitness,Nike,39151.82
+995,Logitech Accessories Model-995,Electronics,Accessories,Logitech,23967.92
+237,Sony Accessories Model-237,Electronics,Accessories,Sony,16984.78
+1338,Puma Men Model-1338,Fashion,Men,Puma,24498.59
+433,Boat Accessories Model-433,Electronics,Accessories,Boat,46356.97
+2220,,Fashion,Kids,Carter,36868.52
+305,Dell Laptops Model-305,Electronics,Laptops,Dell,48007.49
+298,Dell Laptops Model-298,Electronics,Laptops,Dell,19181.75
+1478,Carter Kids Model-1478,Fashion,Kids,Carter,9637.38
+2348,Yonex Indoor,Sports,Indoor,,27977.74
+2226,,Sports,Indoor,Cosco,42454.03
+1086,Nike Fitness Model-1086,Sports,Fitness,Nike,30855.66
+1305,Pigeon Kitchen Model-1305,Home,Kitchen,Pigeon,49615.71
+1681,Prestige Kitchen Model-1681,Home,Kitchen,Prestige,33303.72
+256,Duroflex Decor Model-256,Home,Decor,Duroflex,28439.46
+2305,,Fashion,Men,Puma,
+150,Reebok Fitness Model-150,Sports,Fitness,Reebok,13870.35
+248,Samsung Smartphones Model-248,Electronics,Smartphones,Samsung,38474.07
+ABC123,HomeCentre Decor,Home,Decor,HomeCentre,39736.77
+502,Nike Men Model-502,Fashion,Men,Nike,15096.22
+1130,HomeCentre Decor Model-1130,Home,Decor,HomeCentre,10147.2
+99,Prestige Kitchen Model-99,Home,Kitchen,Prestige,48238.22
+2327,Hopscotch Kids,Fashion,Kids,,35292.31
+1518,Pigeon Kitchen Model-1518,Home,Kitchen,Pigeon,11993.01
+1587,OnePlus Smartphones Model-1587,Electronics,Smartphones,OnePlus,27074.15
+2360,,Home,,Pigeon,24664.8
+104,Pigeon Kitchen Model-104,Home,Kitchen,Pigeon,12816.97
+INVALID,Godrej Furniture,Home,Furniture,Godrej,12424.33
+730,Quechua Outdoor Model-730,Sports,Outdoor,Quechua,37182.0
+1562,Nike Fitness Model-1562,Sports,Fitness,Nike,41906.48
+527,Hopscotch Kids Model-527,Fashion,Kids,Hopscotch,35126.37
+381,Levis Women Model-381,Fashion,Women,Levis,35942.55
+2151,Ikea Furniture,Home,Furniture,Ikea,
+23,Pigeon Kitchen Model-23,Home,Kitchen,Pigeon,5274.78
+619,HP Laptops Model-619,Electronics,Laptops,HP,43407.91
+747,Nike Fitness Model-747,Sports,Fitness,Nike,41854.81
+1214,Wildcraft Outdoor Model-1214,Sports,Outdoor,Wildcraft,12701.58
+903,OnePlus Smartphones Model-903,Electronics,Smartphones,OnePlus,1292.78
+260,Zara Women Model-260,Fashion,Women,Zara,19074.57
+2210,NULL,123,Men,Puma,45949.58
+2213,,Fashion,Men,Nike,9219.6
+1563,Boat Accessories Model-1563,Electronics,Accessories,Boat,14104.03
+73,Yonex Indoor Model-73,Sports,Indoor,Yonex,25921.51
+2102,,Sports,,Reebok,1309.3
+1078,HomeCentre Decor Model-1078,Home,Decor,HomeCentre,24819.44
+698,Quechua Outdoor Model-698,Sports,Outdoor,Quechua,20684.41
+1703,HomeCentre Decor,Home,Decor,###,3563.69
+1700,Reebok Fitness Model-1700,Sports,Fitness,Reebok,46937.6
+421,Yonex Indoor Model-421,Sports,Indoor,Yonex,30597.52
+1234,Godrej Furniture Model-1234,Home,Furniture,Godrej,14176.88
+677,Apple Smartphones Model-677,Electronics,Smartphones,Apple,8692.22
+1832,Dell Laptops Model-1832,Electronics,Laptops,Dell,140.46
+1054,Nike Fitness Model-1054,Sports,Fitness,Nike,455.64
+609,Godrej Furniture Model-609,Home,Furniture,Godrej,39394.68
+2225,Yonex Indoor,Sports,Indoor,,24225.93
+2051,Adidas Men Model-2051,Fashion,Men,Adidas,25347.69
+972,HomeCentre Decor Model-972,Home,Decor,HomeCentre,45354.29
+1340,Nike Fitness Model-1340,Sports,Fitness,Nike,39584.35
+1576,Reebok Fitness Model-1576,Sports,Fitness,Reebok,43292.51
+526,Samsung Smartphones Model-526,Electronics,Smartphones,Samsung,23747.73
+971,Reebok Fitness Model-971,Sports,Fitness,Reebok,29303.35
+2131,Godrej Furniture,Home,Furniture,Godrej,FREE
+742,Samsung Smartphones Model-742,Electronics,Smartphones,Samsung,25536.97
+1458,Yonex Indoor Model-1458,Sports,Indoor,Yonex,14933.37
+INVALID,Pigeon Kitchen,###,Kitchen,Pigeon,41135.97
+1037,Hopscotch Kids Model-1037,Fashion,Kids,Hopscotch,9378.59
+1758,Hopscotch Kids Model-1758,Fashion,Kids,Hopscotch,1571.66
+729,Samsung Smartphones Model-729,Electronics,Smartphones,Samsung,40633.76
+1464,H&M Women Model-1464,Fashion,Women,H&M,12856.77
+3761,Lenovo Laptops,Electronics,Laptops,INVALID_BRAND,19766.22
+2381,Quechua Outdoor,,Outdoor,Quechua,34577.11
+145,Reebok Fitness Model-145,Sports,Fitness,Reebok,8598.28
+143,Carter Kids Model-143,Fashion,Kids,Carter,18941.13
+1209,Cosco Indoor Model-1209,Sports,Indoor,Cosco,32248.9
+2160,Godrej Furniture,Home,Furniture,,45937.97
+684,Pigeon Kitchen Model-684,Home,Kitchen,Pigeon,45802.09
+1936,Nike Men Model-1936,Fashion,Men,Nike,41371.25
+895,Ikea Furniture Model-895,Home,Furniture,Ikea,30438.06
+1353,Ikea Furniture Model-1353,Home,Furniture,Ikea,12566.52
+946,Sony Accessories Model-946,Electronics,Accessories,Sony,7591.69
+1763,Lenovo Laptops Model-1763,Electronics,Laptops,Lenovo,44093.1
+804,Yonex Indoor Model-804,Sports,Indoor,Yonex,37379.03
+656,Asus Laptops Model-656,Electronics,Laptops,Asus,30268.54
+2209,Zara Women,Fashion,Women,Zara,
+2251,Samsung Smartphones,Electronics,Smartphones,,
+1876,Nike Men Model-1876,Fashion,Men,Nike,11880.26
+1390,Nike Men Model-1390,Fashion,Men,Nike,4813.82
+1466,Zara Women Model-1466,Fashion,Women,Zara,17522.08
+1188,Nike Fitness Model-1188,Sports,Fitness,Nike,39360.47
+3180,Pigeon Kitchen,Home,Kitchen,Pigeon,PRICE
+1243,Duroflex Decor Model-1243,Home,Decor,Duroflex,24115.53
+1994,Yonex Indoor Model-1994,Sports,Indoor,Yonex,43030.45
+1964,Nike Men Model-1964,Fashion,Men,Nike,36444.98
+57,Adidas Men Model-57,Fashion,Men,Adidas,3110.11
+1118,Hopscotch Kids Model-1118,Fashion,Kids,Hopscotch,5490.28
+1106,Reebok Fitness Model-1106,Sports,Fitness,Reebok,45165.81
+479,Ikea Furniture,Home,INVALID_SUB,Ikea,-500
+1800,HomeCentre Decor Model-1800,Home,Decor,HomeCentre,18000.06
+44,Yonex Indoor Model-44,Sports,Indoor,Yonex,26771.54
+1532,Godrej Furniture Model-1532,Home,Furniture,Godrej,32192.39
+159,Nike Fitness Model-159,Sports,Fitness,Nike,9963.05
+1201,Duroflex Decor Model-1201,Home,Decor,Duroflex,6248.89
+424,Quechua Outdoor Model-424,Sports,Outdoor,Quechua,45221.6
+358,Sony Accessories Model-358,Electronics,Accessories,Sony,34608.65
+887,Logitech Accessories Model-887,Electronics,Accessories,Logitech,38289.89
+1546,Yonex Indoor Model-1546,Sports,Indoor,Yonex,20247.49
+1630,Wildcraft Outdoor Model-1630,Sports,Outdoor,Wildcraft,23240.19
+1680,Nike Fitness Model-1680,Sports,Fitness,Nike,22170.09
+1834,H&M Women Model-1834,Fashion,Women,H&M,33640.68
+916,HP Laptops Model-916,Electronics,Laptops,HP,14238.55
+1307,Logitech Accessories Model-1307,Electronics,Accessories,Logitech,1167.37
+2219,Nike Fitness,,Fitness,Nike,17909.73
+348,Asus Laptops Model-348,Electronics,Laptops,Asus,11192.35
+1955,Nike Fitness Model-1955,Sports,Fitness,Nike,10888.76
+2140,Nike Fitness,,Fitness,Nike,423.11
+1467,Duroflex Decor Model-1467,Home,Decor,Duroflex,20563.71
+760,Zara Women Model-760,Fashion,Women,Zara,29873.07
+561,12345,Sports,Outdoor,Quechua,40587.38
+796,Wildcraft Outdoor Model-796,Sports,Outdoor,Wildcraft,6552.41
+638,OnePlus Smartphones Model-638,Electronics,Smartphones,OnePlus,18882.4
+958,Zara Women Model-958,Fashion,Women,Zara,29482.46
+179,Apple Smartphones Model-179,Electronics,Smartphones,Apple,7740.87
+691,Hopscotch Kids Model-691,Fashion,Kids,Hopscotch,40951.02
+1962,Dell Laptops Model-1962,Electronics,Laptops,Dell,37770.17
+328,Levis Women Model-328,Fashion,Women,Levis,15863.97
+2071,Zara Women Model-2071,Fashion,Women,Zara,47551.85
+920,Carter Kids Model-920,Fashion,Kids,Carter,23068.09
+189,Levis Women Model-189,Fashion,Women,Levis,39675.69
+224,Cosco Indoor Model-224,Sports,Indoor,Cosco,4434.92
+908,Yonex Indoor Model-908,Sports,Indoor,Yonex,21163.78
+55,Hopscotch Kids Model-55,Fashion,Kids,Hopscotch,5441.04
+1543,Wildcraft Outdoor Model-1543,Sports,Outdoor,Wildcraft,31489.76
+293,Dell Laptops Model-293,Electronics,Laptops,Dell,39614.53
+1677,Nike Fitness Model-1677,Sports,Fitness,Nike,49914.2
+1359,Ikea Furniture Model-1359,Home,Furniture,Ikea,445.37
+817,HP Laptops Model-817,Electronics,Laptops,HP,27213.39
+620,Pigeon Kitchen Model-620,Home,Kitchen,Pigeon,25830.46
+2398,,Fashion,Kids,Hopscotch,47998.68
+528,Carter Kids Model-528,Fashion,Kids,Carter,25478.1
+1744,Carter Kids Model-1744,Fashion,Kids,Carter,18925.15
+1716,NULL,Sports,Outdoor,Quechua,42240.64
+897,Cosco Indoor Model-897,Sports,Indoor,Cosco,32021.38
+273,Hopscotch Kids Model-273,Fashion,Kids,Hopscotch,19531.28
+91,Samsung Smartphones Model-91,Electronics,Smartphones,Samsung,3538.12
+805,Zara Women Model-805,Fashion,Women,Zara,16349.24
+ABC123,Ikea Furniture,Home,Furniture,Ikea,7704.6
+1941,Ikea Furniture Model-1941,Home,Furniture,Ikea,27573.43
+1223,Boat Accessories Model-1223,Electronics,Accessories,Boat,11206.38
+1938,Asus Laptops Model-1938,Electronics,Laptops,Asus,41208.96
+1689,Prestige Kitchen Model-1689,Home,Kitchen,Prestige,5874.25
+2152,,Electronics,Laptops,HP,
+1360,Dell Laptops Model-1360,Electronics,Laptops,Dell,1995.95
+INVALID,H&M Women,Fashion,Women,H&M,PRICE
+2072,Pigeon Kitchen Model-2072,Home,Kitchen,Pigeon,39106.62
+35,Lenovo Laptops Model-35,Electronics,Laptops,Lenovo,25778.44
+654,Prestige Kitchen Model-654,Home,Kitchen,Prestige,10217.59
+1907,Ikea Furniture Model-1907,Home,Furniture,Ikea,47772.34
+597,Nike Fitness Model-597,Sports,Fitness,Nike,1806.23
+1640,Apple Smartphones Model-1640,Electronics,Smartphones,Apple,25419.14
+3238,H&M Women,Fashion,Women,123,2075.56
+1713,OnePlus Smartphones Model-1713,Electronics,Smartphones,OnePlus,7371.59
+1304,Ikea Furniture Model-1304,Home,Furniture,Ikea,33396.27
+1606,Puma Men Model-1606,Fashion,Men,Puma,26811.59
+339,OnePlus Smartphones Model-339,Electronics,Smartphones,OnePlus,15232.08
+375,Duroflex Decor Model-375,Home,Decor,Duroflex,19236.13
+1118,Hopscotch Kids Model-1118,Fashion,Kids,Hopscotch,5490.28
+1982,Duroflex Decor Model-1982,Home,Decor,Duroflex,28106.94
+822,Google Smartphones Model-822,Electronics,Smartphones,Google,45829.61
+490,Hopscotch Kids Model-490,Fashion,Kids,Hopscotch,32112.29
+2259,NULL,Sports,Indoor,###,6487.71
+1898,Asus Laptops Model-1898,Electronics,Laptops,Asus,37546.53
+1433,OnePlus Smartphones Model-1433,Electronics,Smartphones,OnePlus,22466.72
+2319,Wildcraft Outdoor,,Outdoor,,2586.74
+319,Duroflex Decor Model-319,Home,Decor,Duroflex,24963.63
+ABC123,Adidas Men,Fashion,Men,Adidas,PRICE
+568,Lenovo Laptops Model-568,Electronics,Laptops,Lenovo,12022.57
+52,Boat Accessories Model-52,Electronics,Accessories,Boat,32771.96
+1894,Hopscotch Kids Model-1894,Fashion,Kids,Hopscotch,45898.03
+1251,Lenovo Laptops Model-1251,Electronics,Laptops,Lenovo,14773.63
+2241,,,Furniture,Godrej,38791.29
+1132,Nike Fitness Model-1132,Sports,Fitness,Nike,15552.57
+286,Duroflex Decor Model-286,Home,Decor,Duroflex,4742.36
+78,Reebok Fitness Model-78,Sports,Fitness,Reebok,8304.67
+198,Reebok Fitness Model-198,Sports,Fitness,Reebok,28957.72
+984,Sony Accessories Model-984,Electronics,Accessories,Sony,49889.18
+2056,Ikea Furniture Model-2056,Home,Furniture,Ikea,1871.34
+31,Sony Accessories Model-31,Electronics,Accessories,Sony,33777.78
+1513,Nike Fitness Model-1513,Sports,Fitness,Nike,39841.4
+941,Duroflex Decor Model-941,Home,Decor,Duroflex,33728.01
+1027,Godrej Furniture Model-1027,Home,Furniture,Godrej,17066.84
+412,Ikea Furniture Model-412,Home,Furniture,Ikea,11479.07
+1198,Google Smartphones Model-1198,Electronics,Smartphones,Google,4151.3
+1401,Levis Women Model-1401,Fashion,Women,Levis,28973.38
+986,Boat Accessories Model-986,Electronics,Accessories,Boat,8666.76
+1235,Hopscotch Kids Model-1235,Fashion,Kids,Hopscotch,24625.09
+1484,HomeCentre Decor Model-1484,Home,Decor,HomeCentre,6750.12
+919,Carter Kids Model-919,Fashion,Kids,Carter,25724.61
+1161,Pigeon Kitchen Model-1161,Home,Kitchen,Pigeon,31415.66
+2022,HomeCentre Decor Model-2022,Home,Decor,HomeCentre,2517.55
+1966,Logitech Accessories Model-1966,Electronics,Accessories,Logitech,15489.16
+483,Lenovo Laptops Model-483,Electronics,Laptops,Lenovo,28148.44
+1867,HP Laptops Model-1867,Electronics,Laptops,HP,21140.88
+1266,Pigeon Kitchen Model-1266,Home,Kitchen,Pigeon,49738.21
+1322,Hopscotch Kids Model-1322,Fashion,Kids,Hopscotch,24770.23
+1945,Samsung Smartphones Model-1945,Electronics,Smartphones,Samsung,16849.8
+1066,Boat Accessories Model-1066,Electronics,Accessories,Boat,46581.42
+1750,Prestige Kitchen Model-1750,Home,Kitchen,Prestige,1343.25
+1649,Yonex Indoor Model-1649,Sports,Indoor,Yonex,9960.34
+249,H&M Women Model-249,Fashion,Women,H&M,32804.97
+2179,,Fashion,Kids,Hopscotch,20101.78
+2172,HomeCentre Decor,Home,Decor,HomeCentre,
+1248,Adidas Men Model-1248,Fashion,Men,Adidas,11906.16
+1152,Nike Men Model-1152,Fashion,Men,Nike,15808.04
+846,Nike Fitness Model-846,Sports,Fitness,Nike,9219.98
+10,Adidas Men Model-10,Fashion,Men,Adidas,41244.09
+61,Sony Accessories Model-61,Electronics,Accessories,Sony,24841.05
+1065,Puma Men Model-1065,Fashion,Men,Puma,30773.11
+1840,Adidas Men Model-1840,Fashion,Men,Adidas,47265.58
+203,Dell Laptops Model-203,Electronics,Laptops,Dell,33224.32
+1159,Pigeon Kitchen Model-1159,Home,Kitchen,Pigeon,5767.89
+1465,Apple Smartphones Model-1465,Electronics,Smartphones,Apple,47431.69
+724,Puma Men Model-724,Fashion,Men,Puma,32057.68
+1976,Pigeon Kitchen Model-1976,Home,Kitchen,Pigeon,31595.8
+2175,Wildcraft Outdoor,Sports,Outdoor,,40705.09
+1003,Wildcraft Outdoor Model-1003,Sports,Outdoor,Wildcraft,27481.01
+563,Pigeon Kitchen Model-563,Home,Kitchen,Pigeon,7408.8
+2036,Levis Women Model-2036,Fashion,Women,Levis,9361.88
+850,H&M Women Model-850,Fashion,Women,H&M,8202.56
+1296,H&M Women Model-1296,Fashion,Women,H&M,6230.65
+1614,Apple Smartphones Model-1614,Electronics,Smartphones,Apple,21705.88
+530,Quechua Outdoor Model-530,Sports,Outdoor,Quechua,29643.26
+614,Pigeon Kitchen Model-614,Home,Kitchen,Pigeon,16223.42
+2273,Sony Accessories,Electronics,,Sony,
+813,Samsung Smartphones Model-813,Electronics,Smartphones,Samsung,2652.16
+419,Pigeon Kitchen Model-419,Home,Kitchen,Pigeon,29982.14
+1026,Levis Women Model-1026,Fashion,Women,Levis,29602.21
+1485,Godrej Furniture Model-1485,Home,Furniture,Godrej,7551.07
+1221,HomeCentre Decor Model-1221,Home,Decor,HomeCentre,20583.65
+1069,Wildcraft Outdoor Model-1069,Sports,Outdoor,Wildcraft,10025.19
+276,Ikea Furniture Model-276,Home,Furniture,Ikea,48394.41
+366,Hopscotch Kids Model-366,Fashion,Kids,Hopscotch,21982.45
+843,Lenovo Laptops Model-843,Electronics,Laptops,Lenovo,26858.76
+1564,Nike Men Model-1564,Fashion,Men,Nike,4447.4
+893,Yonex Indoor Model-893,Sports,Indoor,Yonex,1821.26
+282,Logitech Accessories Model-282,Electronics,Accessories,Logitech,16889.17
+189,Asus Laptops,Electronics,Laptops,INVALID_BRAND,PRICE
+340,Cosco Indoor Model-340,Sports,Indoor,Cosco,2585.35
+1843,Quechua Outdoor Model-1843,Sports,Outdoor,Quechua,19508.8
+9,Dell Laptops Model-9,Electronics,Laptops,Dell,30301.9
+PROD###,Lenovo Laptops,Electronics,Laptops,Lenovo,-500
+741,Puma Men Model-741,Fashion,Men,Puma,5857.21
+840,Carter Kids Model-840,Fashion,Kids,Carter,24545.21
+1391,Dell Laptops Model-1391,Electronics,Laptops,Dell,45828.08
+1041,Hopscotch Kids,Fashion,Kids,INVALID_BRAND,PRICE
+1635,Logitech Accessories Model-1635,Electronics,Accessories,Logitech,47502.29
+345,Google Smartphones,Electronics,999,Google,FREE
+1646,Asus Laptops Model-1646,Electronics,Laptops,Asus,28266.84
+706,Quechua Outdoor Model-706,Sports,Outdoor,Quechua,45746.38
+947,Reebok Fitness Model-947,Sports,Fitness,Reebok,47866.72
+1056,Levis Women Model-1056,Fashion,Women,Levis,49960.96
+1087,Yonex Indoor Model-1087,Sports,Indoor,Yonex,18529.14
+479,Ikea Furniture Model-479,Home,Furniture,Ikea,43523.99
+1429,Prestige Kitchen Model-1429,Home,Kitchen,Prestige,18297.5
+26,Levis Women Model-26,Fashion,Women,Levis,7873.31
+1004,Zara Women Model-1004,Fashion,Women,Zara,26209.03
+538,Prestige Kitchen Model-538,Home,Kitchen,Prestige,7540.06
+1903,Duroflex Decor Model-1903,Home,Decor,Duroflex,40937.57
+223,Duroflex Decor Model-223,Home,Decor,Duroflex,42859.42
+1952,Lenovo Laptops Model-1952,Electronics,Laptops,Lenovo,22519.41
+722,Duroflex Decor Model-722,Home,Decor,Duroflex,30191.8
+PROD###,Dell Laptops,Electronics,Laptops,Dell,22180.69
+1520,Duroflex Decor Model-1520,Home,Decor,Duroflex,6979.57
+757,Nike Fitness Model-757,Sports,Fitness,Nike,12895.29
+608,Carter Kids Model-608,Fashion,Kids,Carter,42232.79
+1276,Asus Laptops Model-1276,Electronics,Laptops,Asus,48102.1
+1284,Zara Women Model-1284,Fashion,Women,Zara,4094.63
+1699,Carter Kids Model-1699,Fashion,Kids,Carter,33565.89
+1194,Sony Accessories Model-1194,Electronics,Accessories,Sony,28324.32
+1531,Zara Women Model-1531,Fashion,Women,Zara,48942.58
+1039,HomeCentre Decor Model-1039,Home,Decor,HomeCentre,8664.81
+626,HomeCentre Decor Model-626,Home,Decor,HomeCentre,1968.99
+60,Cosco Indoor Model-60,Sports,Indoor,Cosco,6078.92
+2436,Pigeon Kitchen,Home,INVALID_SUB,INVALID_BRAND,3787.81
+457,Levis Women Model-457,Fashion,Women,Levis,9772.19
+2866,Ikea Furniture,Home,INVALID_SUB,Ikea,-500
+2315,,Sports,Fitness,,47140.12
+1735,Godrej Furniture Model-1735,Home,Furniture,Godrej,8236.45
+1826,Levis Women Model-1826,Fashion,Women,Levis,23302.17
+725,Samsung Smartphones Model-725,Electronics,Smartphones,Samsung,7306.85
+1662,Wildcraft Outdoor Model-1662,Sports,Outdoor,Wildcraft,49394.23
+1372,Google Smartphones Model-1372,Electronics,Smartphones,Google,5928.24
+859,Yonex Indoor Model-859,Sports,Indoor,Yonex,18237.68
+41,Godrej Furniture Model-41,Home,Furniture,Godrej,41527.71
+1872,Quechua Outdoor Model-1872,Sports,Outdoor,Quechua,18961.31
+1010,Puma Men Model-1010,Fashion,Men,Puma,12893.8
+2272,OnePlus Smartphones,Electronics,Smartphones,OnePlus,FREE
+1175,Duroflex Decor Model-1175,Home,Decor,Duroflex,46049.08
+3428,Levis Women,Fashion,INVALID_SUB,Levis,9819.3
+1142,Pigeon Kitchen Model-1142,Home,Kitchen,Pigeon,49419.07
+1196,Quechua Outdoor Model-1196,Sports,Outdoor,Quechua,47515.05
+1053,Boat Accessories Model-1053,Electronics,Accessories,Boat,4915.95
+2615,Carter Kids,Fashion,Kids,###,21091.03
+2757,Ikea Furniture,Home,@@@,Ikea,-500
+1850,Prestige Kitchen Model-1850,Home,Kitchen,Prestige,31495.24
+1822,Cosco Indoor Model-1822,Sports,Indoor,Cosco,4532.05
+1281,NULL,Fashion,Men,Adidas,36666.71
+1575,Wildcraft Outdoor Model-1575,Sports,Outdoor,Wildcraft,14073.92
+429,Apple Smartphones Model-429,Electronics,Smartphones,Apple,7561.77
+2072,Pigeon Kitchen Model-2072,Home,Kitchen,Pigeon,39106.62
+67,Prestige Kitchen Model-67,Home,Kitchen,Prestige,45272.68
+1838,Pigeon Kitchen Model-1838,Home,Kitchen,Pigeon,16985.96
+47,Carter Kids Model-47,Fashion,Kids,Carter,14984.68
+545,Prestige Kitchen Model-545,Home,Kitchen,Prestige,42869.04
+606,Lenovo Laptops Model-606,Electronics,Laptops,Lenovo,917.1
+1475,Pigeon Kitchen Model-1475,Home,Kitchen,Pigeon,27900.22
+2013,Lenovo Laptops Model-2013,Electronics,Laptops,Lenovo,12845.98
+913,Nike Fitness Model-913,Sports,Fitness,Nike,11873.32
+423,Levis Women Model-423,Fashion,Women,Levis,14945.55
+1713,OnePlus Smartphones Model-1713,Electronics,Smartphones,OnePlus,7371.59
+786,Carter Kids Model-786,Fashion,Kids,Carter,38521.88
+1701,Hopscotch Kids,Fashion,Kids,INVALID_BRAND,26341.57
+395,Duroflex Decor Model-395,Home,Decor,Duroflex,4550.09
+1031,H&M Women Model-1031,Fashion,Women,H&M,44164.49
+1183,Nike Fitness Model-1183,Sports,Fitness,Nike,15997.9
+874,Duroflex Decor Model-874,Home,Decor,Duroflex,447.02
+970,Cosco Indoor Model-970,Sports,Indoor,Cosco,30883.01
+470,Carter Kids Model-470,Fashion,Kids,Carter,19066.57
+401,Prestige Kitchen Model-401,Home,Kitchen,Prestige,34670.26
+762,Ikea Furniture Model-762,Home,Furniture,Ikea,38360.15
+2227,,Electronics,Laptops,,34658.4
+968,Puma Men Model-968,Fashion,Men,Puma,6127.35
+2369,,Home,Decor,,7112.0
+1891,Duroflex Decor Model-1891,Home,Decor,Duroflex,27334.23
+1743,Hopscotch Kids Model-1743,Fashion,Kids,Hopscotch,29275.85
+1896,Yonex Indoor Model-1896,Sports,Indoor,Yonex,21003.72
+914,HP Laptops Model-914,Electronics,Laptops,HP,27723.65
+1895,Apple Smartphones,UNKNOWN_CATEGORY,@@@,Apple,3397.91
+321,Godrej Furniture Model-321,Home,Furniture,Godrej,41972.92
+713,Prestige Kitchen Model-713,Home,Kitchen,Prestige,41666.52
+600,Puma Men Model-600,Fashion,Men,Puma,26951.83
+1030,Nike Fitness Model-1030,Sports,Fitness,Nike,39829.1
+117,Lenovo Laptops Model-117,Electronics,Laptops,Lenovo,33499.81
+1500,Quechua Outdoor Model-1500,Sports,Outdoor,Quechua,12844.01
+655,Godrej Furniture Model-655,Home,Furniture,Godrej,42587.55
+1063,Prestige Kitchen Model-1063,Home,Kitchen,Prestige,23828.71
+1488,Quechua Outdoor Model-1488,Sports,Outdoor,Quechua,12405.08
+1961,Pigeon Kitchen Model-1961,Home,Kitchen,Pigeon,25719.67
+14,Dell Laptops Model-14,Electronics,Laptops,Dell,26449.66
+2065,HP Laptops,UNKNOWN_CATEGORY,Laptops,HP,25408.05
+129,Wildcraft Outdoor Model-129,Sports,Outdoor,Wildcraft,16475.0
+412,Ikea Furniture Model-412,Home,Furniture,Ikea,11479.07
+1154,Duroflex Decor Model-1154,Home,Decor,Duroflex,11250.88
+1050,Ikea Furniture Model-1050,Home,Furniture,Ikea,23262.63
+537,HomeCentre Decor Model-537,Home,Decor,HomeCentre,25564.1
+1504,Nike Men Model-1504,Fashion,Men,Nike,35752.63
+1854,Carter Kids Model-1854,Fashion,Kids,Carter,2987.38
+1433,Sony Accessories,Electronics,INVALID_SUB,Sony,PRICE
+PROD###,Pigeon Kitchen,Home,999,Pigeon,29512.28
+2314,Hopscotch Kids,Fashion,Kids,Hopscotch,
+2009,H&M Women,Fashion,Women,H&M,PRICE
+861,Prestige Kitchen Model-861,Home,Kitchen,Prestige,43484.59
+2068,Lenovo Laptops Model-2068,Electronics,Laptops,Lenovo,5517.2
+187,Lenovo Laptops Model-187,Electronics,Laptops,Lenovo,15563.68
+940,Nike Fitness Model-940,Sports,Fitness,Nike,28590.26
+2312,Sony Accessories,,,Sony,11229.27
+1205,HomeCentre Decor Model-1205,Home,Decor,HomeCentre,32640.63
+533,Carter Kids Model-533,Fashion,Kids,Carter,24489.25
+2317,Duroflex Decor,Home,,Duroflex,23865.49
+1247,Pigeon Kitchen Model-1247,Home,Kitchen,Pigeon,2730.54
+1100,H&M Women Model-1100,Fashion,Women,H&M,40164.44
+501,Cosco Indoor Model-501,Sports,Indoor,Cosco,47104.27
+2129,,Home,Furniture,,43180.58
+1594,Adidas Men Model-1594,Fashion,Men,Adidas,19421.21
+833,Logitech Accessories Model-833,Electronics,Accessories,Logitech,16483.73
+463,Hopscotch Kids,Fashion,Kids,###,44595.32
+2670,Dell Laptops,Electronics,@@@,Dell,9033.62
+1998,Wildcraft Outdoor Model-1998,Sports,Outdoor,Wildcraft,39660.85
+1244,Boat Accessories Model-1244,Electronics,Accessories,Boat,11250.25
+2034,Puma Men Model-2034,Fashion,Men,Puma,45516.4
+1997,Google Smartphones Model-1997,Electronics,Smartphones,Google,29728.22
+2182,,,Men,Nike,41469.64
+868,Logitech Accessories Model-868,Electronics,Accessories,Logitech,14561.21
+1782,OnePlus Smartphones Model-1782,Electronics,Smartphones,OnePlus,39690.88
+3745,Pigeon Kitchen,Home,Kitchen,INVALID_BRAND,17571.58
+1302,Carter Kids Model-1302,Fashion,Kids,Carter,21056.57
+21,Carter Kids Model-21,Fashion,Kids,Carter,36306.52
+111,Lenovo Laptops Model-111,Electronics,Laptops,Lenovo,48920.46
+2711,Yonex Indoor,Sports,999,Yonex,999.76
+1285,Pigeon Kitchen Model-1285,Home,Kitchen,Pigeon,19824.33
+2281,Hopscotch Kids,Fashion,,,21830.21
+2352,,Home,Kitchen,,37727.1
+2199,Quechua Outdoor,,Outdoor,Quechua,16778.02
+1950,OnePlus Smartphones Model-1950,Electronics,Smartphones,OnePlus,48217.2
+2249,Carter Kids,,Kids,,1809.23
+1674,Quechua Outdoor Model-1674,Sports,Outdoor,Quechua,44672.37
+2141,Cosco Indoor,,Indoor,Cosco,37444.41
+1041,Boat Accessories Model-1041,Electronics,Accessories,Boat,44009.37
+382,Yonex Indoor Model-382,Sports,Indoor,Yonex,45629.86
+1384,Ikea Furniture Model-1384,Home,Furniture,Ikea,45622.68
+1702,Wildcraft Outdoor Model-1702,Sports,Outdoor,Wildcraft,1850.4
+845,Quechua Outdoor Model-845,Sports,Outdoor,Quechua,12530.24
+2688,Adidas Men,Fashion,@@@,Adidas,27849.28
+6,Logitech Accessories Model-6,Electronics,Accessories,Logitech,31341.86
+482,HomeCentre Decor Model-482,Home,Decor,HomeCentre,23473.45
+2157,Yonex Indoor,Sports,Indoor,,
+1913,Carter Kids Model-1913,Fashion,Kids,Carter,20422.43
+1962,Dell Laptops Model-1962,Electronics,Laptops,Dell,37770.17
+349,Yonex Indoor Model-349,Sports,Indoor,Yonex,36246.41
+1479,Wildcraft Outdoor Model-1479,Sports,Outdoor,Wildcraft,44654.82
+ABC123,Adidas Men,Fashion,Men,Adidas,FREE
+INVALID,HomeCentre Decor,Home,Decor,HomeCentre,5849.4
+853,Reebok Fitness Model-853,Sports,Fitness,Reebok,27445.26
+621,Google Smartphones Model-621,Electronics,Smartphones,Google,48664.23
+1169,Nike Fitness Model-1169,Sports,Fitness,Nike,21270.37
+296,Reebok Fitness Model-296,Sports,Fitness,Reebok,44585.89
+147,Quechua Outdoor Model-147,Sports,Outdoor,Quechua,3655.21
+2015,Nike Fitness Model-2015,Sports,Fitness,Nike,6586.54
+715,Asus Laptops Model-715,Electronics,Laptops,Asus,49562.06
+674,Puma Men Model-674,Fashion,Men,Puma,26540.84
+1538,Lenovo Laptops Model-1538,Electronics,Laptops,Lenovo,4351.84
+1613,Cosco Indoor Model-1613,Sports,Indoor,Cosco,21201.25
+2017,Apple Smartphones Model-2017,Electronics,Smartphones,Apple,31369.63
+ABC123,OnePlus Smartphones,Electronics,Smartphones,OnePlus,47944.48
+1958,Asus Laptops Model-1958,Electronics,Laptops,Asus,29874.71
+1604,Sony Accessories Model-1604,Electronics,Accessories,Sony,16820.56
+836,Reebok Fitness Model-836,Sports,Fitness,Reebok,4932.18
+1719,Nike Fitness Model-1719,Sports,Fitness,Nike,23446.57
+1742,Godrej Furniture Model-1742,Home,Furniture,Godrej,39657.96
+1756,Duroflex Decor Model-1756,Home,Decor,Duroflex,627.85
+732,Puma Men Model-732,Fashion,Men,Puma,36502.58
+392,Nike Men Model-392,Fashion,Men,Nike,37700.8
+449,Adidas Men Model-449,Fashion,Men,Adidas,710.3
+2367,Apple Smartphones,,,Apple,41855.86
+1853,Godrej Furniture Model-1853,Home,Furniture,Godrej,4737.2
+1361,Logitech Accessories Model-1361,Electronics,Accessories,Logitech,49669.05
+1115,Yonex Indoor Model-1115,Sports,Indoor,Yonex,25425.3
+102,Yonex Indoor Model-102,Sports,Indoor,Yonex,41661.37
+2145,Pigeon Kitchen,Home,Kitchen,Pigeon,
+519,H&M Women Model-519,Fashion,Women,H&M,29082.23
+42,Zara Women Model-42,Fashion,Women,Zara,39380.07
+1506,Nike Fitness Model-1506,Sports,Fitness,Nike,11647.68
+1521,Hopscotch Kids Model-1521,Fashion,Kids,Hopscotch,14021.69
+113,Asus Laptops Model-113,Electronics,Laptops,Asus,42924.68
+1455,Google Smartphones Model-1455,Electronics,Smartphones,Google,14438.8
+1268,Levis Women Model-1268,Fashion,Women,Levis,5613.61
+2132,OnePlus Smartphones,,Smartphones,OnePlus,
+1623,Sony Accessories Model-1623,Electronics,Accessories,Sony,24041.91
+1741,Levis Women Model-1741,Fashion,Women,Levis,32661.01
+2106,,,Women,Levis,32150.06
+1408,Pigeon Kitchen Model-1408,Home,Kitchen,Pigeon,24577.83
+1542,H&M Women Model-1542,Fashion,Women,H&M,14549.86
+201,Boat Accessories Model-201,Electronics,Accessories,Boat,15680.17
+1008,Pigeon Kitchen Model-1008,Home,Kitchen,Pigeon,24122.98
+665,Wildcraft Outdoor Model-665,Sports,Outdoor,Wildcraft,9245.16
+254,HomeCentre Decor Model-254,Home,Decor,HomeCentre,38658.79
+1592,Asus Laptops Model-1592,Electronics,Laptops,Asus,7366.55
+2397,Reebok Fitness,Sports,Fitness,,6218.56
+1094,OnePlus Smartphones Model-1094,Electronics,Smartphones,OnePlus,15006.66
+2067,Wildcraft Outdoor Model-2067,Sports,Outdoor,Wildcraft,41489.82
+852,12345,UNKNOWN_CATEGORY,Fitness,Nike,49270.06
+752,Pigeon Kitchen Model-752,Home,Kitchen,Pigeon,24403.39
+2187,Samsung Smartphones,,Smartphones,Samsung,
+459,Wildcraft Outdoor Model-459,Sports,Outdoor,Wildcraft,106.14
+1550,Carter Kids Model-1550,Fashion,Kids,Carter,38163.21
+1523,Reebok Fitness Model-1523,Sports,Fitness,Reebok,20971.03
+739,Hopscotch Kids Model-739,Fashion,Kids,Hopscotch,6724.92
+978,HomeCentre Decor Model-978,Home,Decor,HomeCentre,23615.7
+1211,Lenovo Laptops Model-1211,Electronics,Laptops,Lenovo,6857.81
+262,Duroflex Decor Model-262,Home,Decor,Duroflex,4779.57
+218,Ikea Furniture Model-218,Home,Furniture,Ikea,22095.73
+3440,Reebok Fitness,Sports,INVALID_SUB,Reebok,7812.8
+1357,Ikea Furniture Model-1357,Home,Furniture,Ikea,9964.85
+546,Nike Fitness Model-546,Sports,Fitness,Nike,11509.61
+720,Ikea Furniture Model-720,Home,Furniture,Ikea,22056.12
+570,Cosco Indoor Model-570,Sports,Indoor,Cosco,11263.26
+2050,Wildcraft Outdoor Model-2050,Sports,Outdoor,Wildcraft,9817.91
+1318,Godrej Furniture Model-1318,Home,Furniture,Godrej,23819.02
+1310,Nike Men Model-1310,Fashion,Men,Nike,33706.17
+ABC123,Duroflex Decor,Home,Decor,Duroflex,28328.5
+3956,12345,Fashion,Men,Nike,13818.11
+1650,Zara Women Model-1650,Fashion,Women,Zara,13601.6
+3824,Cosco Indoor,Sports,Indoor,Cosco,PRICE
+1262,Hopscotch Kids Model-1262,Fashion,Kids,Hopscotch,6498.94
+865,Yonex Indoor Model-865,Sports,Indoor,Yonex,30898.42
+2064,Zara Women Model-2064,Fashion,Women,Zara,36862.34
+1768,Levis Women Model-1768,Fashion,Women,Levis,25144.54
+2059,Cosco Indoor Model-2059,Sports,Indoor,Cosco,21166.73
+1600,Reebok Fitness Model-1600,Sports,Fitness,Reebok,15953.06
+902,HP Laptops Model-902,Electronics,Laptops,HP,22294.78
+507,Prestige Kitchen Model-507,Home,Kitchen,Prestige,25851.6
+2253,HomeCentre Decor,Home,,HomeCentre,29858.02
+1307,Dell Laptops,Electronics,Laptops,123,23864.04
+1281,Reebok Fitness Model-1281,Sports,Fitness,Reebok,22833.44
+1806,HomeCentre Decor Model-1806,Home,Decor,HomeCentre,32848.15
+1151,Duroflex Decor Model-1151,Home,Decor,Duroflex,23461.15
+2371,,Sports,Indoor,Yonex,
+1712,Lenovo Laptops Model-1712,Electronics,Laptops,Lenovo,26641.98
+341,Reebok Fitness Model-341,Sports,Fitness,Reebok,45676.31
+359,Godrej Furniture Model-359,Home,Furniture,Godrej,20630.32
+2060,HomeCentre Decor Model-2060,Home,Decor,HomeCentre,7646.96
+1441,Dell Laptops Model-1441,Electronics,Laptops,Dell,28175.31
+690,Pigeon Kitchen Model-690,Home,Kitchen,Pigeon,13077.13
+233,Carter Kids Model-233,Fashion,Kids,Carter,116.76
+97,Zara Women Model-97,Fashion,Women,Zara,7521.46
+1510,Logitech Accessories Model-1510,Electronics,Accessories,Logitech,36296.93
+1774,Prestige Kitchen Model-1774,Home,Kitchen,Prestige,4821.75
+2342,,Fashion,Kids,Carter,3201.96
+1985,Prestige Kitchen Model-1985,Home,Kitchen,Prestige,45862.96
+415,Levis Women Model-415,Fashion,Women,Levis,14289.95
+705,Sony Accessories Model-705,Electronics,Accessories,Sony,961.19
+1912,Dell Laptops Model-1912,Electronics,Laptops,Dell,8693.22
+2115,Lenovo Laptops,Electronics,,Lenovo,36207.47
+3099,HP Laptops,Electronics,Laptops,123,34468.19
+54,Adidas Men Model-54,Fashion,Men,Adidas,43737.25
+610,Nike Men,Fashion,999,Nike,19562.05
+124,Ikea Furniture Model-124,Home,Furniture,Ikea,7822.51
+515,Adidas Men Model-515,Fashion,Men,Adidas,19821.28
+2300,Godrej Furniture,Home,Furniture,,31058.79
+1278,Boat Accessories Model-1278,Electronics,Accessories,Boat,13129.27
+1255,Google Smartphones Model-1255,Electronics,Smartphones,Google,11591.85
+2730,Godrej Furniture,Home,Furniture,123,-500
+900,Logitech Accessories Model-900,Electronics,Accessories,Logitech,40475.6
+510,Duroflex Decor Model-510,Home,Decor,Duroflex,41375.29
+661,Google Smartphones Model-661,Electronics,Smartphones,Google,34068.63
+1149,Yonex Indoor Model-1149,Sports,Indoor,Yonex,38842.07
+1005,Hopscotch Kids Model-1005,Fashion,Kids,Hopscotch,40619.55
+1652,HP Laptops Model-1652,Electronics,Laptops,HP,9461.07
+1617,Godrej Furniture Model-1617,Home,Furniture,Godrej,20047.28
+2373,,Sports,Outdoor,Quechua,
+837,HomeCentre Decor Model-837,Home,Decor,HomeCentre,3469.58
+86,HP Laptops Model-86,Electronics,Laptops,HP,199.87
+420,Ikea Furniture Model-420,Home,Furniture,Ikea,28951.33
+362,Nike Men Model-362,Fashion,Men,Nike,39637.4
+712,Prestige Kitchen Model-712,Home,Kitchen,Prestige,48990.51
+2208,Nike Men,Fashion,Men,,43406.63
+460,Adidas Men Model-460,Fashion,Men,Adidas,31587.29
+1937,Duroflex Decor Model-1937,Home,Decor,Duroflex,23537.78
+847,Cosco Indoor Model-847,Sports,Indoor,Cosco,11522.56
+152,Quechua Outdoor Model-152,Sports,Outdoor,Quechua,11367.16
+2161,Adidas Men,Fashion,Men,,
+PROD###,@@@@,Electronics,Accessories,Sony,15264.08
+906,Zara Women Model-906,Fashion,Women,Zara,24632.56
+2076,Pigeon Kitchen Model-2076,Home,Kitchen,Pigeon,34077.98
+80,Duroflex Decor Model-80,Home,Decor,Duroflex,9004.59
+192,@@@@,Home,Kitchen,Prestige,49077.3
+382,12345,Fashion,INVALID_SUB,Nike,34474.36
+1127,Boat Accessories Model-1127,Electronics,Accessories,Boat,10545.01
+2189,,Electronics,,OnePlus,47351.47
+274,Quechua Outdoor Model-274,Sports,Outdoor,Quechua,45999.71
+971,Reebok Fitness Model-971,Sports,Fitness,Reebok,29303.35
+174,Cosco Indoor Model-174,Sports,Indoor,Cosco,21854.58
+2081,Quechua Outdoor Model-2081,Sports,Outdoor,Quechua,2990.95
+81,Boat Accessories Model-81,Electronics,Accessories,Boat,13915.39
+438,OnePlus Smartphones Model-438,Electronics,Smartphones,OnePlus,37385.61
+265,Google Smartphones Model-265,Electronics,Smartphones,Google,12001.76
+356,Wildcraft Outdoor Model-356,Sports,Outdoor,Wildcraft,38595.92
+2257,Google Smartphones,Electronics,Smartphones,,
+INVALID,12345,Home,Decor,Duroflex,16707.55
+1291,Cosco Indoor Model-1291,Sports,Indoor,Cosco,11497.38
+2294,Nike Men,Fashion,,Nike,23970.99
+1758,Hopscotch Kids Model-1758,Fashion,Kids,Hopscotch,1571.66
+518,HomeCentre Decor Model-518,Home,Decor,HomeCentre,40031.57
+242,Sony Accessories Model-242,Electronics,Accessories,Sony,45558.94
+1104,@@@@,UNKNOWN_CATEGORY,Indoor,Cosco,41686.49
+116,Yonex Indoor Model-116,Sports,Indoor,Yonex,47514.57
+2168,Nike Men,Fashion,Men,,
+3014,Nike Fitness,Sports,999,Nike,FREE
+2901,Adidas Men,Fashion,999,Adidas,47027.62
+1382,Prestige Kitchen Model-1382,Home,Kitchen,Prestige,29364.45
+ABC123,Yonex Indoor,Sports,Indoor,Yonex,8792.85
+2242,Reebok Fitness,Sports,Fitness,Reebok,
+1406,Asus Laptops Model-1406,Electronics,Laptops,Asus,12972.19
+605,Google Smartphones Model-605,Electronics,Smartphones,Google,7533.7
+1147,Adidas Men Model-1147,Fashion,Men,Adidas,1863.02
+1598,Google Smartphones Model-1598,Electronics,Smartphones,Google,30336.95
+338,Adidas Men Model-338,Fashion,Men,Adidas,33707.53
+1629,Pigeon Kitchen Model-1629,Home,Kitchen,Pigeon,23218.91
+788,Adidas Men Model-788,Fashion,Men,Adidas,7102.64
+222,HP Laptops Model-222,Electronics,Laptops,HP,30226.12
+2361,Sony Accessories,,,Sony,10201.76
+587,Pigeon Kitchen Model-587,Home,Kitchen,Pigeon,48463.52
+795,Yonex Indoor Model-795,Sports,Indoor,Yonex,10976.19
+1642,Levis Women Model-1642,Fashion,Women,Levis,19815.14
+1804,Hopscotch Kids Model-1804,Fashion,Kids,Hopscotch,25604.24
+1655,Reebok Fitness Model-1655,Sports,Fitness,Reebok,45888.23
+2198,H&M Women,Fashion,Women,H&M,
+403,Asus Laptops,UNKNOWN_CATEGORY,Laptops,###,46174.68
+1942,Sony Accessories Model-1942,Electronics,Accessories,Sony,27422.54
+121,Boat Accessories Model-121,Electronics,Accessories,Boat,13419.86
+51,Cosco Indoor Model-51,Sports,Indoor,Cosco,9316.75
+32,Sony Accessories Model-32,Electronics,Accessories,Sony,8122.28
+2188,,,Laptops,Asus,9457.29
+1969,Carter Kids Model-1969,Fashion,Kids,Carter,8391.67
+2328,,Electronics,Smartphones,Apple,43076.15
+487,Ikea Furniture Model-487,Home,Furniture,Ikea,31080.91
+2052,Ikea Furniture Model-2052,Home,Furniture,Ikea,41478.65
+1116,Nike Fitness Model-1116,Sports,Fitness,Nike,22161.04
+380,Boat Accessories Model-380,Electronics,Accessories,Boat,18170.09
+2046,Reebok Fitness Model-2046,Sports,Fitness,Reebok,10195.57
+PROD###,Boat Accessories,Electronics,Accessories,###,16244.94
+2318,Puma Men,,Men,Puma,
+1703,H&M Women Model-1703,Fashion,Women,H&M,31724.3
+1609,OnePlus Smartphones Model-1609,Electronics,Smartphones,OnePlus,14581.88
+2255,HP Laptops,Electronics,,HP,19160.19
+1821,Carter Kids Model-1821,Fashion,Kids,Carter,46776.6
+774,Nike Fitness Model-774,Sports,Fitness,Nike,29356.63
+1627,Adidas Men Model-1627,Fashion,Men,Adidas,849.13
+1952,@@@@,Sports,Outdoor,Wildcraft,23343.02
+1354,Duroflex Decor Model-1354,Home,Decor,Duroflex,13071.95
+425,Pigeon Kitchen Model-425,Home,Kitchen,Pigeon,10797.41
+1578,Boat Accessories Model-1578,Electronics,Accessories,Boat,11135.05
+800,OnePlus Smartphones Model-800,Electronics,Smartphones,OnePlus,12831.57
+871,Hopscotch Kids Model-871,Fashion,Kids,Hopscotch,18757.33
+1213,Wildcraft Outdoor Model-1213,Sports,Outdoor,Wildcraft,46495.96
+1790,Nike Men Model-1790,Fashion,Men,Nike,5579.33
+252,Cosco Indoor Model-252,Sports,Indoor,Cosco,19333.96
+1049,Yonex Indoor Model-1049,Sports,Indoor,Yonex,23483.39
+785,Nike Men Model-785,Fashion,Men,Nike,18957.48
+362,Nike Men Model-362,Fashion,Men,Nike,39637.4
+2084,Yonex Indoor Model-2084,Sports,Indoor,Yonex,33065.74
+1971,Samsung Smartphones Model-1971,Electronics,Smartphones,Samsung,35525.64
+1901,Samsung Smartphones Model-1901,Electronics,Smartphones,Samsung,42442.01
+1014,Lenovo Laptops Model-1014,Electronics,Laptops,Lenovo,31276.98
+1935,Nike Fitness Model-1935,Sports,Fitness,Nike,35246.76
+1675,HomeCentre Decor Model-1675,Home,Decor,HomeCentre,14092.05
+248,Samsung Smartphones Model-248,Electronics,Smartphones,Samsung,38474.07
+1661,Nike Men Model-1661,Fashion,Men,Nike,9865.67
+535,Duroflex Decor Model-535,Home,Decor,Duroflex,9853.77
+1817,Wildcraft Outdoor Model-1817,Sports,Outdoor,Wildcraft,10929.88
+2377,,Sports,Outdoor,Wildcraft,25238.27
+1964,Nike Men Model-1964,Fashion,Men,Nike,36444.98
+1864,Apple Smartphones Model-1864,Electronics,Smartphones,Apple,31389.26
+561,HomeCentre Decor Model-561,Home,Decor,HomeCentre,39624.1
+889,Pigeon Kitchen Model-889,Home,Kitchen,Pigeon,28300.16
+1171,Carter Kids Model-1171,Fashion,Kids,Carter,15679.55
+1625,Logitech Accessories Model-1625,Electronics,Accessories,Logitech,22276.15
+1723,12345,###,Accessories,Boat,7831.19
+453,Pigeon Kitchen Model-453,Home,Kitchen,Pigeon,34565.6
+552,Hopscotch Kids Model-552,Fashion,Kids,Hopscotch,29447.11
+851,Quechua Outdoor Model-851,Sports,Outdoor,Quechua,15346.63
+794,Quechua Outdoor Model-794,Sports,Outdoor,Quechua,21887.25
+422,Apple Smartphones Model-422,Electronics,Smartphones,Apple,37243.03
+1927,Hopscotch Kids Model-1927,Fashion,Kids,Hopscotch,43521.63
+1581,Sony Accessories,Electronics,@@@,INVALID_BRAND,38578.0
+1929,Godrej Furniture Model-1929,Home,Furniture,Godrej,19273.64
+573,HomeCentre Decor Model-573,Home,Decor,HomeCentre,45039.95
+2282,Yonex Indoor,Sports,Indoor,Yonex,
+3833,NULL,123,Decor,Duroflex,32248.25
+1501,HP Laptops Model-1501,Electronics,Laptops,HP,25911.44
+950,Yonex Indoor Model-950,Sports,Indoor,Yonex,15839.5
+346,HomeCentre Decor Model-346,Home,Decor,HomeCentre,26050.41
+1289,Yonex Indoor Model-1289,Sports,Indoor,Yonex,4849.26
+161,Duroflex Decor Model-161,Home,Decor,Duroflex,15082.1
+1178,Cosco Indoor Model-1178,Sports,Indoor,Cosco,4680.25
+844,Godrej Furniture Model-844,Home,Furniture,Godrej,36143.63
+1620,Yonex Indoor Model-1620,Sports,Indoor,Yonex,22884.96
+372,Duroflex Decor,Home,Decor,###,9664.22
+1736,Puma Men,Fashion,INVALID_SUB,Puma,40477.3
+1291,Cosco Indoor Model-1291,Sports,Indoor,Cosco,11497.38
+2476,Wildcraft Outdoor,Sports,Outdoor,Wildcraft,-500
+1591,Hopscotch Kids Model-1591,Fashion,Kids,Hopscotch,35589.85
+1626,Pigeon Kitchen Model-1626,Home,Kitchen,Pigeon,24527.41
+295,HomeCentre Decor Model-295,Home,Decor,HomeCentre,15571.0
+664,Wildcraft Outdoor Model-664,Sports,Outdoor,Wildcraft,10496.18
+2040,Wildcraft Outdoor Model-2040,Sports,Outdoor,Wildcraft,27762.74
+1880,Logitech Accessories Model-1880,Electronics,Accessories,Logitech,10163.62
+2169,Pigeon Kitchen,,Kitchen,Pigeon,29680.17
+1608,Prestige Kitchen Model-1608,Home,Kitchen,Prestige,16444.71
+1924,Lenovo Laptops Model-1924,Electronics,Laptops,Lenovo,13792.14
+1951,Nike Men Model-1951,Fashion,Men,Nike,16933.22
+2365,Hopscotch Kids,Fashion,Kids,Hopscotch,FREE
+484,Duroflex Decor Model-484,Home,Decor,Duroflex,8995.51
+347,Wildcraft Outdoor Model-347,Sports,Outdoor,Wildcraft,38527.25
+983,Godrej Furniture Model-983,Home,Furniture,Godrej,24839.17
+1356,Puma Men,UNKNOWN_CATEGORY,Men,Puma,PRICE
+58,Duroflex Decor Model-58,Home,Decor,Duroflex,40971.84
+3543,Reebok Fitness,Sports,INVALID_SUB,Reebok,25467.85
+1419,Asus Laptops Model-1419,Electronics,Laptops,Asus,37320.08
+1912,Dell Laptops Model-1912,Electronics,Laptops,Dell,8693.22
+125,Nike Fitness Model-125,Sports,Fitness,Nike,44741.4
+1856,Hopscotch Kids Model-1856,Fashion,Kids,Hopscotch,5424.53
+1497,Dell Laptops Model-1497,Electronics,Laptops,Dell,11699.04
+494,Adidas Men Model-494,Fashion,Men,Adidas,30364.87
+481,Nike Fitness Model-481,Sports,Fitness,Nike,773.62
+2320,HomeCentre Decor,Home,Decor,,
+1270,Reebok Fitness Model-1270,Sports,Fitness,Reebok,18039.06
+206,Pigeon Kitchen Model-206,Home,Kitchen,Pigeon,1315.73
+1866,Reebok Fitness Model-1866,Sports,Fitness,Reebok,4300.56
+2023,Adidas Men Model-2023,Fashion,Men,Adidas,1522.41
+4,Reebok Fitness Model-4,Sports,Fitness,Reebok,10986.33
+270,Pigeon Kitchen Model-270,Home,Kitchen,Pigeon,2024.01
+1146,Puma Men Model-1146,Fashion,Men,Puma,42453.86
+2364,Lenovo Laptops,Electronics,Laptops,Lenovo,
+1047,Samsung Smartphones Model-1047,Electronics,Smartphones,Samsung,23086.32
+2099,Quechua Outdoor Model-2099,Sports,Outdoor,Quechua,5431.21
+29,Cosco Indoor Model-29,Sports,Indoor,Cosco,12313.39
+1109,Pigeon Kitchen Model-1109,Home,Kitchen,Pigeon,27606.54
+2002,Ikea Furniture Model-2002,Home,Furniture,Ikea,24171.93
+290,Boat Accessories Model-290,Electronics,Accessories,Boat,48666.53
+1099,Nike Fitness Model-1099,Sports,Fitness,Nike,34549.99
+1972,Lenovo Laptops Model-1972,Electronics,Laptops,Lenovo,17702.99
+2393,,Fashion,Men,,48056.59
+2044,Pigeon Kitchen Model-2044,Home,Kitchen,Pigeon,42997.34
+1346,Sony Accessories Model-1346,Electronics,Accessories,Sony,12178.47
+1130,Logitech Accessories,Electronics,999,INVALID_BRAND,28142.08
+247,Logitech Accessories Model-247,Electronics,Accessories,Logitech,2949.45
+659,Ikea Furniture Model-659,Home,Furniture,Ikea,44930.61
+105,Godrej Furniture Model-105,Home,Furniture,Godrej,46519.97
+1164,Boat Accessories Model-1164,Electronics,Accessories,Boat,19720.99
+778,Yonex Indoor Model-778,Sports,Indoor,Yonex,23528.01
+1070,Ikea Furniture Model-1070,Home,Furniture,Ikea,6454.88
+331,Hopscotch Kids Model-331,Fashion,Kids,Hopscotch,49173.98
+2174,Nike Fitness,,Fitness,Nike,28216.0
+1725,Puma Men Model-1725,Fashion,Men,Puma,47970.92
+PROD###,NULL,Home,Decor,Duroflex,4595.56
+ABC123,Prestige Kitchen,Home,Kitchen,Prestige,PRICE
+406,Lenovo Laptops Model-406,Electronics,Laptops,Lenovo,6844.17
+281,Logitech Accessories Model-281,Electronics,Accessories,Logitech,37201.84
+1659,Ikea Furniture Model-1659,Home,Furniture,Ikea,44121.97
+1831,Nike Men Model-1831,Fashion,Men,Nike,13678.12
+1597,Ikea Furniture Model-1597,Home,Furniture,Ikea,48999.91
+1176,Ikea Furniture Model-1176,Home,Furniture,Ikea,13672.57
+863,Google Smartphones Model-863,Electronics,Smartphones,Google,17502.38
+912,Adidas Men Model-912,Fashion,Men,Adidas,32100.03
+1121,Nike Men Model-1121,Fashion,Men,Nike,42228.49
+1112,Quechua Outdoor Model-1112,Sports,Outdoor,Quechua,24304.98
+49,Wildcraft Outdoor Model-49,Sports,Outdoor,Wildcraft,22204.62
+878,Cosco Indoor Model-878,Sports,Indoor,Cosco,9233.03
+688,Nike Fitness,###,Fitness,Nike,FREE
+2123,Levis Women,,Women,,17038.03
+1199,Apple Smartphones Model-1199,Electronics,Smartphones,Apple,1541.18
+220,Duroflex Decor Model-220,Home,Decor,Duroflex,15244.48
+1899,Hopscotch Kids Model-1899,Fashion,Kids,Hopscotch,40225.05
+1933,Duroflex Decor Model-1933,Home,Decor,Duroflex,26929.85
+884,Reebok Fitness Model-884,Sports,Fitness,Reebok,10974.67
+2357,Ikea Furniture,Home,,Ikea,8256.94
+1437,Hopscotch Kids Model-1437,Fashion,Kids,Hopscotch,22555.58
+2263,Prestige Kitchen,,Kitchen,,5749.71
+2400,Adidas Men,,Men,,3821.66
+436,Adidas Men Model-436,Fashion,Men,Adidas,7442.54
+858,Dell Laptops Model-858,Electronics,Laptops,Dell,4328.36
+1063,Prestige Kitchen Model-1063,Home,Kitchen,Prestige,23828.71
+1349,Nike Fitness Model-1349,Sports,Fitness,Nike,17863.83
+1631,NULL,Sports,Fitness,Nike,36132.77
+1177,Adidas Men Model-1177,Fashion,Men,Adidas,28898.88
+316,Wildcraft Outdoor Model-316,Sports,Outdoor,Wildcraft,13418.53
+1939,Prestige Kitchen Model-1939,Home,Kitchen,Prestige,49027.64
+311,Levis Women Model-311,Fashion,Women,Levis,17343.04
+92,Cosco Indoor Model-92,Sports,Indoor,Cosco,33613.22
+1901,Samsung Smartphones Model-1901,Electronics,Smartphones,Samsung,42442.01
+226,Cosco Indoor Model-226,Sports,Indoor,Cosco,17500.42
+2323,Nike Men,,Men,,42398.93
+710,Logitech Accessories Model-710,Electronics,Accessories,Logitech,20168.4
+1119,HomeCentre Decor Model-1119,Home,Decor,HomeCentre,40872.17
+1349,@@@@,Fashion,Men,Nike,PRICE
+1504,Nike Men Model-1504,Fashion,Men,Nike,35752.63
+1981,Wildcraft Outdoor Model-1981,Sports,Outdoor,Wildcraft,15485.66
+1599,Asus Laptops Model-1599,Electronics,Laptops,Asus,30597.14
+633,Quechua Outdoor Model-633,Sports,Outdoor,Quechua,1346.46
+1777,Prestige Kitchen Model-1777,Home,Kitchen,Prestige,20042.3
+107,Yonex Indoor Model-107,Sports,Indoor,Yonex,38335.15
+1853,@@@@,Home,Kitchen,Prestige,46944.24
+591,Duroflex Decor Model-591,Home,Decor,Duroflex,46690.71
+2085,Levis Women Model-2085,Fashion,Women,Levis,8066.35
+149,Asus Laptops Model-149,Electronics,Laptops,Asus,28662.79
+1820,Ikea Furniture Model-1820,Home,Furniture,Ikea,20438.63
+1293,H&M Women Model-1293,Fashion,Women,H&M,4840.29
+758,HomeCentre Decor Model-758,Home,Decor,HomeCentre,38282.07
+464,Ikea Furniture Model-464,Home,Furniture,Ikea,43531.53
+1819,Godrej Furniture Model-1819,Home,Furniture,Godrej,11473.07
+1328,Prestige Kitchen Model-1328,Home,Kitchen,Prestige,44974.2
+PROD###,H&M Women,Fashion,@@@,H&M,12064.09
+1254,Cosco Indoor Model-1254,Sports,Indoor,Cosco,28081.68
+2136,,Electronics,Laptops,Lenovo,4518.69
+1468,Carter Kids Model-1468,Fashion,Kids,Carter,24899.62
+1760,Wildcraft Outdoor Model-1760,Sports,Outdoor,Wildcraft,20452.58
+532,Cosco Indoor Model-532,Sports,Indoor,Cosco,24005.13
+1987,Yonex Indoor Model-1987,Sports,Indoor,Yonex,26979.52
+1001,Cosco Indoor Model-1001,Sports,Indoor,Cosco,10037.05
+2073,Quechua Outdoor Model-2073,Sports,Outdoor,Quechua,20740.23
+2235,Puma Men,,Men,,18851.05
+2018,H&M Women Model-2018,Fashion,Women,H&M,31675.98
+1687,H&M Women Model-1687,Fashion,Women,H&M,37197.7
+1204,Reebok Fitness Model-1204,Sports,Fitness,Reebok,39255.73
+301,Cosco Indoor Model-301,Sports,Indoor,Cosco,8682.23
+2079,Zara Women Model-2079,Fashion,Women,Zara,8027.08
+523,Sony Accessories Model-523,Electronics,Accessories,Sony,29663.29
+1770,Quechua Outdoor Model-1770,Sports,Outdoor,Quechua,5628.13
+1229,Nike Fitness Model-1229,Sports,Fitness,Nike,32608.81
+1949,Adidas Men Model-1949,Fashion,Men,Adidas,45872.86
+1392,Wildcraft Outdoor Model-1392,Sports,Outdoor,Wildcraft,4171.38
+132,Duroflex Decor Model-132,Home,Decor,Duroflex,28895.42
+891,Duroflex Decor Model-891,Home,Decor,Duroflex,42831.26
+245,Logitech Accessories Model-245,Electronics,Accessories,Logitech,30798.14
+1317,Yonex Indoor Model-1317,Sports,Indoor,Yonex,20037.01
+1167,HomeCentre Decor Model-1167,Home,Decor,HomeCentre,41097.55
+616,Google Smartphones Model-616,Electronics,Smartphones,Google,39600.72
+469,Quechua Outdoor Model-469,Sports,Outdoor,Quechua,21932.44
+8,Ikea Furniture Model-8,Home,Furniture,Ikea,36517.74
+318,Wildcraft Outdoor Model-318,Sports,Outdoor,Wildcraft,18226.04
+427,Nike Men Model-427,Fashion,Men,Nike,32815.17
+1124,Prestige Kitchen Model-1124,Home,Kitchen,Prestige,47372.89
+2284,Puma Men,Fashion,Men,Puma,
+581,Prestige Kitchen Model-581,Home,Kitchen,Prestige,18498.72
+873,Wildcraft Outdoor Model-873,Sports,Outdoor,Wildcraft,17477.27
+1332,Boat Accessories Model-1332,Electronics,Accessories,Boat,21331.47
+977,Levis Women Model-977,Fashion,Women,Levis,35930.45
+1200,H&M Women Model-1200,Fashion,Women,H&M,6872.26
+2238,Prestige Kitchen,Home,Kitchen,,
+2039,Adidas Men Model-2039,Fashion,Men,Adidas,39556.52
+2000,Cosco Indoor Model-2000,Sports,Indoor,Cosco,48996.99
+181,Pigeon Kitchen Model-181,Home,Kitchen,Pigeon,19957.82
+168,Nike Men Model-168,Fashion,Men,Nike,21267.33
+1685,Adidas Men Model-1685,Fashion,Men,Adidas,23773.43
+1259,Cosco Indoor Model-1259,Sports,Indoor,Cosco,23098.23
+1636,Ikea Furniture Model-1636,Home,Furniture,Ikea,42756.96
+717,Dell Laptops Model-717,Electronics,Laptops,Dell,7357.08
+70,Wildcraft Outdoor Model-70,Sports,Outdoor,Wildcraft,32836.96
+1704,Carter Kids Model-1704,Fashion,Kids,Carter,4031.97
+2053,Google Smartphones Model-2053,Electronics,Smartphones,Google,4879.39
+1322,Quechua Outdoor,Sports,Outdoor,123,3544.56
+1025,Nike Men Model-1025,Fashion,Men,Nike,47134.14
+2138,Carter Kids,Fashion,Kids,,12946.2
+1352,Godrej Furniture Model-1352,Home,Furniture,Godrej,33752.35
+105,Godrej Furniture Model-105,Home,Furniture,Godrej,46519.97
+1245,Duroflex Decor Model-1245,Home,Decor,Duroflex,9582.49
+108,Adidas Men Model-108,Fashion,Men,Adidas,3115.43
+46,Hopscotch Kids Model-46,Fashion,Kids,Hopscotch,43430.81
+2114,Reebok Fitness,Sports,,,4136.36
+649,Nike Fitness Model-649,Sports,Fitness,Nike,44146.07
+1180,Carter Kids Model-1180,Fashion,Kids,Carter,41917.61
+1717,Hopscotch Kids Model-1717,Fashion,Kids,Hopscotch,28986.97
+550,HP Laptops Model-550,Electronics,Laptops,HP,4257.45
+1695,Nike Fitness Model-1695,Sports,Fitness,Nike,40194.67
+1173,Ikea Furniture Model-1173,Home,Furniture,Ikea,43790.82
+12,Carter Kids Model-12,Fashion,Kids,Carter,17762.11
+1620,Yonex Indoor Model-1620,Sports,Indoor,Yonex,22884.96
+560,Pigeon Kitchen Model-560,Home,Kitchen,Pigeon,43177.55
+1249,Carter Kids Model-1249,Fashion,Kids,Carter,39751.58
+517,Sony Accessories Model-517,Electronics,Accessories,Sony,8234.07
+1708,Levis Women Model-1708,Fashion,Women,Levis,11455.76
+66,Wildcraft Outdoor Model-66,Sports,Outdoor,Wildcraft,18267.91
+119,Quechua Outdoor Model-119,Sports,Outdoor,Quechua,20055.35
+2229,,Electronics,Laptops,HP,45658.44
+838,Sony Accessories Model-838,Electronics,Accessories,Sony,10309.84
+1818,Nike Fitness Model-1818,Sports,Fitness,Nike,39142.48
+721,HomeCentre Decor Model-721,Home,Decor,HomeCentre,38196.42
+329,Duroflex Decor Model-329,Home,Decor,Duroflex,47032.6
+1494,H&M Women Model-1494,Fashion,Women,H&M,3706.21
+617,Hopscotch Kids Model-617,Fashion,Kids,Hopscotch,39301.35
+126,Pigeon Kitchen Model-126,Home,Kitchen,Pigeon,3165.55
+574,Puma Men Model-574,Fashion,Men,Puma,27405.28
+1709,Yonex Indoor Model-1709,Sports,Indoor,Yonex,25935.38
+250,Cosco Indoor Model-250,Sports,Indoor,Cosco,13185.95
+34,Hopscotch Kids Model-34,Fashion,Kids,Hopscotch,37262.94
+498,Adidas Men Model-498,Fashion,Men,Adidas,29033.8
+1179,Reebok Fitness Model-1179,Sports,Fitness,Reebok,4747.49
+1836,HP Laptops Model-1836,Electronics,Laptops,HP,973.14
+368,Ikea Furniture Model-368,Home,Furniture,Ikea,15896.08
+1740,Duroflex Decor,Home,@@@,123,25627.52
+27,Logitech Accessories Model-27,Electronics,Accessories,Logitech,6452.77
+557,Puma Men Model-557,Fashion,Men,Puma,17791.11
+1566,Sony Accessories Model-1566,Electronics,Accessories,Sony,26693.1
+1021,Hopscotch Kids Model-1021,Fashion,Kids,Hopscotch,36625.05
+1653,Quechua Outdoor Model-1653,Sports,Outdoor,Quechua,41306.85
+849,HomeCentre Decor Model-849,Home,Decor,HomeCentre,4014.62
+1450,HP Laptops Model-1450,Electronics,Laptops,HP,8691.93
+723,Yonex Indoor Model-723,Sports,Indoor,Yonex,15575.82
+2324,Ikea Furniture,Home,,,29466.37
+959,Pigeon Kitchen Model-959,Home,Kitchen,Pigeon,6474.47
+1686,HomeCentre Decor Model-1686,Home,Decor,HomeCentre,12378.85
+567,Wildcraft Outdoor Model-567,Sports,Outdoor,Wildcraft,29820.64
+2350,Cosco Indoor,Sports,Indoor,,31309.53
+2195,,Home,Furniture,,11284.76
+1781,Quechua Outdoor Model-1781,Sports,Outdoor,Quechua,10038.75
+194,Quechua Outdoor Model-194,Sports,Outdoor,Quechua,4880.64
+2074,Lenovo Laptops Model-2074,Electronics,Laptops,Lenovo,24530.15
+1784,Carter Kids Model-1784,Fashion,Kids,Carter,40195.97
+1870,Godrej Furniture Model-1870,Home,Furniture,Godrej,49820.4
+78,Reebok Fitness Model-78,Sports,Fitness,Reebok,8304.67
+1256,Godrej Furniture Model-1256,Home,Furniture,Godrej,26939.08
+1895,Pigeon Kitchen Model-1895,Home,Kitchen,Pigeon,27617.09
+2353,Nike Men,Fashion,Men,Nike,
+149,Hopscotch Kids,Fashion,Kids,###,FREE
+2037,Wildcraft Outdoor Model-2037,Sports,Outdoor,Wildcraft,14159.33
+695,Cosco Indoor Model-695,Sports,Indoor,Cosco,19949.82
+2064,Zara Women Model-2064,Fashion,Women,Zara,36862.34
+1505,OnePlus Smartphones Model-1505,Electronics,Smartphones,OnePlus,39356.97
+1431,Cosco Indoor Model-1431,Sports,Indoor,Cosco,48588.96
+36,Quechua Outdoor Model-36,Sports,Outdoor,Quechua,41382.38
+2096,Adidas Men Model-2096,Fashion,Men,Adidas,16653.16
+743,Wildcraft Outdoor Model-743,Sports,Outdoor,Wildcraft,17134.84
+1155,Ikea Furniture Model-1155,Home,Furniture,Ikea,37181.32
+2178,,Electronics,Smartphones,OnePlus,
+148,Cosco Indoor Model-148,Sports,Indoor,Cosco,14399.49
+1511,Dell Laptops Model-1511,Electronics,Laptops,Dell,11388.23
+1596,Ikea Furniture Model-1596,Home,Furniture,Ikea,39759.76
+2295,,Home,Kitchen,,37054.68
+299,Cosco Indoor Model-299,Sports,Indoor,Cosco,19402.83
+885,Zara Women Model-885,Fashion,Women,Zara,4354.74
+2216,Hopscotch Kids,Fashion,,Hopscotch,12011.72
+823,Asus Laptops Model-823,Electronics,Laptops,Asus,20343.96
+1385,Nike Men Model-1385,Fashion,Men,Nike,4735.83
+867,Duroflex Decor Model-867,Home,Decor,Duroflex,9375.49
+942,Nike Men Model-942,Fashion,Men,Nike,1676.05
+2280,,Electronics,,Apple,31318.79
+1154,Duroflex Decor Model-1154,Home,Decor,Duroflex,11250.88
+737,Hopscotch Kids Model-737,Fashion,Kids,Hopscotch,19383.71
+2394,Yonex Indoor,Sports,,Yonex,
+631,HomeCentre Decor Model-631,Home,Decor,HomeCentre,38932.6
+3044,@@@@,###,Women,Zara,21609.84
+1149,12345,Home,Kitchen,Prestige,14152.97
+1553,Puma Men Model-1553,Fashion,Men,Puma,15975.85
+99,Prestige Kitchen Model-99,Home,Kitchen,Prestige,48238.22
+839,Cosco Indoor Model-839,Sports,Indoor,Cosco,17014.73
+1747,HomeCentre Decor Model-1747,Home,Decor,HomeCentre,18268.67
+828,Boat Accessories Model-828,Electronics,Accessories,Boat,9660.76
+1707,Cosco Indoor Model-1707,Sports,Indoor,Cosco,26629.22
+1265,Nike Fitness Model-1265,Sports,Fitness,Nike,14780.41
+2091,Reebok Fitness Model-2091,Sports,Fitness,Reebok,20559.13
+580,Godrej Furniture Model-580,Home,Furniture,Godrej,11839.33
+921,Boat Accessories Model-921,Electronics,Accessories,Boat,34565.23
+455,Duroflex Decor Model-455,Home,Decor,Duroflex,25579.88
+512,Levis Women Model-512,Fashion,Women,Levis,15847.65
+2184,Reebok Fitness,Sports,,Reebok,599.62
+1331,Logitech Accessories Model-1331,Electronics,Accessories,Logitech,1715.88
+882,Godrej Furniture Model-882,Home,Furniture,Godrej,43958.03
+1519,Logitech Accessories Model-1519,Electronics,Accessories,Logitech,28484.35
+1469,Pigeon Kitchen Model-1469,Home,Kitchen,Pigeon,282.24
+343,Hopscotch Kids Model-343,Fashion,Kids,Hopscotch,30890.25
+689,Yonex Indoor Model-689,Sports,Indoor,Yonex,24471.61
+1042,Dell Laptops Model-1042,Electronics,Laptops,Dell,25860.28
+353,HomeCentre Decor Model-353,Home,Decor,HomeCentre,39417.52
+1673,Wildcraft Outdoor Model-1673,Sports,Outdoor,Wildcraft,21041.4
+2125,Sony Accessories,Electronics,Accessories,,
+2311,Asus Laptops,Electronics,,,46489.03
+1996,Yonex Indoor Model-1996,Sports,Indoor,Yonex,12625.69
+948,Duroflex Decor Model-948,Home,Decor,Duroflex,46014.76
+447,Wildcraft Outdoor Model-447,Sports,Outdoor,Wildcraft,28389.72
+491,Duroflex Decor Model-491,Home,Decor,Duroflex,42906.85
+1715,Nike Fitness Model-1715,Sports,Fitness,Nike,10060.08
+582,Hopscotch Kids Model-582,Fashion,Kids,Hopscotch,29545.38
+364,Ikea Furniture Model-364,Home,Furniture,Ikea,18054.7
+1371,Adidas Men Model-1371,Fashion,Men,Adidas,4075.11
+1230,Pigeon Kitchen Model-1230,Home,Kitchen,Pigeon,26190.68
+1420,Cosco Indoor Model-1420,Sports,Indoor,Cosco,26178.68
+ABC123,12345,Fashion,Men,Puma,10759.28
+2293,Wildcraft Outdoor,Sports,,Wildcraft,32701.16
+1978,HomeCentre Decor Model-1978,Home,Decor,HomeCentre,4276.34
+886,Ikea Furniture Model-886,Home,Furniture,Ikea,26076.91
+1110,Yonex Indoor Model-1110,Sports,Indoor,Yonex,7725.81
+868,Logitech Accessories Model-868,Electronics,Accessories,Logitech,14561.21
+2391,,Home,Decor,HomeCentre,45061.93
+1785,Asus Laptops Model-1785,Electronics,Laptops,Asus,849.82
+173,Duroflex Decor Model-173,Home,Decor,Duroflex,12199.49
+274,Quechua Outdoor Model-274,Sports,Outdoor,Quechua,45999.71
+1286,HomeCentre Decor Model-1286,Home,Decor,HomeCentre,22698.93
+227,Reebok Fitness Model-227,Sports,Fitness,Reebok,11498.25
+169,Godrej Furniture Model-169,Home,Furniture,Godrej,9731.82
+975,Yonex Indoor Model-975,Sports,Indoor,Yonex,15059.45
+1102,Ikea Furniture Model-1102,Home,Furniture,Ikea,42033.44
+1345,Godrej Furniture Model-1345,Home,Furniture,Godrej,24021.28
+1085,Nike Men Model-1085,Fashion,Men,Nike,10676.66
+1943,Dell Laptops Model-1943,Electronics,Laptops,Dell,5573.64
+3849,Prestige Kitchen,Home,@@@,###,21468.73
+763,HomeCentre Decor Model-763,Home,Decor,HomeCentre,24396.89
+1288,Prestige Kitchen Model-1288,Home,Kitchen,Prestige,42839.85
+486,Carter Kids Model-486,Fashion,Kids,Carter,38330.98
+2343,Carter Kids,,Kids,Carter,
+3068,Cosco Indoor,Sports,Indoor,INVALID_BRAND,FREE
+1487,Reebok Fitness Model-1487,Sports,Fitness,Reebok,18175.57
+1929,Godrej Furniture Model-1929,Home,Furniture,Godrej,19273.64
+427,Nike Men Model-427,Fashion,Men,Nike,32815.17
+923,Godrej Furniture Model-923,Home,Furniture,Godrej,11654.78
+1314,H&M Women Model-1314,Fashion,Women,H&M,1434.06
+ABC123,Apple Smartphones,Electronics,@@@,Apple,13813.74
+3674,@@@@,Electronics,Accessories,Boat,FREE
+2020,Prestige Kitchen Model-2020,Home,Kitchen,Prestige,48566.37
+489,Levis Women Model-489,Fashion,Women,Levis,22418.86
+803,Yonex Indoor Model-803,Sports,Indoor,Yonex,24986.06
+204,Lenovo Laptops Model-204,Electronics,Laptops,Lenovo,44786.87
+2029,Logitech Accessories Model-2029,Electronics,Accessories,Logitech,38331.62
+3022,Quechua Outdoor,Sports,INVALID_SUB,Quechua,PRICE
+1860,Wildcraft Outdoor Model-1860,Sports,Outdoor,Wildcraft,11527.98
+413,Dell Laptops Model-413,Electronics,Laptops,Dell,35867.3
+1550,Carter Kids Model-1550,Fashion,Kids,Carter,38163.21
+INVALID,12345,Sports,Fitness,Reebok,23342.37
+2205,Dell Laptops,,Laptops,,36583.2
+470,Carter Kids Model-470,Fashion,Kids,Carter,19066.57
+636,Wildcraft Outdoor Model-636,Sports,Outdoor,Wildcraft,8024.63
+287,Nike Fitness Model-287,Sports,Fitness,Nike,11552.94
+1111,Nike Fitness Model-1111,Sports,Fitness,Nike,4704.35
+2326,,Fashion,Men,Puma,
+1677,Nike Fitness Model-1677,Sports,Fitness,Nike,49914.2
+1377,HP Laptops Model-1377,Electronics,Laptops,HP,26279.85
+24,Pigeon Kitchen Model-24,Home,Kitchen,Pigeon,35297.14
+2244,,Fashion,Kids,,16587.25
+1740,Godrej Furniture Model-1740,Home,Furniture,Godrej,19362.88
+22,Ikea Furniture Model-22,Home,Furniture,Ikea,20618.68
+531,HomeCentre Decor Model-531,Home,Decor,HomeCentre,6418.3
+196,Yonex Indoor Model-196,Sports,Indoor,Yonex,19632.61
+1502,Carter Kids Model-1502,Fashion,Kids,Carter,41778.17
+1796,Nike Men Model-1796,Fashion,Men,Nike,32657.57
+309,Pigeon Kitchen Model-309,Home,Kitchen,Pigeon,34863.53
+1632,Asus Laptops,Electronics,@@@,Asus,PRICE
+320,HP Laptops Model-320,Electronics,Laptops,HP,146.88
+292,Samsung Smartphones Model-292,Electronics,Smartphones,Samsung,32089.36
+375,Duroflex Decor Model-375,Home,Decor,Duroflex,19236.13
+312,Quechua Outdoor Model-312,Sports,Outdoor,Quechua,40376.5
+1387,Quechua Outdoor Model-1387,Sports,Outdoor,Quechua,47465.75
+555,HomeCentre Decor Model-555,Home,Decor,HomeCentre,13109.25
+2297,Adidas Men,,Men,Adidas,2717.94
+734,Quechua Outdoor Model-734,Sports,Outdoor,Quechua,25184.44
+2390,Google Smartphones,Electronics,Smartphones,,
+2019,H&M Women Model-2019,Fashion,Women,H&M,19935.31
+1126,Carter Kids Model-1126,Fashion,Kids,Carter,10640.9
+1395,Nike Fitness Model-1395,Sports,Fitness,Nike,22448.39
+1498,Wildcraft Outdoor Model-1498,Sports,Outdoor,Wildcraft,47698.83
+991,Yonex Indoor Model-991,Sports,Indoor,Yonex,42315.78
+1918,Prestige Kitchen Model-1918,Home,Kitchen,Prestige,48519.79
+746,Pigeon Kitchen Model-746,Home,Kitchen,Pigeon,2901.45
+1947,Carter Kids Model-1947,Fashion,Kids,Carter,2134.33
+437,H&M Women Model-437,Fashion,Women,H&M,15582.5
+1628,HomeCentre Decor Model-1628,Home,Decor,HomeCentre,40880.2
+399,Pigeon Kitchen Model-399,Home,Kitchen,Pigeon,26378.23
+236,Wildcraft Outdoor Model-236,Sports,Outdoor,Wildcraft,21780.82
+1524,Levis Women Model-1524,Fashion,Women,Levis,25058.92
+1538,Lenovo Laptops Model-1538,Electronics,Laptops,Lenovo,4351.84
+819,Cosco Indoor Model-819,Sports,Indoor,Cosco,42876.55
+1002,Wildcraft Outdoor Model-1002,Sports,Outdoor,Wildcraft,27674.59
+651,Reebok Fitness Model-651,Sports,Fitness,Reebok,815.24
+1386,Samsung Smartphones Model-1386,Electronics,Smartphones,Samsung,34814.88
+1745,Reebok Fitness Model-1745,Sports,Fitness,Reebok,38753.64
+1676,OnePlus Smartphones Model-1676,Electronics,Smartphones,OnePlus,22260.42
+1064,Puma Men Model-1064,Fashion,Men,Puma,20790.45
+1313,Ikea Furniture Model-1313,Home,Furniture,Ikea,20538.43
+2191,,Electronics,Accessories,,28090.12
+139,Yonex Indoor Model-139,Sports,Indoor,Yonex,30955.1
+1503,Puma Men Model-1503,Fashion,Men,Puma,41679.11
+782,Hopscotch Kids Model-782,Fashion,Kids,Hopscotch,19807.97
+271,Nike Fitness Model-271,Sports,Fitness,Nike,19938.42
+832,Yonex Indoor Model-832,Sports,Indoor,Yonex,786.5
+2275,Sony Accessories,Electronics,Accessories,Sony,
+632,HomeCentre Decor Model-632,Home,Decor,HomeCentre,23154.63
+481,Nike Fitness Model-481,Sports,Fitness,Nike,773.62
+592,Puma Men Model-592,Fashion,Men,Puma,28399.99
+2329,Ikea Furniture,Home,,,40156.45
+1992,Google Smartphones Model-1992,Electronics,Smartphones,Google,24934.25
+INVALID,Boat Accessories,Electronics,Accessories,INVALID_BRAND,33467.35
+177,Reebok Fitness Model-177,Sports,Fitness,Reebok,39619.18
+326,Wildcraft Outdoor,Sports,Outdoor,Wildcraft,PRICE
+466,Google Smartphones Model-466,Electronics,Smartphones,Google,37370.24
+122,Puma Men Model-122,Fashion,Men,Puma,9020.85
+558,Apple Smartphones Model-558,Electronics,Smartphones,Apple,8876.6
+2258,,Electronics,Smartphones,Samsung,16746.9
+2276,HomeCentre Decor,Home,,HomeCentre,38712.02
+652,HomeCentre Decor,###,Decor,HomeCentre,344.91
+480,Reebok Fitness Model-480,Sports,Fitness,Reebok,49404.41
+5,Godrej Furniture Model-5,Home,Furniture,Godrej,4103.45
+1871,Quechua Outdoor Model-1871,Sports,Outdoor,Quechua,20025.77
+835,Asus Laptops Model-835,Electronics,Laptops,Asus,17381.36
+830,Samsung Smartphones Model-830,Electronics,Smartphones,Samsung,30764.48
+3549,@@@@,123,Decor,HomeCentre,38133.59
+109,HomeCentre Decor Model-109,Home,Decor,HomeCentre,34916.98
+2301,,Sports,Fitness,,27306.11
+1077,Godrej Furniture Model-1077,Home,Furniture,Godrej,2227.36
+167,Adidas Men Model-167,Fashion,Men,Adidas,7380.56
+1525,Prestige Kitchen Model-1525,Home,Kitchen,Prestige,40889.99
+1011,Cosco Indoor Model-1011,Sports,Indoor,Cosco,49449.5
+1311,HomeCentre Decor Model-1311,Home,Decor,HomeCentre,27688.71
+446,Asus Laptops Model-446,Electronics,Laptops,Asus,10352.63
+2351,Duroflex Decor,Home,Decor,,29031.19
+598,Ikea Furniture Model-598,Home,Furniture,Ikea,9702.79
+2333,Logitech Accessories,Electronics,Accessories,,
+1182,Reebok Fitness Model-1182,Sports,Fitness,Reebok,16689.32
+1859,Wildcraft Outdoor Model-1859,Sports,Outdoor,Wildcraft,47393.01
+1920,Logitech Accessories Model-1920,Electronics,Accessories,Logitech,49662.61
+1220,Sony Accessories Model-1220,Electronics,Accessories,Sony,4338.35
+1397,Nike Fitness Model-1397,Sports,Fitness,Nike,3694.82
+1082,Carter Kids Model-1082,Fashion,Kids,Carter,16978.78
+1435,Nike Men Model-1435,Fashion,Men,Nike,42902.47
+1548,Yonex Indoor Model-1548,Sports,Indoor,Yonex,28983.73
+953,@@@@,Sports,INVALID_SUB,Yonex,18631.41
+1409,Godrej Furniture Model-1409,Home,Furniture,Godrej,46260.05
+1374,Google Smartphones Model-1374,Electronics,Smartphones,Google,4364.05
+985,HomeCentre Decor Model-985,Home,Decor,HomeCentre,34830.94
+1312,H&M Women Model-1312,Fashion,Women,H&M,1644.57
+254,HomeCentre Decor Model-254,Home,Decor,HomeCentre,38658.79
+1760,Wildcraft Outdoor Model-1760,Sports,Outdoor,Wildcraft,20452.58
+738,Nike Fitness Model-738,Sports,Fitness,Nike,26270.07
+1074,Yonex Indoor Model-1074,Sports,Indoor,Yonex,23533.91
+2291,,Sports,Outdoor,Wildcraft,
+1963,Samsung Smartphones Model-1963,Electronics,Smartphones,Samsung,30470.33
+1206,Duroflex Decor Model-1206,Home,Decor,Duroflex,5381.88
+2155,Wildcraft Outdoor,Sports,Outdoor,,29975.78
+258,H&M Women Model-258,Fashion,Women,H&M,21846.64
+2372,,Electronics,Smartphones,Apple,
+1083,Adidas Men Model-1083,Fashion,Men,Adidas,14505.83
+2047,Pigeon Kitchen Model-2047,Home,Kitchen,Pigeon,39968.83
+2117,Adidas Men,Fashion,Men,,36693.21
+3651,Hopscotch Kids,Fashion,Kids,###,44394.34
+987,Hopscotch Kids Model-987,Fashion,Kids,Hopscotch,12996.94
+444,Prestige Kitchen Model-444,Home,Kitchen,Prestige,23492.5
+1684,Prestige Kitchen,Home,Kitchen,INVALID_BRAND,-500
+2009,H&M Women Model-2009,Fashion,Women,H&M,38298.67
+588,Nike Men Model-588,Fashion,Men,Nike,33438.82
+866,Carter Kids Model-866,Fashion,Kids,Carter,33151.59
+18,Adidas Men Model-18,Fashion,Men,Adidas,31321.29
+2374,OnePlus Smartphones,,Smartphones,OnePlus,12919.34
+1867,HP Laptops Model-1867,Electronics,Laptops,HP,21140.88
+1622,Nike Men Model-1622,Fashion,Men,Nike,4318.32
+801,Duroflex Decor Model-801,Home,Decor,Duroflex,21991.13
+601,Prestige Kitchen Model-601,Home,Kitchen,Prestige,33614.01
+3250,Yonex Indoor,Sports,Indoor,123,43957.36
+429,Levis Women,Fashion,Women,Levis,FREE
+INVALID,Nike Men,Fashion,Men,123,5098.74
+553,Nike Fitness Model-553,Sports,Fitness,Nike,29113.32
+827,Adidas Men Model-827,Fashion,Men,Adidas,17326.36
+880,Nike Men Model-880,Fashion,Men,Nike,11344.2
+379,Prestige Kitchen Model-379,Home,Kitchen,Prestige,33415.74
+1569,H&M Women Model-1569,Fashion,Women,H&M,44658.18
+2363,Apple Smartphones,,Smartphones,Apple,32336.87
+374,Godrej Furniture Model-374,Home,Furniture,Godrej,28532.98
+1162,Puma Men Model-1162,Fashion,Men,Puma,35149.13
+1525,Prestige Kitchen Model-1525,Home,Kitchen,Prestige,40889.99
+173,Duroflex Decor Model-173,Home,Decor,Duroflex,12199.49
+2336,OnePlus Smartphones,Electronics,,OnePlus,18470.91
+1611,Zara Women Model-1611,Fashion,Women,Zara,45815.67
+774,Godrej Furniture,Home,Furniture,###,21104.14
+507,Prestige Kitchen Model-507,Home,Kitchen,Prestige,25851.6
+1048,Hopscotch Kids Model-1048,Fashion,Kids,Hopscotch,42310.14
+1933,Duroflex Decor Model-1933,Home,Decor,Duroflex,26929.85
+1810,Reebok Fitness Model-1810,Sports,Fitness,Reebok,45365.79
+743,NULL,UNKNOWN_CATEGORY,Fitness,Nike,26954.16
+824,Prestige Kitchen Model-824,Home,Kitchen,Prestige,48975.95
+1948,Reebok Fitness Model-1948,Sports,Fitness,Reebok,25757.28
+288,HP Laptops Model-288,Electronics,Laptops,HP,16226.89
+1776,Reebok Fitness Model-1776,Sports,Fitness,Reebok,7861.89
+PROD###,Yonex Indoor,123,Indoor,Yonex,18194.07
+867,Duroflex Decor Model-867,Home,Decor,Duroflex,9375.49
+2190,H&M Women,Fashion,Women,H&M,
+126,Pigeon Kitchen Model-126,Home,Kitchen,Pigeon,3165.55
+1407,Levis Women Model-1407,Fashion,Women,Levis,8307.69
+3532,@@@@,Fashion,@@@,Zara,49888.27
+90,Boat Accessories Model-90,Electronics,Accessories,Boat,48113.95
+190,Godrej Furniture Model-190,Home,Furniture,Godrej,39886.5
+176,Hopscotch Kids Model-176,Fashion,Kids,Hopscotch,27613.3
+2325,Apple Smartphones,Electronics,,Apple,
+981,Hopscotch Kids Model-981,Fashion,Kids,Hopscotch,45126.72
+1280,Ikea Furniture Model-1280,Home,Furniture,Ikea,40280.77
+1202,Google Smartphones Model-1202,Electronics,Smartphones,Google,35529.5
+1721,Nike Fitness Model-1721,Sports,Fitness,Nike,44343.0
+1168,Wildcraft Outdoor Model-1168,Sports,Outdoor,Wildcraft,5463.15
+742,Samsung Smartphones Model-742,Electronics,Smartphones,Samsung,25536.97
+57,Adidas Men Model-57,Fashion,Men,Adidas,3110.11
+355,Logitech Accessories Model-355,Electronics,Accessories,Logitech,38812.54
+1848,Quechua Outdoor Model-1848,Sports,Outdoor,Quechua,43488.02
+1579,Cosco Indoor Model-1579,Sports,Indoor,Cosco,24647.71
+409,Hopscotch Kids Model-409,Fashion,Kids,Hopscotch,39237.64
+3737,NULL,Sports,Outdoor,Quechua,10474.57
+714,Hopscotch Kids Model-714,Fashion,Kids,Hopscotch,27204.27
+1415,Apple Smartphones Model-1415,Electronics,Smartphones,Apple,15333.73
+1439,Ikea Furniture Model-1439,Home,Furniture,Ikea,36098.27
+1320,Google Smartphones Model-1320,Electronics,Smartphones,Google,36151.53
+932,Hopscotch Kids Model-932,Fashion,Kids,Hopscotch,40854.56
+1036,Reebok Fitness Model-1036,Sports,Fitness,Reebok,41802.38
+672,HP Laptops Model-672,Electronics,Laptops,HP,16503.55
+979,HomeCentre Decor Model-979,Home,Decor,HomeCentre,11908.06
+1088,Reebok Fitness Model-1088,Sports,Fitness,Reebok,38933.77
+140,Yonex Indoor Model-140,Sports,Indoor,Yonex,5805.19
+2090,HP Laptops Model-2090,Electronics,Laptops,HP,40843.58
+1122,Duroflex Decor Model-1122,Home,Decor,Duroflex,39856.16
+1603,Godrej Furniture Model-1603,Home,Furniture,Godrej,9206.52
+367,Adidas Men Model-367,Fashion,Men,Adidas,25009.25
+2144,Wildcraft Outdoor,Sports,,Wildcraft,46269.63
+1631,Yonex Indoor Model-1631,Sports,Indoor,Yonex,31337.58
+1438,Google Smartphones Model-1438,Electronics,Smartphones,Google,21501.39
+855,Adidas Men Model-855,Fashion,Men,Adidas,42745.77
+357,Quechua Outdoor Model-357,Sports,Outdoor,Quechua,17919.78
+1683,Carter Kids Model-1683,Fashion,Kids,Carter,22044.29
+1584,HP Laptops Model-1584,Electronics,Laptops,HP,14175.74
+521,OnePlus Smartphones Model-521,Electronics,Smartphones,OnePlus,37586.71
+279,Google Smartphones Model-279,Electronics,Smartphones,Google,16040.63
+1385,Nike Men Model-1385,Fashion,Men,Nike,4735.83
+2316,,,Kids,Hopscotch,14196.6
+1601,Ikea Furniture Model-1601,Home,Furniture,Ikea,20412.47
+230,Apple Smartphones Model-230,Electronics,Smartphones,Apple,37254.33
+1956,Nike Fitness,Sports,Fitness,Nike,PRICE
+1989,Godrej Furniture,Home,Furniture,Godrej,-500
+478,Adidas Men Model-478,Fashion,Men,Adidas,14196.33
+2070,Carter Kids Model-2070,Fashion,Kids,Carter,28227.13
+79,Cosco Indoor Model-79,Sports,Indoor,Cosco,29328.34
+228,Hopscotch Kids Model-228,Fashion,Kids,Hopscotch,38746.88
+1097,Hopscotch Kids Model-1097,Fashion,Kids,Hopscotch,36115.7
+2012,H&M Women Model-2012,Fashion,Women,H&M,4226.36
+1471,Prestige Kitchen Model-1471,Home,Kitchen,Prestige,25762.18
+1367,Duroflex Decor Model-1367,Home,Decor,Duroflex,11000.44
+1360,Dell Laptops Model-1360,Electronics,Laptops,Dell,1995.95
+318,Wildcraft Outdoor Model-318,Sports,Outdoor,Wildcraft,18226.04
+42,Duroflex Decor,Home,Decor,###,17252.11
+1045,HomeCentre Decor Model-1045,Home,Decor,HomeCentre,34975.73
+1930,Puma Men Model-1930,Fashion,Men,Puma,26863.72
+811,Cosco Indoor Model-811,Sports,Indoor,Cosco,41556.27
+141,Duroflex Decor Model-141,Home,Decor,Duroflex,31674.43
+2274,Nike Fitness,Sports,,Nike,
+447,Wildcraft Outdoor Model-447,Sports,Outdoor,Wildcraft,28389.72
+ABC123,Logitech Accessories,Electronics,Accessories,Logitech,47541.75
+888,HP Laptops Model-888,Electronics,Laptops,HP,41594.75
+1975,Ikea Furniture Model-1975,Home,Furniture,Ikea,26587.73
+158,Sony Accessories Model-158,Electronics,Accessories,Sony,46055.03
+3759,Reebok Fitness,UNKNOWN_CATEGORY,Fitness,###,49927.81
+1324,Reebok Fitness Model-1324,Sports,Fitness,Reebok,2997.8
+345,HomeCentre Decor Model-345,Home,Decor,HomeCentre,45903.98
+70,Wildcraft Outdoor Model-70,Sports,Outdoor,Wildcraft,32836.96
+1308,Wildcraft Outdoor Model-1308,Sports,Outdoor,Wildcraft,5438.28
+523,Sony Accessories Model-523,Electronics,Accessories,Sony,29663.29
+1772,Apple Smartphones Model-1772,Electronics,Smartphones,Apple,42608.96
+586,Samsung Smartphones Model-586,Electronics,Smartphones,Samsung,40398.12
+2170,Ikea Furniture,,,Ikea,46374.06
+638,OnePlus Smartphones Model-638,Electronics,Smartphones,OnePlus,18882.4
+2118,Cosco Indoor,,Indoor,,8391.16
+1039,HomeCentre Decor Model-1039,Home,Decor,HomeCentre,8664.81
+775,Zara Women Model-775,Fashion,Women,Zara,46241.23
+1932,Nike Fitness Model-1932,Sports,Fitness,Nike,36075.03
+69,Carter Kids Model-69,Fashion,Kids,Carter,41834.38
+2104,,Home,Decor,HomeCentre,
+2319,Reebok Fitness,UNKNOWN_CATEGORY,Fitness,Reebok,16829.55
+772,HomeCentre Decor Model-772,Home,Decor,HomeCentre,49585.17
+1787,HomeCentre Decor Model-1787,Home,Decor,HomeCentre,28101.77
+2086,Dell Laptops Model-2086,Electronics,Laptops,Dell,5599.42
+1814,OnePlus Smartphones Model-1814,Electronics,Smartphones,OnePlus,14828.94
+1447,Puma Men Model-1447,Fashion,Men,Puma,31106.79
+662,Google Smartphones Model-662,Electronics,Smartphones,Google,24229.02
+1905,HP Laptops Model-1905,Electronics,Laptops,HP,42014.1
+1574,Nike Men Model-1574,Fashion,Men,Nike,33065.03
+1226,Yonex Indoor Model-1226,Sports,Indoor,Yonex,49057.49
+862,Lenovo Laptops Model-862,Electronics,Laptops,Lenovo,46257.59
+773,Nike Men,Fashion,999,Nike,17371.75
+1319,Lenovo Laptops Model-1319,Electronics,Laptops,Lenovo,2501.71
+1610,Ikea Furniture Model-1610,Home,Furniture,Ikea,40224.15
+64,Logitech Accessories Model-64,Electronics,Accessories,Logitech,17222.96
+1253,Ikea Furniture Model-1253,Home,Furniture,Ikea,14948.69
+485,Puma Men Model-485,Fashion,Men,Puma,32341.45
+255,Boat Accessories Model-255,Electronics,Accessories,Boat,33158.66
+806,Cosco Indoor Model-806,Sports,Indoor,Cosco,43142.44
+1556,Nike Men Model-1556,Fashion,Men,Nike,44988.28
+652,Ikea Furniture Model-652,Home,Furniture,Ikea,35117.15
+195,Hopscotch Kids Model-195,Fashion,Kids,Hopscotch,32273.44
+1902,Apple Smartphones Model-1902,Electronics,Smartphones,Apple,4266.56
+1261,Quechua Outdoor Model-1261,Sports,Outdoor,Quechua,35007.04
+2120,Nike Fitness,Sports,,,43873.15
+679,Hopscotch Kids Model-679,Fashion,Kids,Hopscotch,47609.4
+1131,Carter Kids Model-1131,Fashion,Kids,Carter,7387.6
+612,Duroflex Decor Model-612,Home,Decor,Duroflex,13457.13
+994,Levis Women Model-994,Fashion,Women,Levis,21600.02
+INVALID,Google Smartphones,Electronics,Smartphones,Google,35373.66
+872,Prestige Kitchen,###,Kitchen,Prestige,31623.2
+2322,,,Kitchen,Prestige,343.38
+2713,Levis Women,Fashion,@@@,Levis,PRICE
+2095,Adidas Men Model-2095,Fashion,Men,Adidas,30978.99
+1103,Duroflex Decor Model-1103,Home,Decor,Duroflex,40774.8
+2196,,Sports,,Reebok,30376.01
+76,Yonex Indoor Model-76,Sports,Indoor,Yonex,29431.04
+1970,Cosco Indoor Model-1970,Sports,Indoor,Cosco,12469.72
+1517,Duroflex Decor Model-1517,Home,Decor,Duroflex,49284.74
+575,Puma Men Model-575,Fashion,Men,Puma,18309.43
+390,Yonex Indoor Model-390,Sports,Indoor,Yonex,30428.91
+430,Duroflex Decor Model-430,Home,Decor,Duroflex,23557.02
+PROD###,Hopscotch Kids,Fashion,@@@,Hopscotch,1294.95
+571,H&M Women,Fashion,999,###,41468.3
+210,Duroflex Decor Model-210,Home,Decor,Duroflex,27918.39
+1079,Logitech Accessories Model-1079,Electronics,Accessories,Logitech,37234.11
+1105,Wildcraft Outdoor Model-1105,Sports,Outdoor,Wildcraft,35337.37
+1646,Asus Laptops Model-1646,Electronics,Laptops,Asus,28266.84
+2301,NULL,Electronics,999,Asus,42590.49
+2057,Yonex Indoor Model-2057,Sports,Indoor,Yonex,23133.74
+904,Reebok Fitness Model-904,Sports,Fitness,Reebok,38974.66
+1570,Samsung Smartphones Model-1570,Electronics,Smartphones,Samsung,46173.36
+2024,Quechua Outdoor Model-2024,Sports,Outdoor,Quechua,44624.53
+373,Cosco Indoor Model-373,Sports,Indoor,Cosco,46033.61
+1370,Duroflex Decor Model-1370,Home,Decor,Duroflex,35155.52
+1644,Zara Women Model-1644,Fashion,Women,Zara,2467.48
+1231,Reebok Fitness Model-1231,Sports,Fitness,Reebok,43956.45
+2264,HomeCentre Decor,Home,,,22197.46
+515,Adidas Men Model-515,Fashion,Men,Adidas,19821.28
+856,Duroflex Decor Model-856,Home,Decor,Duroflex,45620.59
+1181,Nike Men Model-1181,Fashion,Men,Nike,12800.18
+670,Levis Women Model-670,Fashion,Women,Levis,21512.01
+1743,NULL,123,Outdoor,Quechua,4666.41
+2583,NULL,Home,Decor,Duroflex,FREE
+65,HomeCentre Decor Model-65,Home,Decor,HomeCentre,37541.36
+1697,Asus Laptops Model-1697,Electronics,Laptops,Asus,49086.02
+1099,Nike Fitness Model-1099,Sports,Fitness,Nike,34549.99
+183,Zara Women Model-183,Fashion,Women,Zara,46073.55
+2107,Google Smartphones,Electronics,Smartphones,,2425.37
+207,Prestige Kitchen Model-207,Home,Kitchen,Prestige,38052.48
+313,Sony Accessories Model-313,Electronics,Accessories,Sony,13730.39
+2031,Nike Fitness Model-2031,Sports,Fitness,Nike,38586.29
+2025,Yonex Indoor Model-2025,Sports,Indoor,Yonex,19582.55
+1551,Reebok Fitness Model-1551,Sports,Fitness,Reebok,47756.93
+37,HomeCentre Decor Model-37,Home,Decor,HomeCentre,1437.13
+962,Apple Smartphones Model-962,Electronics,Smartphones,Apple,32936.55
+831,Apple Smartphones Model-831,Electronics,Smartphones,Apple,26038.56
+551,Nike Men Model-551,Fashion,Men,Nike,12155.3
+PROD###,Logitech Accessories,Electronics,Accessories,Logitech,18577.29
+668,Apple Smartphones Model-668,Electronics,Smartphones,Apple,23613.51
+1167,HomeCentre Decor Model-1167,Home,Decor,HomeCentre,41097.55
+1393,Puma Men Model-1393,Fashion,Men,Puma,946.43
+INVALID,Hopscotch Kids,Fashion,Kids,Hopscotch,-500
+753,Nike Men Model-753,Fashion,Men,Nike,5641.73
+166,Nike Fitness Model-166,Sports,Fitness,Nike,25910.42
+240,Cosco Indoor Model-240,Sports,Indoor,Cosco,35683.5
+823,Quechua Outdoor,Sports,@@@,Quechua,27574.36
+1275,Levis Women Model-1275,Fashion,Women,Levis,20536.22
+1271,Pigeon Kitchen Model-1271,Home,Kitchen,Pigeon,37806.57
+1257,Prestige Kitchen Model-1257,Home,Kitchen,Prestige,47775.09
+1985,Prestige Kitchen Model-1985,Home,Kitchen,Prestige,45862.96
+428,Prestige Kitchen Model-428,Home,Kitchen,Prestige,47981.73
+1208,Yonex Indoor Model-1208,Sports,Indoor,Yonex,35450.53
+1996,Yonex Indoor Model-1996,Sports,Indoor,Yonex,12625.69
+618,Duroflex Decor Model-618,Home,Decor,Duroflex,48002.5
+154,Apple Smartphones Model-154,Electronics,Smartphones,Apple,30393.95
+1238,Sony Accessories Model-1238,Electronics,Accessories,Sony,12013.93
+577,Zara Women Model-577,Fashion,Women,Zara,27087.89
+2970,@@@@,Sports,Fitness,Nike,12166.67
+1746,Ikea Furniture Model-1746,Home,Furniture,Ikea,31258.94
+1808,Boat Accessories Model-1808,Electronics,Accessories,Boat,49742.63
+777,Godrej Furniture Model-777,Home,Furniture,Godrej,25853.36
+1383,Asus Laptops Model-1383,Electronics,Laptops,Asus,21248.39
+1720,Godrej Furniture Model-1720,Home,Furniture,Godrej,21163.0
+595,Prestige Kitchen Model-595,Home,Kitchen,Prestige,23343.08
+196,12345,Sports,Fitness,INVALID_BRAND,34116.01
+1983,Yonex Indoor Model-1983,Sports,Indoor,Yonex,9296.57
+1647,HP Laptops,Electronics,Laptops,123,43688.49
+2202,Lenovo Laptops,Electronics,Laptops,Lenovo,
+1893,Godrej Furniture Model-1893,Home,Furniture,Godrej,11716.54
+93,Pigeon Kitchen Model-93,Home,Kitchen,Pigeon,8708.81
+1923,Godrej Furniture Model-1923,Home,Furniture,Godrej,39421.73
+725,Samsung Smartphones Model-725,Electronics,Smartphones,Samsung,7306.85
+2207,,Home,Kitchen,Pigeon,17245.54
+304,Duroflex Decor Model-304,Home,Decor,Duroflex,35753.1
+393,Sony Accessories,Electronics,999,Sony,-500
+706,Quechua Outdoor Model-706,Sports,Outdoor,Quechua,45746.38
+1641,Samsung Smartphones Model-1641,Electronics,Smartphones,Samsung,34357.36
+1874,HP Laptops Model-1874,Electronics,Laptops,HP,32840.9
+616,Levis Women,123,@@@,Levis,27960.8
+1701,Logitech Accessories Model-1701,Electronics,Accessories,Logitech,8091.73
+506,Logitech Accessories Model-506,Electronics,Accessories,Logitech,986.09
+909,Ikea Furniture Model-909,Home,Furniture,Ikea,1052.13
+1114,Sony Accessories Model-1114,Electronics,Accessories,Sony,26468.92
+1688,Nike Fitness Model-1688,Sports,Fitness,Nike,37682.04
+1364,Zara Women Model-1364,Fashion,Women,Zara,40562.91
+1309,Nike Men Model-1309,Fashion,Men,Nike,4838.56
+1769,Godrej Furniture Model-1769,Home,Furniture,Godrej,33358.87
+910,Quechua Outdoor Model-910,Sports,Outdoor,Quechua,17307.38
+1381,Pigeon Kitchen Model-1381,Home,Kitchen,Pigeon,5855.87
+434,Zara Women Model-434,Fashion,Women,Zara,26797.98
+INVALID,Lenovo Laptops,Electronics,INVALID_SUB,Lenovo,4566.02
+2134,Zara Women,Fashion,Women,,6991.28
+39,Prestige Kitchen Model-39,Home,Kitchen,Prestige,26490.87
+952,Yonex Indoor Model-952,Sports,Indoor,Yonex,773.23
+2176,Wildcraft Outdoor,Sports,,Wildcraft,
+1212,Godrej Furniture Model-1212,Home,Furniture,Godrej,26415.5
+2158,Quechua Outdoor,,Outdoor,Quechua,1126.74
+787,Pigeon Kitchen Model-787,Home,Kitchen,Pigeon,6925.59
+315,Levis Women Model-315,Fashion,Women,Levis,43516.23
+1946,Levis Women Model-1946,Fashion,Women,Levis,48968.48
+1073,Pigeon Kitchen Model-1073,Home,Kitchen,Pigeon,25364.85
+637,Sony Accessories Model-637,Electronics,Accessories,Sony,17349.88
+1012,Reebok Fitness Model-1012,Sports,Fitness,Reebok,1577.64
+556,Yonex Indoor Model-556,Sports,Indoor,Yonex,30265.15
+1878,Dell Laptops Model-1878,Electronics,Laptops,Dell,34895.97
+1376,Wildcraft Outdoor Model-1376,Sports,Outdoor,Wildcraft,32465.63
+1113,Cosco Indoor Model-1113,Sports,Indoor,Cosco,22453.54
+411,Nike Fitness Model-411,Sports,Fitness,Nike,28125.15
+744,H&M Women Model-744,Fashion,Women,H&M,13284.54
+1342,Duroflex Decor Model-1342,Home,Decor,Duroflex,4194.03
+870,Nike Fitness Model-870,Sports,Fitness,Nike,44424.49
+924,Godrej Furniture Model-924,Home,Furniture,Godrej,4399.98
+925,Reebok Fitness Model-925,Sports,Fitness,Reebok,15979.79
+1445,Reebok Fitness Model-1445,Sports,Fitness,Reebok,2432.72
+2345,Yonex Indoor,,,Yonex,14426.92
+2279,Wildcraft Outdoor,Sports,Outdoor,,34743.21
+1755,Sony Accessories Model-1755,Electronics,Accessories,Sony,1402.04
+929,Quechua Outdoor Model-929,Sports,Outdoor,Quechua,32894.17
+566,Godrej Furniture Model-566,Home,Furniture,Godrej,6266.35
+1412,Google Smartphones Model-1412,Electronics,Smartphones,Google,21634.61
+3579,Ikea Furniture,Home,999,Ikea,49503.95
+564,H&M Women Model-564,Fashion,Women,H&M,25856.37
+1648,Sony Accessories Model-1648,Electronics,Accessories,Sony,30784.83
+1183,Pigeon Kitchen,Home,INVALID_SUB,Pigeon,PRICE
+2031,Nike Fitness Model-2031,Sports,Fitness,Nike,38586.29
+472,HomeCentre Decor Model-472,Home,Decor,HomeCentre,39881.45
+1451,Puma Men Model-1451,Fashion,Men,Puma,32709.94
+604,Pigeon Kitchen Model-604,Home,Kitchen,Pigeon,19049.58
+1034,Dell Laptops Model-1034,Electronics,Laptops,Dell,14438.42
+771,Duroflex Decor Model-771,Home,Decor,Duroflex,34381.91
+925,12345,UNKNOWN_CATEGORY,Indoor,Cosco,16163.91
+417,Apple Smartphones Model-417,Electronics,Smartphones,Apple,11546.99
+666,Prestige Kitchen Model-666,Home,Kitchen,Prestige,41855.56
+1968,Duroflex Decor Model-1968,Home,Decor,Duroflex,21295.84
+565,Ikea Furniture Model-565,Home,Furniture,Ikea,14289.61
+1428,Lenovo Laptops Model-1428,Electronics,Laptops,Lenovo,44108.87
+448,Cosco Indoor Model-448,Sports,Indoor,Cosco,49133.44
+1886,Samsung Smartphones Model-1886,Electronics,Smartphones,Samsung,30897.56
+1908,Logitech Accessories Model-1908,Electronics,Accessories,Logitech,21989.22
+1858,Asus Laptops Model-1858,Electronics,Laptops,Asus,10606.51
+1166,Nike Fitness Model-1166,Sports,Fitness,Nike,27271.7
+INVALID,Wildcraft Outdoor,Sports,Outdoor,Wildcraft,1569.09
+1297,Wildcraft Outdoor Model-1297,Sports,Outdoor,Wildcraft,34530.13
+1776,Godrej Furniture,Home,Furniture,INVALID_BRAND,1658.94
+84,Zara Women Model-84,Fashion,Women,Zara,23841.73
+993,Hopscotch Kids Model-993,Fashion,Kids,Hopscotch,15709.36
+2379,Pigeon Kitchen,Home,Kitchen,,14658.54
+1144,Logitech Accessories Model-1144,Electronics,Accessories,Logitech,30743.52
+300,Ikea Furniture Model-300,Home,Furniture,Ikea,1831.82
+408,Nike Fitness Model-408,Sports,Fitness,Nike,17232.46
+473,Duroflex Decor Model-473,Home,Decor,Duroflex,33747.73
+435,Ikea Furniture Model-435,Home,Furniture,Ikea,32554.61
+371,Samsung Smartphones Model-371,Electronics,Smartphones,Samsung,4518.31
+1794,Hopscotch Kids Model-1794,Fashion,Kids,Hopscotch,34440.3
+1326,Ikea Furniture Model-1326,Home,Furniture,Ikea,30257.76
+1295,Duroflex Decor Model-1295,Home,Decor,Duroflex,49167.48
+1165,Cosco Indoor Model-1165,Sports,Indoor,Cosco,45656.38
+2127,Carter Kids,,,Carter,25621.71
+818,HP Laptops Model-818,Electronics,Laptops,HP,31591.09
+2063,Reebok Fitness Model-2063,Sports,Fitness,Reebok,13723.11
+766,Ikea Furniture Model-766,Home,Furniture,Ikea,8193.0
+686,Carter Kids Model-686,Fashion,Kids,Carter,43184.02
+1069,Wildcraft Outdoor Model-1069,Sports,Outdoor,Wildcraft,10025.19
+30,Apple Smartphones Model-30,Electronics,Smartphones,Apple,8016.6
+2387,Duroflex Decor,,Decor,Duroflex,23129.12
+402,Wildcraft Outdoor Model-402,Sports,Outdoor,Wildcraft,17274.06
+1508,Puma Men Model-1508,Fashion,Men,Puma,49529.4
+227,Reebok Fitness Model-227,Sports,Fitness,Reebok,11498.25
+34,Hopscotch Kids Model-34,Fashion,Kids,Hopscotch,37262.94
+1040,Yonex Indoor Model-1040,Sports,Indoor,Yonex,4355.56
+180,Pigeon Kitchen Model-180,Home,Kitchen,Pigeon,5837.13
+1615,OnePlus Smartphones Model-1615,Electronics,Smartphones,OnePlus,30892.49
+1995,Carter Kids Model-1995,Fashion,Kids,Carter,2546.7
+396,Prestige Kitchen Model-396,Home,Kitchen,Prestige,16688.48
+548,Sony Accessories Model-548,Electronics,Accessories,Sony,20762.44
+602,Dell Laptops Model-602,Electronics,Laptops,Dell,7733.26
+1263,Puma Men Model-1263,Fashion,Men,Puma,26361.69
+1980,Ikea Furniture Model-1980,Home,Furniture,Ikea,37311.46
+175,Wildcraft Outdoor Model-175,Sports,Outdoor,Wildcraft,12363.82
+384,HomeCentre Decor Model-384,Home,Decor,HomeCentre,8060.81
+1786,HomeCentre Decor Model-1786,Home,Decor,HomeCentre,25622.12
+2271,,Fashion,Women,H&M,
+1716,Prestige Kitchen Model-1716,Home,Kitchen,Prestige,34884.07
+790,Cosco Indoor Model-790,Sports,Indoor,Cosco,9871.54
+1060,Puma Men Model-1060,Fashion,Men,Puma,37808.46
+905,Levis Women Model-905,Fashion,Women,Levis,42004.55
+1865,Cosco Indoor Model-1865,Sports,Indoor,Cosco,13086.07
+1448,Duroflex Decor Model-1448,Home,Decor,Duroflex,30650.66
+PROD###,H&M Women,Fashion,Women,INVALID_BRAND,32428.38
+718,Quechua Outdoor Model-718,Sports,Outdoor,Quechua,25411.57
+2309,,,Decor,HomeCentre,39280.63
+524,HomeCentre Decor Model-524,Home,Decor,HomeCentre,47268.09
+342,Levis Women Model-342,Fashion,Women,Levis,38620.35
+589,Godrej Furniture Model-589,Home,Furniture,Godrej,6175.74
+3664,Zara Women,Fashion,@@@,Zara,FREE
+1792,H&M Women Model-1792,Fashion,Women,H&M,16132.54
+1158,Adidas Men Model-1158,Fashion,Men,Adidas,40396.88
+2137,Ikea Furniture,Home,INVALID_SUB,Ikea,13530.87
+951,Nike Fitness Model-951,Sports,Fitness,Nike,34725.54
+1770,Quechua Outdoor Model-1770,Sports,Outdoor,Quechua,5628.13
+138,Hopscotch Kids Model-138,Fashion,Kids,Hopscotch,15683.11
+2166,Carter Kids,,Kids,Carter,46593.12
+1771,Hopscotch Kids Model-1771,Fashion,Kids,Hopscotch,14318.28
+1315,Puma Men Model-1315,Fashion,Men,Puma,27959.63
+926,Ikea Furniture Model-926,Home,Furniture,Ikea,13590.44
+1540,Quechua Outdoor Model-1540,Sports,Outdoor,Quechua,18420.58
+352,Asus Laptops Model-352,Electronics,Laptops,Asus,1471.01
+1624,Zara Women Model-1624,Fashion,Women,Zara,22535.74
+1477,Levis Women Model-1477,Fashion,Women,Levis,3205.95
+1560,Logitech Accessories Model-1560,Electronics,Accessories,Logitech,14746.52
+996,Logitech Accessories Model-996,Electronics,Accessories,Logitech,35670.12
+1137,Quechua Outdoor Model-1137,Sports,Outdoor,Quechua,17652.5
+1841,Apple Smartphones Model-1841,Electronics,Smartphones,Apple,39243.24
+3116,@@@@,Electronics,Laptops,HP,45051.85
+478,Adidas Men Model-478,Fashion,Men,Adidas,14196.33
+1060,Puma Men Model-1060,Fashion,Men,Puma,37808.46
+3913,Puma Men,###,Men,Puma,27811.31
+1473,Duroflex Decor Model-1473,Home,Decor,Duroflex,9278.84
+771,Duroflex Decor Model-771,Home,Decor,Duroflex,34381.91
+1832,Dell Laptops Model-1832,Electronics,Laptops,Dell,140.46
+933,Google Smartphones Model-933,Electronics,Smartphones,Google,17684.98
+1547,Duroflex Decor Model-1547,Home,Decor,Duroflex,40260.93
+1323,Cosco Indoor Model-1323,Sports,Indoor,Cosco,9648.03
+2270,,Electronics,,Apple,11200.73
+1370,Duroflex Decor Model-1370,Home,Decor,Duroflex,35155.52
+661,Google Smartphones Model-661,Electronics,Smartphones,Google,34068.63
+1827,Sony Accessories Model-1827,Electronics,Accessories,Sony,47469.85
+2290,HP Laptops,,Laptops,HP,4693.97
+330,Yonex Indoor Model-330,Sports,Indoor,Yonex,29633.96
+1612,Zara Women Model-1612,Fashion,Women,Zara,45807.58
+398,Wildcraft Outdoor Model-398,Sports,Outdoor,Wildcraft,49627.2
+513,Quechua Outdoor Model-513,Sports,Outdoor,Quechua,43520.74
+542,HomeCentre Decor Model-542,Home,Decor,HomeCentre,45730.31
+1507,Hopscotch Kids Model-1507,Fashion,Kids,Hopscotch,12141.04
+1141,HP Laptops Model-1141,Electronics,Laptops,HP,47562.43
+1137,Quechua Outdoor Model-1137,Sports,Outdoor,Quechua,17652.5
+2173,,,Women,Levis,35947.83
+877,Puma Men Model-877,Fashion,Men,Puma,35086.06
+245,Logitech Accessories Model-245,Electronics,Accessories,Logitech,30798.14
+55,Hopscotch Kids Model-55,Fashion,Kids,Hopscotch,5441.04
+1577,Zara Women Model-1577,Fashion,Women,Zara,36352.04
+1189,Duroflex Decor Model-1189,Home,Decor,Duroflex,26891.12
+1602,HomeCentre Decor Model-1602,Home,Decor,HomeCentre,406.35
+1759,Cosco Indoor Model-1759,Sports,Indoor,Cosco,46021.77
+2083,Quechua Outdoor Model-2083,Sports,Outdoor,Quechua,24277.63
+2077,Logitech Accessories Model-2077,Electronics,Accessories,Logitech,31584.04
+719,Puma Men Model-719,Fashion,Men,Puma,1892.22
+1334,Reebok Fitness Model-1334,Sports,Fitness,Reebok,11021.19
+1911,Sony Accessories Model-1911,Electronics,Accessories,Sony,13729.49
+125,NULL,Fashion,@@@,Nike,20058.35
+761,Sony Accessories Model-761,Electronics,Accessories,Sony,23227.58
+2603,12345,Sports,Fitness,Reebok,2216.8
+499,Zara Women Model-499,Fashion,Women,Zara,24639.61
+1711,Reebok Fitness Model-1711,Sports,Fitness,Reebok,11761.11
+529,Yonex Indoor Model-529,Sports,Indoor,Yonex,26769.85
+1411,Samsung Smartphones Model-1411,Electronics,Smartphones,Samsung,30301.64
+1544,Levis Women Model-1544,Fashion,Women,Levis,19863.65
+646,Logitech Accessories Model-646,Electronics,Accessories,Logitech,23966.75
+1533,Cosco Indoor Model-1533,Sports,Indoor,Cosco,49645.44
+3149,Google Smartphones,###,Smartphones,Google,-500
+607,12345,Home,Kitchen,Pigeon,-500
+325,Apple Smartphones Model-325,Electronics,Smartphones,Apple,16589.76
+2245,OnePlus Smartphones,,Smartphones,OnePlus,
+1493,Godrej Furniture Model-1493,Home,Furniture,Godrej,37078.63
+497,HomeCentre Decor Model-497,Home,Decor,HomeCentre,35304.85
+3521,Reebok Fitness,123,Fitness,Reebok,FREE
+104,Godrej Furniture,Home,999,###,32270.15
+1447,Puma Men Model-1447,Fashion,Men,Puma,31106.79
+3431,12345,###,Laptops,Dell,44315.61
+2337,Levis Women,Fashion,Women,,30377.67
+1528,HP Laptops Model-1528,Electronics,Laptops,HP,30542.77
+2066,Zara Women Model-2066,Fashion,Women,Zara,16704.99
+2347,Sony Accessories,Electronics,,Sony,
+212,Nike Men Model-212,Fashion,Men,Nike,21060.61
+2335,HomeCentre Decor,Home,Decor,,
+3680,NULL,Fashion,Kids,Carter,22220.18
+2256,Ikea Furniture,Home,Furniture,Ikea,
+2505,Nike Fitness,Sports,Fitness,Nike,-500
+439,H&M Women Model-439,Fashion,Women,H&M,34556.68
+1000,Puma Men Model-1000,Fashion,Men,Puma,19757.92
+2830,Pigeon Kitchen,Home,999,Pigeon,16023.65
+875,Boat Accessories Model-875,Electronics,Accessories,Boat,8919.87
+2378,Sony Accessories,,Accessories,Sony,5609.34
+440,Godrej Furniture Model-440,Home,Furniture,Godrej,43121.21
+1818,Nike Fitness Model-1818,Sports,Fitness,Nike,39142.48
+1468,Carter Kids Model-1468,Fashion,Kids,Carter,24899.62
+1190,Samsung Smartphones Model-1190,Electronics,Smartphones,Samsung,43694.32
+476,HP Laptops Model-476,Electronics,Laptops,HP,45893.67
+1440,HomeCentre Decor Model-1440,Home,Decor,HomeCentre,31897.93
+907,Reebok Fitness Model-907,Sports,Fitness,Reebok,31006.17
+2292,Carter Kids,Fashion,Kids,,24281.13
+1658,Lenovo Laptops Model-1658,Electronics,Laptops,Lenovo,45251.88
+1272,Yonex Indoor Model-1272,Sports,Indoor,Yonex,31696.63
+136,Boat Accessories Model-136,Electronics,Accessories,Boat,36333.7
+642,Wildcraft Outdoor Model-642,Sports,Outdoor,Wildcraft,44995.49
+1666,H&M Women Model-1666,Fashion,Women,H&M,26885.18
+1163,Hopscotch Kids Model-1163,Fashion,Kids,Hopscotch,31262.94
+432,Godrej Furniture Model-432,Home,Furniture,Godrej,33395.04
+467,Apple Smartphones Model-467,Electronics,Smartphones,Apple,14720.56
+1643,Yonex Indoor Model-1643,Sports,Indoor,Yonex,37084.66
+INVALID,Nike Fitness,Sports,Fitness,Nike,10935.06
+562,H&M Women Model-562,Fashion,Women,H&M,40522.57
+2355,Godrej Furniture,Home,,Godrej,9252.75
+332,Nike Fitness Model-332,Sports,Fitness,Nike,3586.86
+1535,Reebok Fitness Model-1535,Sports,Fitness,Reebok,44430.42
+701,Sony Accessories Model-701,Electronics,Accessories,Sony,48883.46
+17,Yonex Indoor Model-17,Sports,Indoor,Yonex,41663.66
+474,Nike Fitness Model-474,Sports,Fitness,Nike,43973.16
+2224,Sony Accessories,Electronics,@@@,###,16482.11
+1405,OnePlus Smartphones Model-1405,Electronics,Smartphones,OnePlus,33688.82
+1657,H&M Women Model-1657,Fashion,Women,H&M,20796.09
+629,Godrej Furniture Model-629,Home,Furniture,Godrej,6029.52
+459,Wildcraft Outdoor Model-459,Sports,Outdoor,Wildcraft,106.14
+1608,Prestige Kitchen Model-1608,Home,Kitchen,Prestige,16444.71
+1729,Zara Women Model-1729,Fashion,Women,Zara,3010.4
+1793,Duroflex Decor Model-1793,Home,Decor,Duroflex,3771.66
+2028,Reebok Fitness Model-2028,Sports,Fitness,Reebok,40385.92
+1239,Reebok Fitness Model-1239,Sports,Fitness,Reebok,39569.49
+505,Sony Accessories Model-505,Electronics,Accessories,Sony,34743.52
+1511,Dell Laptops Model-1511,Electronics,Laptops,Dell,11388.23
+403,Quechua Outdoor Model-403,Sports,Outdoor,Quechua,30636.15
+1095,Samsung Smartphones Model-1095,Electronics,Smartphones,Samsung,22904.88
+11,Google Smartphones Model-11,Electronics,Smartphones,Google,4125.18
+82,HP Laptops Model-82,Electronics,Laptops,HP,45237.85
+1406,Asus Laptops Model-1406,Electronics,Laptops,Asus,12972.19
+765,Carter Kids Model-765,Fashion,Kids,Carter,32258.52
+2217,Lenovo Laptops,Electronics,,,24617.81
+2354,Godrej Furniture,Home,,Godrej,37825.13
+1033,Duroflex Decor Model-1033,Home,Decor,Duroflex,12482.66
+611,Levis Women Model-611,Fashion,Women,Levis,32154.6
+673,Cosco Indoor Model-673,Sports,Indoor,Cosco,11820.58
+1546,Yonex Indoor Model-1546,Sports,Indoor,Yonex,20247.49
+1723,HomeCentre Decor Model-1723,Home,Decor,HomeCentre,35494.69
+253,Yonex Indoor Model-253,Sports,Indoor,Yonex,4172.65
+246,Apple Smartphones Model-246,Electronics,Smartphones,Apple,23217.15
+2349,Yonex Indoor,Sports,,Yonex,16797.46
+1344,Nike Men Model-1344,Fashion,Men,Nike,27247.14
+1186,H&M Women Model-1186,Fashion,Women,H&M,49412.56
+1765,Sony Accessories Model-1765,Electronics,Accessories,Sony,4373.18
+1733,Prestige Kitchen Model-1733,Home,Kitchen,Prestige,26173.48
+1339,Samsung Smartphones Model-1339,Electronics,Smartphones,Samsung,39454.97
+495,Prestige Kitchen Model-495,Home,Kitchen,Prestige,8196.92
+1833,Boat Accessories Model-1833,Electronics,Accessories,Boat,6328.94
+302,Prestige Kitchen Model-302,Home,Kitchen,Prestige,43573.28
+605,Google Smartphones Model-605,Electronics,Smartphones,Google,7533.7
+25,Zara Women Model-25,Fashion,Women,Zara,37272.71
+671,Carter Kids Model-671,Fashion,Kids,Carter,24782.34
+1019,Quechua Outdoor Model-1019,Sports,Outdoor,Quechua,15150.23
+1398,Cosco Indoor Model-1398,Sports,Indoor,Cosco,9007.82
+1739,Nike Fitness Model-1739,Sports,Fitness,Nike,6241.97
+234,Nike Fitness Model-234,Sports,Fitness,Nike,22820.11
+378,Asus Laptops Model-378,Electronics,Laptops,Asus,2146.51
+745,Duroflex Decor Model-745,Home,Decor,Duroflex,22816.18
+735,Duroflex Decor Model-735,Home,Decor,Duroflex,8744.62
+165,H&M Women Model-165,Fashion,Women,H&M,41583.16
+164,Hopscotch Kids Model-164,Fashion,Kids,Hopscotch,31294.9
+711,Boat Accessories Model-711,Electronics,Accessories,Boat,17213.04
+1590,Godrej Furniture Model-1590,Home,Furniture,Godrej,5895.19
+956,Sony Accessories Model-956,Electronics,Accessories,Sony,25619.6
+1835,Yonex Indoor Model-1835,Sports,Indoor,Yonex,48911.36
+1189,Duroflex Decor Model-1189,Home,Decor,Duroflex,26891.12
+1023,Wildcraft Outdoor Model-1023,Sports,Outdoor,Wildcraft,44136.47
+1197,Apple Smartphones Model-1197,Electronics,Smartphones,Apple,38552.99
+322,Yonex Indoor Model-322,Sports,Indoor,Yonex,29627.13
+892,HomeCentre Decor Model-892,Home,Decor,HomeCentre,20404.6
+725,Hopscotch Kids,UNKNOWN_CATEGORY,Kids,INVALID_BRAND,38390.65
+750,Dell Laptops Model-750,Electronics,Laptops,Dell,8329.51
+267,Puma Men Model-267,Fashion,Men,Puma,43090.73
+733,Nike Fitness Model-733,Sports,Fitness,Nike,8306.53
+2321,Nike Fitness,Sports,Fitness,,1225.54
+1489,OnePlus Smartphones Model-1489,Electronics,Smartphones,OnePlus,6258.2
+1403,Yonex Indoor Model-1403,Sports,Indoor,Yonex,35247.03
+889,Pigeon Kitchen Model-889,Home,Kitchen,Pigeon,28300.16
+1075,Asus Laptops Model-1075,Electronics,Laptops,Asus,40180.27
+2250,HP Laptops,Electronics,,HP,
+461,Yonex Indoor Model-461,Sports,Indoor,Yonex,17681.26
+15,Prestige Kitchen Model-15,Home,Kitchen,Prestige,40168.14
+2212,,,Men,Puma,15471.41
+2243,Ikea Furniture,Home,,Ikea,8911.03
+1267,Yonex Indoor Model-1267,Sports,Indoor,Yonex,44404.41
+964,Cosco Indoor Model-964,Sports,Indoor,Cosco,20152.27
+370,Carter Kids Model-370,Fashion,Kids,Carter,28434.19
+1917,Boat Accessories Model-1917,Electronics,Accessories,Boat,9288.45
+186,Hopscotch Kids Model-186,Fashion,Kids,Hopscotch,554.85
+1145,Pigeon Kitchen Model-1145,Home,Kitchen,Pigeon,48757.06
+127,Ikea Furniture Model-127,Home,Furniture,Ikea,43424.12
+736,Ikea Furniture Model-736,Home,Furniture,Ikea,3525.6
+452,Carter Kids,Fashion,Kids,###,12554.07
+2211,Hopscotch Kids,Fashion,Kids,,
+943,Levis Women Model-943,Fashion,Women,Levis,28653.42
+77,Godrej Furniture Model-77,Home,Furniture,Godrej,21113.69
+640,HP Laptops Model-640,Electronics,Laptops,HP,38718.3
+969,Google Smartphones Model-969,Electronics,Smartphones,Google,30300.89
+928,Google Smartphones Model-928,Electronics,Smartphones,Google,37845.27
+667,Cosco Indoor Model-667,Sports,Indoor,Cosco,45434.3
+938,Quechua Outdoor Model-938,Sports,Outdoor,Quechua,30151.77
+247,Logitech Accessories Model-247,Electronics,Accessories,Logitech,2949.45
+2340,,Home,Decor,Duroflex,33918.73
+1749,Nike Men Model-1749,Fashion,Men,Nike,3066.05
+239,Wildcraft Outdoor Model-239,Sports,Outdoor,Wildcraft,19673.27
+2043,Hopscotch Kids Model-2043,Fashion,Kids,Hopscotch,20867.46
+1773,Hopscotch Kids Model-1773,Fashion,Kids,Hopscotch,35762.56
+1300,Nike Fitness Model-1300,Sports,Fitness,Nike,40509.01
+2197,,Electronics,,Lenovo,20782.6
+683,Levis Women Model-683,Fashion,Women,Levis,34048.6
+360,Wildcraft Outdoor Model-360,Sports,Outdoor,Wildcraft,11041.39
+726,Adidas Men Model-726,Fashion,Men,Adidas,36101.17
+3303,NULL,Home,Decor,HomeCentre,10428.36
+961,Hopscotch Kids Model-961,Fashion,Kids,Hopscotch,3057.46
+PROD###,Pigeon Kitchen,Home,999,Pigeon,13230.53
+1414,Godrej Furniture Model-1414,Home,Furniture,Godrej,46505.71
+2192,Apple Smartphones,,Smartphones,,19415.36
+1573,Logitech Accessories Model-1573,Electronics,Accessories,Logitech,17157.17
+3673,Godrej Furniture,Home,INVALID_SUB,Godrej,579.41
+1123,Wildcraft Outdoor Model-1123,Sports,Outdoor,Wildcraft,3221.72
+730,Quechua Outdoor Model-730,Sports,Outdoor,Quechua,37182.0
+579,Levis Women Model-579,Fashion,Women,Levis,34701.12
+1316,Quechua Outdoor Model-1316,Sports,Outdoor,Quechua,42115.13
+1336,Nike Fitness Model-1336,Sports,Fitness,Nike,13271.05
+50,Godrej Furniture Model-50,Home,Furniture,Godrej,5663.74
+2049,Pigeon Kitchen Model-2049,Home,Kitchen,Pigeon,24699.55
+1959,Reebok Fitness Model-1959,Sports,Fitness,Reebok,23432.41
+1638,Hopscotch Kids Model-1638,Fashion,Kids,Hopscotch,38634.14
+391,Lenovo Laptops Model-391,Electronics,Laptops,Lenovo,12945.12
+976,Adidas Men Model-976,Fashion,Men,Adidas,19597.01
+675,H&M Women Model-675,Fashion,Women,H&M,32726.6
+1730,Pigeon Kitchen Model-1730,Home,Kitchen,Pigeon,42941.13
+1845,Nike Fitness Model-1845,Sports,Fitness,Nike,28358.08
+1915,Boat Accessories Model-1915,Electronics,Accessories,Boat,48220.3
+163,Samsung Smartphones Model-163,Electronics,Smartphones,Samsung,119.4
+2359,,,Decor,HomeCentre,18249.38
+708,Nike Men Model-708,Fashion,Men,Nike,9051.74
+53,Apple Smartphones Model-53,Electronics,Smartphones,Apple,22510.99
+38,Logitech Accessories Model-38,Electronics,Accessories,Logitech,30671.11
+1134,Cosco Indoor Model-1134,Sports,Indoor,Cosco,35868.68
+559,Levis Women Model-559,Fashion,Women,Levis,2743.61
+2268,Quechua Outdoor,,Outdoor,Quechua,47072.78
+1448,Duroflex Decor Model-1448,Home,Decor,Duroflex,30650.66
+1430,Adidas Men Model-1430,Fashion,Men,Adidas,20486.27
+1420,Cosco Indoor Model-1420,Sports,Indoor,Cosco,26178.68
+1634,Reebok Fitness Model-1634,Sports,Fitness,Reebok,46426.54
+1811,@@@@,Electronics,Smartphones,Samsung,FREE
+1032,H&M Women Model-1032,Fashion,Women,H&M,33986.29
+951,Nike Fitness Model-951,Sports,Fitness,Nike,34725.54
+418,Nike Men Model-418,Fashion,Men,Nike,15314.5
+1273,Carter Kids Model-1273,Fashion,Kids,Carter,26662.61
+1780,Ikea Furniture Model-1780,Home,Furniture,Ikea,20580.3
+1811,Hopscotch Kids Model-1811,Fashion,Kids,Hopscotch,36683.29
+1061,Nike Men Model-1061,Fashion,Men,Nike,2295.62
+INVALID,Duroflex Decor,Home,Decor,Duroflex,-500
+33,Godrej Furniture Model-33,Home,Furniture,Godrej,23510.2
+1044,Asus Laptops Model-1044,Electronics,Laptops,Asus,16405.25
+659,Ikea Furniture Model-659,Home,Furniture,Ikea,44930.61
+1444,Boat Accessories Model-1444,Electronics,Accessories,Boat,33313.71
+664,Wildcraft Outdoor Model-664,Sports,Outdoor,Wildcraft,10496.18
+266,Samsung Smartphones Model-266,Electronics,Smartphones,Samsung,30943.19
+369,Hopscotch Kids Model-369,Fashion,Kids,Hopscotch,36524.31
+960,Carter Kids Model-960,Fashion,Kids,Carter,26535.68
+911,Apple Smartphones Model-911,Electronics,Smartphones,Apple,16003.75
+927,Zara Women Model-927,Fashion,Women,Zara,32353.28
+1810,Reebok Fitness Model-1810,Sports,Fitness,Reebok,45365.79
+2032,Hopscotch Kids Model-2032,Fashion,Kids,Hopscotch,26522.58
+628,Apple Smartphones Model-628,Electronics,Smartphones,Apple,43357.74
+1379,Cosco Indoor Model-1379,Sports,Indoor,Cosco,4885.15
+2035,Puma Men Model-2035,Fashion,Men,Puma,34246.88
+2285,HomeCentre Decor,Home,Decor,,18333.72
+2356,Nike Men,,Men,Nike,38132.71
+1256,Godrej Furniture Model-1256,Home,Furniture,Godrej,26939.08
+2228,,Home,Furniture,,43930.04
+1849,Zara Women Model-1849,Fashion,Women,Zara,30283.57
+1232,Lenovo Laptops Model-1232,Electronics,Laptops,Lenovo,34092.73
+1766,Godrej Furniture Model-1766,Home,Furniture,Godrej,21109.98
+162,Prestige Kitchen Model-162,Home,Kitchen,Prestige,15766.51
+137,Sony Accessories Model-137,Electronics,Accessories,Sony,20572.76
+1637,Duroflex Decor Model-1637,Home,Decor,Duroflex,27478.47
+1497,Dell Laptops Model-1497,Electronics,Laptops,Dell,11699.04
+931,Carter Kids Model-931,Fashion,Kids,Carter,42905.81
+ABC123,Reebok Fitness,Sports,Fitness,123,4383.29
+1786,Carter Kids,Fashion,Kids,123,-500
+881,Sony Accessories Model-881,Electronics,Accessories,Sony,3111.78
+789,Ikea Furniture Model-789,Home,Furniture,Ikea,2792.98
+2770,Reebok Fitness,123,Fitness,INVALID_BRAND,11252.97
+386,Prestige Kitchen Model-386,Home,Kitchen,Prestige,2309.74
+394,Pigeon Kitchen Model-394,Home,Kitchen,Pigeon,49883.49
+1522,Nike Fitness Model-1522,Sports,Fitness,Nike,49150.66
+554,Cosco Indoor Model-554,Sports,Indoor,Cosco,9658.6
+1470,Google Smartphones Model-1470,Electronics,Smartphones,Google,23284.34
+1174,Nike Men Model-1174,Fashion,Men,Nike,30564.33
+323,Quechua Outdoor Model-323,Sports,Outdoor,Quechua,14385.22
+2790,Adidas Men,UNKNOWN_CATEGORY,Men,Adidas,-500
+2214,,Electronics,Accessories,Sony,
+PROD###,NULL,Fashion,Kids,Carter,25037.1
+1862,Logitech Accessories Model-1862,Electronics,Accessories,Logitech,3062.39
+3164,Ikea Furniture,Home,999,###,8742.07
+1879,Adidas Men Model-1879,Fashion,Men,Adidas,7044.17
+1129,Zara Women Model-1129,Fashion,Women,Zara,32901.92
+1051,HomeCentre Decor Model-1051,Home,Decor,HomeCentre,42747.99
+354,Samsung Smartphones Model-354,Electronics,Smartphones,Samsung,472.83
+264,Reebok Fitness Model-264,Sports,Fitness,Reebok,21184.29
+503,Prestige Kitchen Model-503,Home,Kitchen,Prestige,110.23
+1580,HomeCentre Decor Model-1580,Home,Decor,HomeCentre,35500.85
+1058,Lenovo Laptops Model-1058,Electronics,Laptops,Lenovo,37901.42
+31,Sony Accessories Model-31,Electronics,Accessories,Sony,33777.78
+2224,Hopscotch Kids,Fashion,Kids,,3160.2
+1669,HomeCentre Decor Model-1669,Home,Decor,HomeCentre,34488.28
+110,Ikea Furniture Model-110,Home,Furniture,Ikea,23872.94
+1829,Hopscotch Kids Model-1829,Fashion,Kids,Hopscotch,2263.9
+767,Carter Kids Model-767,Fashion,Kids,Carter,19514.81
+1785,Reebok Fitness,Sports,@@@,Reebok,30191.51
+1242,Yonex Indoor Model-1242,Sports,Indoor,Yonex,33403.38
+INVALID,Nike Men,Fashion,Men,Nike,27871.59
+2388,Wildcraft Outdoor,Sports,,,45768.68
+1343,Nike Men Model-1343,Fashion,Men,Nike,45114.6
+1665,Google Smartphones Model-1665,Electronics,Smartphones,Google,33530.36
+336,Cosco Indoor Model-336,Sports,Indoor,Cosco,45699.48
+500,Reebok Fitness Model-500,Sports,Fitness,Reebok,38800.08
+797,Yonex Indoor Model-797,Sports,Indoor,Yonex,45393.33
+583,Puma Men Model-583,Fashion,Men,Puma,4721.12
+1334,Reebok Fitness Model-1334,Sports,Fitness,Reebok,11021.19
+1919,Yonex Indoor Model-1919,Sports,Indoor,Yonex,5319.65
+112,Nike Fitness Model-112,Sports,Fitness,Nike,10609.11
+919,Carter Kids Model-919,Fashion,Kids,Carter,25724.61
+490,Hopscotch Kids Model-490,Fashion,Kids,Hopscotch,32112.29
+1424,Lenovo Laptops Model-1424,Electronics,Laptops,Lenovo,38529.51
+2058,HomeCentre Decor Model-2058,Home,Decor,HomeCentre,10755.53
+INVALID,HomeCentre Decor,UNKNOWN_CATEGORY,Decor,HomeCentre,35347.4
+1292,Lenovo Laptops Model-1292,Electronics,Laptops,Lenovo,10184.52
+1669,HomeCentre Decor Model-1669,Home,Decor,HomeCentre,34488.28
+2384,Boat Accessories,Electronics,,,47163.89
+2239,Wildcraft Outdoor,Sports,,Wildcraft,20554.63
+1828,Puma Men Model-1828,Fashion,Men,Puma,6780.11
+3780,Godrej Furniture,Home,@@@,Godrej,FREE
+1059,HomeCentre Decor Model-1059,Home,Decor,HomeCentre,45214.86
+699,Wildcraft Outdoor,Sports,INVALID_SUB,Wildcraft,32006.1
+1216,Asus Laptops Model-1216,Electronics,Laptops,Asus,49181.27
+1437,Hopscotch Kids Model-1437,Fashion,Kids,Hopscotch,22555.58
+293,Dell Laptops Model-293,Electronics,Laptops,Dell,39614.53
+543,Yonex Indoor Model-543,Sports,Indoor,Yonex,18540.8
+1150,Asus Laptops Model-1150,Electronics,Laptops,Asus,45217.25
+749,HP Laptops Model-749,Electronics,Laptops,HP,12093.12
+1193,Prestige Kitchen Model-1193,Home,Kitchen,Prestige,15163.25
+2149,Quechua Outdoor,Sports,Outdoor,,28463.49
+2060,HomeCentre Decor Model-2060,Home,Decor,HomeCentre,7646.96
+INVALID,HP Laptops,Electronics,Laptops,###,14433.09
+842,Sony Accessories Model-842,Electronics,Accessories,Sony,46417.42
+634,Hopscotch Kids Model-634,Fashion,Kids,Hopscotch,15357.11
+930,HomeCentre Decor Model-930,Home,Decor,HomeCentre,11948.36
+95,Asus Laptops Model-95,Electronics,Laptops,Asus,18078.66
+1048,Hopscotch Kids Model-1048,Fashion,Kids,Hopscotch,42310.14
+1888,Prestige Kitchen Model-1888,Home,Kitchen,Prestige,14710.0
+1751,Puma Men Model-1751,Fashion,Men,Puma,18597.59
+957,Nike Men Model-957,Fashion,Men,Nike,21039.63
+540,Hopscotch Kids Model-540,Fashion,Kids,Hopscotch,26421.17
+1851,Nike Fitness Model-1851,Sports,Fitness,Nike,3700.82
+896,Reebok Fitness Model-896,Sports,Fitness,Reebok,10210.62
+2035,Puma Men Model-2035,Fashion,Men,Puma,34246.88
+134,Ikea Furniture Model-134,Home,Furniture,Ikea,3453.05
+423,Levis Women Model-423,Fashion,Women,Levis,14945.55
+1515,Apple Smartphones Model-1515,Electronics,Smartphones,Apple,2258.51
+779,Godrej Furniture Model-779,Home,Furniture,Godrej,16854.76
+2105,,Fashion,Women,H&M,
+264,Reebok Fitness Model-264,Sports,Fitness,Reebok,21184.29
+1815,Ikea Furniture Model-1815,Home,Furniture,Ikea,17327.39
+658,Sony Accessories Model-658,Electronics,Accessories,Sony,14550.0
+975,Yonex Indoor Model-975,Sports,Indoor,Yonex,15059.45
+324,Reebok Fitness Model-324,Sports,Fitness,Reebok,1621.42
+2007,Zara Women,Fashion,Women,###,39499.54
+1043,Boat Accessories Model-1043,Electronics,Accessories,Boat,20659.42
+2308,,Fashion,Kids,Carter,13650.61
+812,Google Smartphones Model-812,Electronics,Smartphones,Google,3518.66
+2287,Asus Laptops,Electronics,Laptops,Asus,
+1797,Levis Women Model-1797,Fashion,Women,Levis,30721.08
+1038,Pigeon Kitchen Model-1038,Home,Kitchen,Pigeon,11218.4
+3499,@@@@,Electronics,Accessories,Boat,43044.01
+747,Nike Fitness Model-747,Sports,Fitness,Nike,41854.81
+1187,Wildcraft Outdoor Model-1187,Sports,Outdoor,Wildcraft,4675.29
+735,Duroflex Decor Model-735,Home,Decor,Duroflex,8744.62
+3560,Ikea Furniture,Home,Furniture,INVALID_BRAND,42801.54
+1968,Duroflex Decor Model-1968,Home,Decor,Duroflex,21295.84
+1125,Quechua Outdoor Model-1125,Sports,Outdoor,Quechua,9302.01
+1657,H&M Women Model-1657,Fashion,Women,H&M,20796.09
+19,Pigeon Kitchen Model-19,Home,Kitchen,Pigeon,19572.52
+ABC123,Nike Fitness,Sports,Fitness,Nike,12868.73
+1283,Logitech Accessories Model-1283,Electronics,Accessories,Logitech,49755.59
+504,Ikea Furniture Model-504,Home,Furniture,Ikea,47181.68
+836,Reebok Fitness Model-836,Sports,Fitness,Reebok,4932.18
+3483,12345,Electronics,Laptops,Asus,45918.89
+1589,H&M Women Model-1589,Fashion,Women,H&M,22008.27
+1018,Asus Laptops Model-1018,Electronics,Laptops,Asus,408.97
+1452,Cosco Indoor Model-1452,Sports,Indoor,Cosco,23561.47
+225,Quechua Outdoor Model-225,Sports,Outdoor,Quechua,29877.4
+1869,Pigeon Kitchen Model-1869,Home,Kitchen,Pigeon,37911.65
+549,12345,Home,Kitchen,Pigeon,35639.87
+509,Duroflex Decor Model-509,Home,Decor,Duroflex,31002.14
+377,Pigeon Kitchen Model-377,Home,Kitchen,Pigeon,3761.71
+650,Levis Women Model-650,Fashion,Women,Levis,24463.61
+657,HomeCentre Decor Model-657,Home,Decor,HomeCentre,1849.24
+277,Pigeon Kitchen Model-277,Home,Kitchen,Pigeon,40701.79
+1977,Google Smartphones Model-1977,Electronics,Smartphones,Google,8741.65
+2004,Nike Fitness Model-2004,Sports,Fitness,Nike,30863.54
+1526,Godrej Furniture Model-1526,Home,Furniture,Godrej,41885.09
+1582,Godrej Furniture Model-1582,Home,Furniture,Godrej,45086.58
+499,Zara Women Model-499,Fashion,Women,Zara,24639.61
+2278,H&M Women,,,H&M,9770.85
+3805,Carter Kids,Fashion,INVALID_SUB,Carter,12051.25
+2014,Prestige Kitchen Model-2014,Home,Kitchen,Prestige,47081.9
+442,Hopscotch Kids Model-442,Fashion,Kids,Hopscotch,24220.55
+216,Samsung Smartphones Model-216,Electronics,Smartphones,Samsung,1624.53
+1982,Duroflex Decor Model-1982,Home,Decor,Duroflex,28106.94
+2386,,Sports,Fitness,Reebok,
+1184,Adidas Men Model-1184,Fashion,Men,Adidas,34092.92
+16,H&M Women Model-16,Fashion,Women,H&M,45656.22
+1980,Wildcraft Outdoor,Sports,INVALID_SUB,INVALID_BRAND,19277.82
+2338,Hopscotch Kids,Fashion,Kids,,34266.35
+INVALID,Quechua Outdoor,Sports,Outdoor,Quechua,1294.88
+988,Hopscotch Kids Model-988,Fashion,Kids,Hopscotch,14325.53
+1793,Duroflex Decor Model-1793,Home,Decor,Duroflex,3771.66
+1260,Wildcraft Outdoor Model-1260,Sports,Outdoor,Wildcraft,46262.93
+1877,Hopscotch Kids Model-1877,Fashion,Kids,Hopscotch,10729.13
+834,Nike Fitness Model-834,Sports,Fitness,Nike,3478.29
+584,Prestige Kitchen Model-584,Home,Kitchen,Prestige,12286.94
+454,Google Smartphones Model-454,Electronics,Smartphones,Google,3310.11
+1991,Reebok Fitness Model-1991,Sports,Fitness,Reebok,2861.77
+1715,Nike Fitness Model-1715,Sports,Fitness,Nike,10060.08
+565,Ikea Furniture Model-565,Home,Furniture,Ikea,14289.61
+1965,Godrej Furniture Model-1965,Home,Furniture,Godrej,19710.75
+1347,Prestige Kitchen Model-1347,Home,Kitchen,Prestige,39476.23
+3053,@@@@,Sports,999,Cosco,28923.49
+1848,Quechua Outdoor Model-1848,Sports,Outdoor,Quechua,43488.02
+1778,Quechua Outdoor Model-1778,Sports,Outdoor,Quechua,14825.64
+1748,Levis Women Model-1748,Fashion,Women,Levis,22761.99
+596,Hopscotch Kids Model-596,Fashion,Kids,Hopscotch,14612.17
+1738,OnePlus Smartphones Model-1738,Electronics,Smartphones,OnePlus,20249.8
+1157,OnePlus Smartphones Model-1157,Electronics,Smartphones,OnePlus,30793.0
+746,Pigeon Kitchen Model-746,Home,Kitchen,Pigeon,2901.45
+1885,Wildcraft Outdoor Model-1885,Sports,Outdoor,Wildcraft,16149.22
+28,Boat Accessories Model-28,Electronics,Accessories,Boat,45673.84
