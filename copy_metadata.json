@@ -1,6 +1,12 @@
 {
   "files": [
     {
+      "folder": "customers",
+      "file": "customers.csv.csv",
+      "type": "csv",
+      "relative_url": "Kalyan31104/retail-data/main/raw/customers/customers.csv.csv"
+    },
+    {
       "folder": "products",
       "file": "products.csv.csv",
       "type": "csv",
