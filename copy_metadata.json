@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "folder": "products",
+      "file": "products.csv.csv",
+      "type": "csv",
+      "relative_url": "Kalyan31104/retail-data/main/raw/products/products.csv.csv"
+    },
+    {
+      "folder": "orders",
+      "file": "orders.csv.csv",
+      "type": "csv",
+      "relative_url": "Kalyan31104/retail-data/main/raw/orders/orders.csv.csv"
+    },
+    {
+      "folder": "exchange_rates",
+      "file": "exchange_rates.json",
+      "type": "json",
+      "relative_url": "Kalyan31104/retail-data/main/raw/exchange_rates/exchange_rates.json"
+    }
+  ]
+}
