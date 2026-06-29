@@ -1,0 +1,471 @@
+{
+  "project_name": "retail_analytics",
+
+  "storage_config": {
+    "storage_account": "adfvrkals",
+    "container": "retail-data"
+  },
+
+  "framework_config": {
+
+    "audit_enabled": true,
+
+    "target_paths": {
+      "bronze": "bronze",
+      "silver": "silver",
+      "gold": "gold",
+      "audit": "audit"
+    },
+
+    "audit_config": {
+      "audit_log_path": "audit/audit_log",
+      "reject_records_path": "audit/rejected_records"
+    },
+
+    "audit_columns": {
+      "pipeline_run_id": "_AdfPipelineRunId",
+      "ingestion_timestamp": "_IngestionTimestamp",
+      "processed_timestamp": "_ProcessedTimestamp",
+      "is_rejected": "_IsRejected"
+    },
+
+    "silver_config": {
+      "remove_duplicates": true,
+      "validate_primary_key": true,
+      "remove_invalid_records": true,
+      "reject_null_mandatory_columns": true,
+      "trim_string_columns": true,
+      "capture_rejected_records": true,
+      "standardize_dates": true,
+      "apply_business_rules": true,
+      "default_null_strategy": "fill_non_mandatory"
+    }
+  },
+"publish_config": {
+  "target": "azure_sql",
+  "default_schema": "dbo",
+  "datasets": [
+    {
+      "dataset_name": "customers",
+      "table_name": "dim_customers",
+      "enabled": true,
+      "write_mode": "overwrite"
+    },
+    {
+      "dataset_name": "products",
+      "table_name": "dim_products",
+      "enabled": true,
+      "write_mode": "overwrite"
+    },
+    {
+      "dataset_name": "exchange_rates",
+      "table_name": "dim_exchange_rates",
+      "enabled": true,
+      "write_mode": "overwrite"
+    },
+    {
+      "dataset_name": "orders",
+      "table_name": "fact_sales",
+      "enabled": true,
+      "write_mode": "overwrite"
+    }
+  ]
+},
+
+  "datasets": [
+{
+  "active": true,
+
+  "execution_order": 1,
+
+  "dataset_name": "customers",
+
+  "source_type": "sql",
+	
+  "source_path": "raw/customers/",
+
+  "file_format": "csv",
+
+  "table_name": "Customers",
+
+ "primary_key": [
+  "CustomerID"
+],
+
+  "load_type": "incremental",
+
+  "watermark_column": "LastUpdated",
+  "partition_columns": [],
+
+  "flatten_required": false,
+
+  "target_tables": {
+    "bronze": "bronze_customers",
+    "silver": "silver_customers",
+    "gold": "dim_customers"
+  },
+
+  "gold_config": {
+    "table_type": "dimension",
+    "surrogate_key": "customer_sk"
+  },
+
+  "scd_config": {
+    "enabled": true,
+    "type": 2,
+    "tracked_columns": [
+      "City",
+      "State"
+    ]
+  },
+
+"validation_rules": {
+
+  "mandatory_columns": [
+    "CustomerID",
+    "LastUpdated"
+  ],
+
+  "date_columns": [],
+
+  "timestamp_columns": [
+    "LastUpdated"
+  ],
+
+  "numeric_columns": [
+    "CustomerID"
+  ],
+
+  "email_columns": [
+    "Email"
+  ]
+
+},
+"business_rules": {
+
+  "FirstName": {
+    "regex": "^[A-Za-z ]+$"
+  },
+
+  "LastName": {
+    "regex": "^[A-Za-z ]+$"
+  },
+
+  "Email": {
+    "regex": "^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$"
+  },
+
+  "Phone": {
+    "regex": "^[0-9]{10}$"
+  },
+
+  "City": {
+    "regex": "^[A-Za-z ]+$"
+  },
+
+  "State": {
+    "regex": "^[A-Za-z ]+$"
+  }
+},
+
+  "schema": [
+    {"column_name":"CustomerID","data_type":"integer","nullable":false},
+    {"column_name":"FirstName","data_type":"string","nullable":true},
+    {"column_name":"LastName","data_type":"string","nullable":true},
+    {"column_name":"Email","data_type":"string","nullable":true},
+    {"column_name":"Phone","data_type":"string","nullable":true},
+    {"column_name":"City","data_type":"string","nullable":true},
+    {"column_name":"State","data_type":"string","nullable":true},
+    {"column_name":"LastUpdated","data_type":"timestamp","nullable":false}
+  ]
+},
+{
+  "active": true,
+
+  "execution_order": 2,
+
+  "dataset_name": "products",
+
+  "source_type": "csv",
+
+  "source_path": "raw/products/",
+
+  "file_format": "csv",
+
+"primary_key": [
+  "ProductID"
+],
+
+  "load_type": "full",
+
+  "watermark_column": null,
+  "partition_columns": [
+],
+
+  "flatten_required": false,
+
+  "target_tables": {
+    "bronze": "bronze_products",
+    "silver": "silver_products",
+    "gold": "dim_products"
+  },
+
+  "gold_config": {
+    "table_type": "dimension",
+    "surrogate_key": "product_sk"
+  },
+
+  "scd_config": {
+    "enabled": false,
+    "type": 0,
+    "tracked_columns": []
+  },
+
+"validation_rules": {
+
+  "mandatory_columns": [
+    "ProductID",
+    "ProductName",
+    "Category"
+  ],
+
+  "date_columns": [],
+
+  "numeric_columns": [
+    "ProductID",
+    "CostPrice"
+  ],
+
+  "positive_value_columns": [
+    "CostPrice"
+  ]
+
+},
+"business_rules": {
+
+  "ProductName": {
+    "regex": "^[A-Za-z0-9 &()_-]+$"
+  },
+
+  "Category": {
+    "regex": "^[A-Za-z ]+$"
+  },
+
+  "SubCategory": {
+    "regex": "^[A-Za-z ]+$"
+  },
+
+  "Brand": {
+    "regex": "^[A-Za-z0-9 ]+$"
+  },
+
+  "CostPrice": {
+    "min_value": 0
+  }
+},
+
+  "schema": [
+    {"column_name":"ProductID","data_type":"integer","nullable":false},
+    {"column_name":"ProductName","data_type":"string","nullable":false},
+    {"column_name":"Category","data_type":"string","nullable":true},
+    {"column_name":"SubCategory","data_type":"string","nullable":true},
+    {"column_name":"Brand","data_type":"string","nullable":true},
+    {"column_name":"CostPrice","data_type":"double","nullable":true}
+  ]
+},
+{
+  "active": true,
+
+  "execution_order": 3,
+
+  "dataset_name": "exchange_rates",
+
+  "source_type": "api",
+
+  "source_path": "raw/exchange_rates/",
+
+  "file_format": "json",
+
+  "primary_key": [
+    "base_currency",
+    "target_currency",
+    "rate_date"
+  ],
+
+  "load_type": "full",
+
+  "watermark_column": null,
+  "partition_columns": [
+],
+
+  "flatten_required": true,
+
+  "target_tables": {
+    "bronze": "bronze_exchange_rates",
+    "silver": "silver_exchange_rates",
+    "gold": "dim_exchange_rates"
+  },
+
+  "gold_config": {
+    "table_type": "dimension"
+  },
+
+  "scd_config": {
+    "enabled": false,
+    "type": 0,
+    "tracked_columns": []
+  },
+
+"validation_rules": {
+
+  "mandatory_columns": [
+    "base_currency",
+    "target_currency",
+    "rate_date"
+  ],
+
+  "date_columns": [
+    "rate_date"
+  ],
+
+  "numeric_columns": [
+    "exchange_rate"
+  ],
+
+  "positive_value_columns": [
+    "exchange_rate"
+  ]
+
+},
+"business_rules": {
+
+  "base_currency": {
+    "regex": "^[A-Z]{3}$"
+  },
+
+  "target_currency": {
+    "regex": "^[A-Z]{3}$"
+  },
+
+  "exchange_rate": {
+    "min_value": 0
+  }
+},
+
+  "schema": [
+    {"column_name":"base_currency","data_type":"string","nullable":false},
+    {"column_name":"target_currency","data_type":"string","nullable":false},
+    {"column_name":"exchange_rate","data_type":"double","nullable":true},
+    {"column_name":"rate_date","data_type":"date","nullable":false}
+  ]
+},
+{
+  "active": true,
+
+  "execution_order": 4,
+
+  "dataset_name": "orders",
+
+  "source_type": "csv",
+
+  "source_path": "raw/orders/",
+
+  "file_format": "csv",
+
+ "primary_key": [
+  "OrderID"
+],
+
+  "relationships": [
+    {
+      "column":"CustomerID",
+      "reference_dataset":"customers",
+      "reference_column":"CustomerID"
+    },
+    {
+      "column":"ProductID",
+      "reference_dataset":"products",
+      "reference_column":"ProductID"
+    }
+  ],
+
+  "load_type": "incremental",
+
+  "watermark_column": "OrderDate",
+  "partition_columns": [
+    "OrderDate"
+],
+
+  "flatten_required": false,
+
+  "target_tables": {
+    "bronze": "bronze_orders",
+    "silver": "silver_orders",
+    "gold": "fact_sales"
+  },
+
+  "gold_config": {
+    "table_type": "fact",
+    "fact_name": "sales"
+  },
+
+  "scd_config": {
+    "enabled": false,
+    "type": 0,
+    "tracked_columns": []
+  },
+
+"validation_rules": {
+
+  "mandatory_columns": [
+    "OrderID",
+    "CustomerID",
+    "ProductID",
+    "OrderDate"
+  ],
+
+  "date_columns": [
+    "OrderDate"
+  ],
+
+  "numeric_columns": [
+    "OrderID",
+    "CustomerID",
+    "ProductID",
+    "Quantity",
+    "UnitPrice"
+  ],
+
+  "positive_value_columns": [
+    "Quantity",
+    "UnitPrice"
+  ]
+
+},
+"business_rules": {
+
+  "Quantity": {
+    "min_value": 1
+  },
+
+  "UnitPrice": {
+    "min_value": 0
+  },
+
+  "StoreCode": {
+    "regex": "^[A-Za-z0-9_-]+$"
+  }
+},
+
+  "schema": [
+    {"column_name":"OrderID","data_type":"integer","nullable":false},
+    {"column_name":"CustomerID","data_type":"integer","nullable":false},
+    {"column_name":"ProductID","data_type":"integer","nullable":false},
+    {"column_name":"OrderDate","data_type":"date","nullable":false},
+    {"column_name":"Quantity","data_type":"integer","nullable":true},
+    {"column_name":"UnitPrice","data_type":"double","nullable":true},
+    {"column_name":"StoreCode","data_type":"string","nullable":true}
+  ]
+}
+]
+}
