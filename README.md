@@ -286,9 +286,8 @@ Enterprise-Retail-Analytics/
 │   ├── orders.csv
 │   └── exchange_rates.json
 │
-├── metadata/
-│   └── metadata_config_retail.json
-    ├── Ccopy_metadata.json
+├── metadata_config_retail.json
+├── Ccopy_metadata.json
 
 │
 ├── notebooks/
