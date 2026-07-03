@@ -74,35 +74,16 @@ cd <repository-name>
 
 ## 📸 Screenshots
 
-Place the following screenshots in an `images/` folder and keep these names so the README renders correctly.
-
-```text
-images/
-├── HLD.png
-├── LLD.png
-├── Azure_To_ADLS.png
-├── Github_To_ADLS.png
-├── Bronze_Pipeline.png
-├── Silver_Pipeline.png
-├── Gold_Pipeline.png
-├── Gold_To_SQL.png
-├── Master_Pipeline.png
-└── Dashboard.png
-```
-
-Then embed them in the corresponding sections, for example:
-
-```markdown
 ![High Level Design](images/HLD.png)
 
-![Bronze Pipeline](images/Bronze_Pipeline.png)
+![Bronze Pipeline](PipeLines/Bronze_Layer.png)
 
-![Silver Pipeline](images/Silver_Pipeline.png)
+![Silver Pipeline](PipeLines/Silver_Pipeline.png)
 
-![Gold Pipeline](images/Gold_Pipeline.png)
+![Gold Pipeline](PipeLines/Gold_Pipeline.png)
 
 ![Dashboard](images/Dashboard.png)
-```
+
 
 ---
 
