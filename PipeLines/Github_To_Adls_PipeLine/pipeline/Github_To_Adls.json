@@ -1,0 +1,220 @@
+{
+    "name": "Github_To_Adls",
+    "properties": {
+        "activities": [
+            {
+                "name": "Lookup_Metadata",
+                "type": "Lookup",
+                "state": "Inactive",
+                "onInactiveMarkAs": "Succeeded",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "HttpReadSettings",
+                            "requestMethod": "GET"
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "dataset": {
+                        "referenceName": "github_metadata",
+                        "type": "DatasetReference",
+                        "parameters": {
+                            "relative_url": "Kalyan31104/retail-data/main/copy_metadata.json"
+                        }
+                    },
+                    "firstRowOnly": false
+                }
+            },
+            {
+                "name": "ForEach1",
+                "type": "ForEach",
+                "state": "Inactive",
+                "onInactiveMarkAs": "Succeeded",
+                "dependsOn": [
+                    {
+                        "activity": "Lookup_Metadata",
+                        "dependencyConditions": [
+                            "Completed"
+                        ]
+                    }
+                ],
+                "userProperties": [],
+                "typeProperties": {
+                    "items": {
+                        "value": "@activity('Lookup_Metadata').output.value[0].files",
+                        "type": "Expression"
+                    },
+                    "activities": [
+                        {
+                            "name": "If Condition1",
+                            "type": "IfCondition",
+                            "dependsOn": [],
+                            "userProperties": [],
+                            "typeProperties": {
+                                "expression": {
+                                    "value": "@equals(item().type,'csv')",
+                                    "type": "Expression"
+                                },
+                                "ifFalseActivities": [
+                                    {
+                                        "name": "Copy data_JSON",
+                                        "type": "Copy",
+                                        "dependsOn": [],
+                                        "policy": {
+                                            "timeout": "0.12:00:00",
+                                            "retry": 0,
+                                            "retryIntervalInSeconds": 30,
+                                            "secureOutput": false,
+                                            "secureInput": false
+                                        },
+                                        "userProperties": [],
+                                        "typeProperties": {
+                                            "source": {
+                                                "type": "JsonSource",
+                                                "storeSettings": {
+                                                    "type": "HttpReadSettings",
+                                                    "requestMethod": "GET"
+                                                },
+                                                "formatSettings": {
+                                                    "type": "JsonReadSettings"
+                                                }
+                                            },
+                                            "sink": {
+                                                "type": "JsonSink",
+                                                "storeSettings": {
+                                                    "type": "AzureBlobFSWriteSettings"
+                                                },
+                                                "formatSettings": {
+                                                    "type": "JsonWriteSettings"
+                                                }
+                                            },
+                                            "enableStaging": false
+                                        },
+                                        "inputs": [
+                                            {
+                                                "referenceName": "retail_exchange_http",
+                                                "type": "DatasetReference",
+                                                "parameters": {
+                                                    "relative_url": {
+                                                        "value": "@item().relative_url",
+                                                        "type": "Expression"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "outputs": [
+                                            {
+                                                "referenceName": "retail_exchnage_rates",
+                                                "type": "DatasetReference",
+                                                "parameters": {
+                                                    "folder_name": {
+                                                        "value": "@item().folder",
+                                                        "type": "Expression"
+                                                    },
+                                                    "file_name": {
+                                                        "value": "@item().file",
+                                                        "type": "Expression"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "ifTrueActivities": [
+                                    {
+                                        "name": "Copy_CSV",
+                                        "type": "Copy",
+                                        "dependsOn": [],
+                                        "policy": {
+                                            "timeout": "0.12:00:00",
+                                            "retry": 0,
+                                            "retryIntervalInSeconds": 30,
+                                            "secureOutput": false,
+                                            "secureInput": false
+                                        },
+                                        "userProperties": [],
+                                        "typeProperties": {
+                                            "source": {
+                                                "type": "DelimitedTextSource",
+                                                "storeSettings": {
+                                                    "type": "HttpReadSettings",
+                                                    "requestMethod": "GET"
+                                                },
+                                                "formatSettings": {
+                                                    "type": "DelimitedTextReadSettings"
+                                                }
+                                            },
+                                            "sink": {
+                                                "type": "DelimitedTextSink",
+                                                "storeSettings": {
+                                                    "type": "AzureBlobFSWriteSettings"
+                                                },
+                                                "formatSettings": {
+                                                    "type": "DelimitedTextWriteSettings",
+                                                    "quoteAllText": true,
+                                                    "fileExtension": ".txt"
+                                                }
+                                            },
+                                            "enableStaging": false,
+                                            "translator": {
+                                                "type": "TabularTranslator",
+                                                "typeConversion": true,
+                                                "typeConversionSettings": {
+                                                    "allowDataTruncation": true,
+                                                    "treatBooleanAsNumber": false
+                                                }
+                                            }
+                                        },
+                                        "inputs": [
+                                            {
+                                                "referenceName": "retail_data_http",
+                                                "type": "DatasetReference",
+                                                "parameters": {
+                                                    "relative_url": {
+                                                        "value": "@item().relative_url",
+                                                        "type": "Expression"
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "outputs": [
+                                            {
+                                                "referenceName": "retail_data_sink",
+                                                "type": "DatasetReference",
+                                                "parameters": {
+                                                    "folder_name": {
+                                                        "value": "@item().folder",
+                                                        "type": "Expression"
+                                                    },
+                                                    "file_name": {
+                                                        "value": "@item().file",
+                                                        "type": "Expression"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2026-07-02T06:31:50Z"
+    },
+    "type": "Microsoft.DataFactory/factories/pipelines"
+}

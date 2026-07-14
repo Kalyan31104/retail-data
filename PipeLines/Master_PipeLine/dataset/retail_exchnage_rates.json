@@ -1,0 +1,35 @@
+{
+    "name": "retail_exchnage_rates",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureDataLakeStorage1",
+            "type": "LinkedServiceReference"
+        },
+        "parameters": {
+            "folder_name": {
+                "type": "string"
+            },
+            "file_name": {
+                "type": "string"
+            }
+        },
+        "annotations": [],
+        "type": "Json",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "fileName": {
+                    "value": "@dataset().file_name",
+                    "type": "Expression"
+                },
+                "folderPath": {
+                    "value": "@concat('raw/',dataset().folder_name)",
+                    "type": "Expression"
+                },
+                "fileSystem": "retail-data"
+            }
+        },
+        "schema": {}
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "AzureSqlCustomers",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureSql_LS",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "AzureSqlTable",
+        "schema": [
+            {
+                "name": "CustomerID",
+                "type": "nvarchar"
+            },
+            {
+                "name": "FirstName",
+                "type": "nvarchar"
+            },
+            {
+                "name": "LastName",
+                "type": "nvarchar"
+            },
+            {
+                "name": "Email",
+                "type": "nvarchar"
+            },
+            {
+                "name": "Phone",
+                "type": "bigint",
+                "precision": 19
+            },
+            {
+                "name": "City",
+                "type": "nvarchar"
+            },
+            {
+                "name": "State",
+                "type": "nvarchar"
+            },
+            {
+                "name": "LastUpdated",
+                "type": "nvarchar"
+            }
+        ],
+        "typeProperties": {
+            "schema": "dbo",
+            "table": "customers.csv"
+        }
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

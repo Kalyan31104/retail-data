@@ -1,0 +1,312 @@
+{
+    "name": "adls_metadata",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AzureDataLakeStorage1",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "Json",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "fileName": "metadata_config_retail.json",
+                "folderPath": "config",
+                "fileSystem": "retail-data"
+            }
+        },
+        "schema": {
+            "type": "object",
+            "properties": {
+                "project_name": {
+                    "type": "string"
+                },
+                "storage_config": {
+                    "type": "object",
+                    "properties": {
+                        "storage_account": {
+                            "type": "string"
+                        },
+                        "container": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "framework_config": {
+                    "type": "object",
+                    "properties": {
+                        "audit_enabled": {
+                            "type": "boolean"
+                        },
+                        "target_paths": {
+                            "type": "object",
+                            "properties": {
+                                "bronze": {
+                                    "type": "string"
+                                },
+                                "silver": {
+                                    "type": "string"
+                                },
+                                "gold": {
+                                    "type": "string"
+                                },
+                                "audit": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "audit_config": {
+                            "type": "object",
+                            "properties": {
+                                "audit_log_path": {
+                                    "type": "string"
+                                },
+                                "reject_records_path": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "audit_columns": {
+                            "type": "object",
+                            "properties": {
+                                "pipeline_run_id": {
+                                    "type": "string"
+                                },
+                                "ingestion_timestamp": {
+                                    "type": "string"
+                                },
+                                "processed_timestamp": {
+                                    "type": "string"
+                                },
+                                "is_rejected": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "silver_config": {
+                            "type": "object",
+                            "properties": {
+                                "remove_duplicates": {
+                                    "type": "boolean"
+                                },
+                                "validate_primary_key": {
+                                    "type": "boolean"
+                                },
+                                "remove_invalid_records": {
+                                    "type": "boolean"
+                                },
+                                "reject_null_mandatory_columns": {
+                                    "type": "boolean"
+                                },
+                                "trim_string_columns": {
+                                    "type": "boolean"
+                                },
+                                "capture_rejected_records": {
+                                    "type": "boolean"
+                                },
+                                "standardize_dates": {
+                                    "type": "boolean"
+                                },
+                                "apply_business_rules": {
+                                    "type": "boolean"
+                                },
+                                "default_null_strategy": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                },
+                "datasets": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "active": {
+                                "type": "boolean"
+                            },
+                            "execution_order": {
+                                "type": "integer"
+                            },
+                            "dataset_name": {
+                                "type": "string"
+                            },
+                            "source_type": {
+                                "type": "string"
+                            },
+                            "source_path": {
+                                "type": "string"
+                            },
+                            "file_format": {
+                                "type": "string"
+                            },
+                            "table_name": {
+                                "type": "string"
+                            },
+                            "primary_key": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "load_type": {
+                                "type": "string"
+                            },
+                            "watermark_column": {
+                                "type": "string"
+                            },
+                            "flatten_required": {
+                                "type": "boolean"
+                            },
+                            "target_tables": {
+                                "type": "object",
+                                "properties": {
+                                    "bronze": {
+                                        "type": "string"
+                                    },
+                                    "silver": {
+                                        "type": "string"
+                                    },
+                                    "gold": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "gold_config": {
+                                "type": "object",
+                                "properties": {
+                                    "table_type": {
+                                        "type": "string"
+                                    },
+                                    "surrogate_key": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "scd_config": {
+                                "type": "object",
+                                "properties": {
+                                    "enabled": {
+                                        "type": "boolean"
+                                    },
+                                    "type": {
+                                        "type": "integer"
+                                    },
+                                    "tracked_columns": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "validation_rules": {
+                                "type": "object",
+                                "properties": {
+                                    "mandatory_columns": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "date_columns": {
+                                        "type": "array"
+                                    },
+                                    "timestamp_columns": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "numeric_columns": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "email_columns": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "business_rules": {
+                                "type": "object",
+                                "properties": {
+                                    "FirstName": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "LastName": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "Email": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "Phone": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "City": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "State": {
+                                        "type": "object",
+                                        "properties": {
+                                            "regex": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "column_name": {
+                                            "type": "string"
+                                        },
+                                        "data_type": {
+                                            "type": "string"
+                                        },
+                                        "nullable": {
+                                            "type": "boolean"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "type": "Microsoft.DataFactory/factories/datasets"
+}

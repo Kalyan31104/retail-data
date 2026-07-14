@@ -1,0 +1,6 @@
+selected resource name:		Azure_To_Adls
+selected resource type:		pipeline
+factory name:			ADF-VRK
+factory location:		eastus
+subscription id:		4116346b-5ded-4f3b-8387-f8d055802adc
+time of download (UTC):		Tue, 14 Jul 2026 07:02:52 GMT

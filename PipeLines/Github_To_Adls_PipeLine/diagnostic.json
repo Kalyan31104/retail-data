@@ -1,0 +1,23 @@
+{
+    "now": "2026-07-14T07:03:03.729Z",
+    "perfNow": 42813.09999999404,
+    "diagnosticCorrelation": "4b9a6dda-ff16-42c9-bc02-2777fa903d4e",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.061626.0",
+        "environmentType": 3,
+        "resourceName": "ADF-VRK",
+        "resourceRegion": "eastus",
+        "resourceGroup": "rg-azuser7252_mml.local-YK1EH",
+        "subscriptionId": "4116346b-5ded-4f3b-8387-f8d055802adc",
+        "sessionId": "tAFIU4reGrOzK/bkGazMt/",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "acd7e6b8-9dcf-4e5f-b0a9-507c5aaa7a48"
+    },
+    "additionalInfo": {
+        "selectedResource": "Github_To_Adls",
+        "selectedResourceType": "pipeline"
+    }
+}
