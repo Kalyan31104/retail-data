@@ -53,8 +53,8 @@
 # ⚡ Quick Start
 
 ```bash
-git clone https://github.com/Kalyan31104/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Kalyan31104/retail-data.git
+cd retail-data
 ```
 
 ### Deployment Steps
