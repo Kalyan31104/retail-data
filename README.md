@@ -1443,10 +1443,10 @@ After successful execution, the latest watermark value is updated for the next i
 
 ## Screenshot
 
-> Add your Bronze Pipeline screenshot here.
+
 
 ```markdown
-![Bronze Pipeline](images/Bronze_Pipeline.png)
+![Bronze Pipeline](images/Bronze_Layer.png)
 ```
 
 ---
@@ -1627,7 +1627,7 @@ Additional audit columns added:
 ## Screenshot
 
 ```markdown
-![Silver Pipeline](images/Silver_Pipeline.png)
+![Silver Pipeline](images/Silver_Layer.png)
 ```
 
 ---
@@ -1750,7 +1750,7 @@ Whenever a tracked attribute changes, a new historical version is created while 
 ## Screenshot
 
 ```markdown
-![Gold Pipeline](images/Gold_Pipeline.png)
+![Gold Pipeline](images/Gold_Layer.png)
 ```
 
 ---
@@ -1852,9 +1852,9 @@ Follow the steps below to deploy and execute the project.
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/Enterprise-Retail-Analytics.git
+git clone https://github.com/kalyan31104/retail-data.git
 
-cd Enterprise-Retail-Analytics
+cd retail-data
 ```
 
 ---
