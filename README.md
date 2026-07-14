@@ -1443,11 +1443,8 @@ After successful execution, the latest watermark value is updated for the next i
 
 ## Screenshot
 
-
-
-```markdown
 ![Bronze Pipeline](PipeLines/Bronze_Layer.png)
-```
+
 
 ---
 
@@ -1626,9 +1623,9 @@ Additional audit columns added:
 
 ## Screenshot
 
-```markdown
+
 ![Silver Pipeline](PipeLines/Silver_Layer.png)
-```
+
 
 ---
 
@@ -1749,9 +1746,9 @@ Whenever a tracked attribute changes, a new historical version is created while 
 
 ## Screenshot
 
-```markdown
-![Gold Pipeline]PipeLines/Gold_Layer.png)
-```
+
+![Gold Pipeline](PipeLines/Gold_Layer.png)
+
 
 ---
 
@@ -1804,9 +1801,9 @@ Power BI
 
 ## Screenshot
 
-```markdown
+
 ![Gold To SQL](PipeLines/Gold_To_SQL.png)
-```
+
 
 ---
 
@@ -1837,9 +1834,8 @@ Azure SQL Database
 
 ## Screenshot
 
-```markdown
 ![Dashboard](images/Dashboard.png)
-```
+
 
 ---
 
