@@ -278,7 +278,7 @@ The project is built using Microsoft Azure cloud services along with open-source
 # 📂 Repository Structure
 
 ```
-Enterprise-Retail-Analytics/
+retail-data/
 │
 ├── raw/
 │   ├── customers.csv
@@ -747,39 +747,16 @@ It contains:
 
 metadata_config_retail.json
 
-│
+├── project_config
 
-├── project_name
+├── publish_config
 
 ├── storage_config
 
 ├── framework_config
 
-│
+├── dataset_config
 
-├── target_paths
-
-├── audit_columns
-
-├── audit_configuration
-
-│
-
-├── datasets
-
-│ ├── customers
-
-│ ├── products
-
-│ ├── orders
-
-│ └── exchange_rates
-
-│
-
-├── publish_config
-
-└── validation_rules
 
 ```
 
