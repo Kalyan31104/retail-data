@@ -1624,7 +1624,7 @@ Additional audit columns added:
 ## Screenshot
 
 
-![Silver Pipeline](PipeLines/Silver_PipeLine.png)
+![Silver Pipeline](PipeLines/Silver_Pipeline.png)
 
 
 ---
@@ -1747,7 +1747,7 @@ Whenever a tracked attribute changes, a new historical version is created while 
 ## Screenshot
 
 
-![Gold Pipeline](PipeLines/Gold_PipeLine.png)
+![Gold Pipeline](PipeLines/Gold_Pipeline.png)
 
 
 ---
