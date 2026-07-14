@@ -1624,7 +1624,7 @@ Additional audit columns added:
 ## Screenshot
 
 
-![Silver Pipeline](PipeLines/Silver_Layer.png)
+![Silver Pipeline](PipeLines/Silver_PipeLine.png)
 
 
 ---
@@ -1747,7 +1747,7 @@ Whenever a tracked attribute changes, a new historical version is created while 
 ## Screenshot
 
 
-![Gold Pipeline](PipeLines/Gold_Layer.png)
+![Gold Pipeline](PipeLines/Gold_PipeLine.png)
 
 
 ---
@@ -1802,7 +1802,7 @@ Power BI
 ## Screenshot
 
 
-![Gold To SQL](PipeLines/Gold_To_SQL.png)
+![Gold To SQL](PipeLines/Gold_To_Sql.png)
 
 
 ---
